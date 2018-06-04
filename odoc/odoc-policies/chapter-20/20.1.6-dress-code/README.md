@@ -5,17 +5,19 @@
 | **Supersedes:** | 12/12/2005 |
 | **Applicability:** | Classified \(where not in conflict with collective bargaining  agreements\), management service, executive service,  temporary employees, volunteers, contractors, and any persons employed by private or public sector agencies  who are serving under department sanction special  assignment to provide services and/or support  to department programs within any DOC facility. |
 | **Directives / Cross-Reference:** | Respiratory Protection – 20.6.9 |
-| **Attachments:** | [**Attachment A – Uniform Checklist and Standards**](20.1.6-attachment.md) |
+| **Attachments:** | [**Attachment A – Uniform Checklist and Standards**](20.1.6-uniform-checklist-and-standards.md) |
 
 ## I. PURPOSE
 
-To ensure the attire and personal and professional appearance of all department employees, volunteers, interns and contractors are appropriate to the requirements of their job duties and to related factors of safety, sanitation, security and professional public image.
+To ensure the attire and personal and professional appearance of all department employees, volunteers, interns and contractors are appropriate to the requirements of their job duties and to related factors of safety, sanitation, security and professional public image.
 
 ## II. POLICY
 
-Every department employee shall be well groomed and dress in a professional manner appropriate to the employee’s work assignment.
+Every department employee shall be well groomed and dress in a professional manner appropriate to the employee’s work assignment.
 
-### A. All department employees, both uniformed and non-uniformed, are subject to the following requirements:
+### A. All department employees, both uniformed and non-uniformed, are subject to the
+
+following requirements:
 
 1. Short, neatly trimmed sideburns, mustaches and beards are permissible \(unless the employee volunteer, intern or contractor is required to use a respirator and the employee’s facial hair interferes with compliance of OSHA standards outlined in the DOC policy 20.6.9, Respiratory Protection\). 
 2. Clothing constructed with blue denim or resembling inmate clothing is not permitted attire for any employee, volunteer, intern or contractor within the department where inmates are housed. 
@@ -47,37 +49,36 @@ Every department employee shall be well groomed and dress in a professional mann
 5. Any uniformed employee who transfers to another facility within the same section will transfer with his/her standard uniform issue; 
 6. Uniformed employees will be required to sign a receipt for uniforms issued. The section manager or designee will retain the receipt on file.
 
-### E. All uniformed employees will adhere to the following specific regulations for personal grooming:
+### E. All uniformed employees will adhere to the following specific regulations for personal
 
-1. Visible jewelry will be limited to the following:  
-  
-   - Wrist watch  
-   - No more than two rings \(wedding set counts as one\)  
-   - Medical purpose bracelet  
-   - Necklace may be worn inside the shirt so it is not visible for uniform    employees.  
-   - Two post earrings per ear \(must be non-dangling and no more than ¼”    diameter\)  
-   - No tongue-stud or other visible body piercings are allowed, other than    ears.   
+grooming:
 
+1. Visible jewelry will be limited to the following:
 
-   > \(Covering visible body piercings with band-aids is not considered    being in compliance with this policy.\)
+* Wrist watch
+* No more than two rings \(wedding set counts as one\)
+* Medical purpose bracelet
+* Necklace may be worn inside the shirt so it is not visible for uniform employees.
+* Two post earrings per ear \(must be non-dangling and no more than ¼” diameter\)
+* No tongue-stud or other visible body piercings are allowed, other than ears.
 
-  
+> \(Covering visible body piercings with band-aids is not considered being in compliance with this policy.\)
 
-2. **Hair color:** Dyed, tinted or bleached hair must be within one of the naturally    occurring color ranges and professional in appearance. Naturally occurring    color range does not include unique hair colors such as pink, blue, green, or    purple. Designs, numbers or initials cut or sculpted into the hair are prohibited. 
-3. Hair will not extend below the bottom of the shirt collar or below the external    opening of the ear. 
-4. Hair will not be styled or combed forward any lower on the forehead than the    employee’s eyebrow, measured from the high point of the eyebrow. 
-5. Hair will be neatly trimmed and shaped and of a length that permits wearing of    the uniform cap or other facility-issued emergency equipment. 
-6. Wigs or hairpieces, if worn, must conform to the above regulations.
+1. **Hair color:** Dyed, tinted or bleached hair must be within one of the naturally occurring color ranges and professional in appearance. Naturally occurring color range does not include unique hair colors such as pink, blue, green, or purple. Designs, numbers or initials cut or sculpted into the hair are prohibited.
+2. Hair will not extend below the bottom of the shirt collar or below the external opening of the ear.
+3. Hair will not be styled or combed forward any lower on the forehead than the employee’s eyebrow, measured from the high point of the eyebrow.
+4. Hair will be neatly trimmed and shaped and of a length that permits wearing of the uniform cap or other facility-issued emergency equipment.
+5. Wigs or hairpieces, if worn, must conform to the above regulations.
 
 ### F. Special requirements:
 
-Department-issued orange vests will be worn by all employees, volunteers, interns and contractors when entering an area where there is supervision of a large gathering of inmates \(i.e., recreation yard\), where the primary backup is gun control \(i.e., the towers\) or while working on any roof area. Special-issued orange clothing will:
+Department-issued orange vests will be worn by all employees, volunteers, interns and contractors when entering an area where there is supervision of a large gathering of inmates \(i.e., recreation yard\), where the primary backup is gun control \(i.e., the towers\) or while working on any roof area. Special-issued orange clothing will:
 
-1. Be issued by and returned to the officer-in-charge or designee; 
-2. Not be altered in any way; and 
+1. Be issued by and returned to the officer-in-charge or designee;
+2. Not be altered in any way; and
 3. Not be adorned in any way.
 
-### G. Personal Protective Equipment \(PPE\): 
+### G. Personal Protective Equipment \(PPE\):
 
 Personal protective equipment \(e.g., boots, shoes, goggles, gloves, eye protection, etc.\) that is issued/supplied for a work site, position, post or classification shall be considered part of the uniform supplied by the department and worn as described in Paragraph II., D., of this policy.
 

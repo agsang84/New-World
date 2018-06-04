@@ -11,11 +11,11 @@ description: DOC Policy
 | **Directives/ Cross-Reference:** | Employee Assigned Assets – Policy \#30.2.3 DAS Policy 107-001-015: Internal Controls for the Management of Cellular-Based Personal Communications Devices |
 | **Attachments:** | Communication Device Order/Approval Form \(CD 1503\) |
 
-#### I. PURPOSE {#i-purpose}
+## I. PURPOSE {#i-purpose}
 
 To establish guidelines for appropriate use and internal controls of state-owned cellular phones, telephones, personal communications devices, and fax machines.
 
-#### II. DEFINITIONS {#ii-definitions}
+## II. DEFINITIONS {#ii-definitions}
 
 A. Telecommunications: Telephones, cellular telephones, telephone systems, fax machines, and other voice communication systems.
 
@@ -27,7 +27,7 @@ D. Pagers: Typically these are one-way, receive only text messaging devices.
 
 E. Land Line Telephones: Phones that are typically found in offices, institutions and other DOC buildings, connected via cabling systems to a central phone system.
 
-#### III. POLICY {#iii-policy}
+## III. POLICY {#iii-policy}
 
 A. Telecommunications
 
@@ -136,7 +136,7 @@ F. Private Owned Cell Phones
 
 Use of privately owned cells phones in the course of state business is not subject to reimbursement by the Department. Exceptions to this policy will be on a case-by-case basis and approved by the division assistant director.
 
-#### IV. IMPLEMENTATION
+## IV. IMPLEMENTATION
 
 All employees with a DOC cell phone or personal communications device are required to sign the Communication Device Order/Approval Form \(CD 1503\) acknowledging their understanding of this policy.
 

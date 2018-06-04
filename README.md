@@ -1,5 +1,4 @@
-# SnakePit GitBook Project
+# Introduction
 
 
 
-  

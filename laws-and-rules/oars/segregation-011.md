@@ -18,7 +18,7 @@ description: (DISCIPLINARY)
 | **291-011-0064**  Forfeiture/Deprivation of Service or Activity |
 | **291-011-0080**  Disciplinary Segregation Units in Minimum Custody Facilities |
 
-#### **291-011-0005 - Authority, Purpose, and Policy**
+## **291-011-0005 - Authority, Purpose, and Policy**
 
 1. The authority for this rule is granted to the Director of the Department of Corrections in accordance with ORS 179.040, 423.020, 423.030 and 423.075. 
 2. Purpose: To establish procedures and standards for the placing and maintenance of inmates in disciplinary segregation. Inmates in violation of rules of prohibited conduct are placed in disciplinary segregation. 
@@ -35,7 +35,7 @@ description: (DISCIPLINARY)
 > CD 33-1983, f. & ef. 10-14-83  
 > CD 21-1978, f. & ef. 8-29-78
 
-#### **291-011-0010 - Definitions**
+## **291-011-0010 - Definitions**
 
 1. Close Supervision Status: Placement of an inmate so that he/she is more restricted than other inmates in disciplinary segregation status. This status is designated for inmates whose actions disrupt the safe and orderly operation of disciplinary segregation. 
 2. Disciplinary Segregation: The placement of an inmate in a housing program status which separates him/her from the main population of the facility in accordance with Department of Corrections rule on Prohibited Inmate Conduct and Processing Disciplinary Actions \(OAR 291-105\). 
@@ -65,7 +65,7 @@ description: (DISCIPLINARY)
 > CD 33-1983, f. & ef. 10-14-83  
 > CD 21-1978, f. & ef. 8-29-78
 
-#### **291-011-0015 - Selection of Disciplinary Segregation Unit \(DSU\) Staff**
+## **291-011-0015 - Selection of Disciplinary Segregation Unit \(DSU\) Staff**
 
 1. Selection Criteria: To qualify for a post solely assigned to disciplinary segregation, the employee:  \(a\) Must have successfully completed trial service; \(b\) Must have completed mental health training for working with mentally ill inmates as provided by the Professional Development Unit; and \(c\) Must have achieved a satisfactory on the most recent performance appraisal at the time of application and assignment to disciplinary segregation. At a minimum, the staff member must meet the criteria listed in this rule:  - \(A\) Have demonstrated support of the Oregon Accountability Model; - \(B\) Have demonstrated maturity and tolerance; - \(C\) Have demonstrated a constructive interest in working with inmates in disciplinary segregation; - \(D\) Have demonstrated the ability to work with inmates through conflict-reducing and conflict-control skills; and - \(E\) Have demonstrated the ability to use good judgment. 
 2. Assignments to Disciplinary Segregation Posts:  \(a\) Assignment to disciplinary segregation posts will be made by the functional unit manager or designee and will be reviewed at least semi-annually. \(b\) Rotation of staff assigned to disciplinary segregation posts may occur as it is found to be in the best interest of the employee or the facility, upon determination by the functional unit manager or designee. \(c\) Staff may not be assigned to a disciplinary segregation post for a period exceeding 24 consecutive months. Any staff having been assigned to a disciplinary segregation post for 24 consecutive months must be reassigned to a post not associated with a special housing unit for a minimum of six months. \(d\) Temporary assignment to a fixed disciplinary segregation post will be made by the functional unit manager or designee. Temporary assignments shall be given only to employees who meet the initial qualifications as specified in this rule, unless waived by the Assistant Director for Operations or designee. Whenever possible, temporary assignments will be given only to employees who have successfully completed training specified by the Department of Corrections.
@@ -82,7 +82,7 @@ description: (DISCIPLINARY)
 > CD 33-1983, f. & ef. 10-14-83  
 > CD 21-1978, f. & ef. 8-29-78
 
-#### **291-011-0020 - Handling Disturbances/Officer-in-Charge**
+## **291-011-0020 - Handling Disturbances/Officer-in-Charge**
 
 1. Any and all disturbances which involve inmates in disciplinary segregation will be reported immediately to the officer-in-charge who will take any necessary, immediate emergency action. When any disturbance occurs that requires an unusual incident report, the officer-in-charge will immediately notify the appropriate administrative staff. The unusual incident report will be completed as required by the Department of Corrections policy on Unusual Incident Reporting Process \(40.1.6\). 
 2. The officer-in-charge or designee will make the decisions, organize, assign, direct, control and observe, but will not become physically involved in situations where an inmate must be subdued and placed in or removed from a cell, nor in other disturbance situations which require time to organize necessary control action and assemble personnel. 
@@ -100,7 +100,7 @@ description: (DISCIPLINARY)
 > CD 33-1983, f. & ef. 10-14-83  
 > CD 21-1978, f. & ef. 8-29-78
 
-#### **291-011-0025 - Assignment and Removal of Inmates**
+## **291-011-0025 - Assignment and Removal of Inmates**
 
 \(1\) Inmates will be assigned to disciplinary segregation in accordance with the Department of Corrections rule on Prohibited Inmate Conduct and Processing Disciplinary Actions \(OAR 291-105\). The functional unit manager or designee or the officer-in-charge may order immediate placement of an inmate in disciplinary segregation when it is necessary to protect the inmate or others, or for the safety, security and orderly operation of the facility.
 
@@ -138,7 +138,7 @@ description: (DISCIPLINARY)
 > CD 33-1983, f. & ef. 10-14-83  
 > CD 21-1978, f. & ef. 8-29-78
 
-#### **291-011-0030 - Situational Reviews**
+## **291-011-0030 - Situational Reviews**
 
 \(1\) Inmates assigned to disciplinary segregation shall remain so assigned for only the shortest length of time necessary to achieve the purpose for which assignment was prescribed in accordance with the Department of Corrections rule on Prohibited Inmate Conduct and Processing Disciplinary Actions \(OAR 291-105\).
 
@@ -182,7 +182,7 @@ description: (DISCIPLINARY)
 > CD 33-1983, f. & ef. 10-14-83  
 > CD 21-1978, f. & ef. 8-29-78
 
-#### **291-011-0035 - Maintaining and Recording Information**
+## **291-011-0035 - Maintaining and Recording Information**
 
 \(1\) Disciplinary segregation logs will be maintained with the following methods:
 
@@ -238,7 +238,7 @@ description: (DISCIPLINARY)
 > CD 33-1983, f. & ef. 10-14-83  
 > CD 21-1978, f. & ef. 8-29-78
 
-#### **291-011-0040 - Security**
+## **291-011-0040 - Security**
 
 \(1\) Door Security:
 
@@ -290,7 +290,7 @@ description: (DISCIPLINARY)
 > CD 33-1983, f. & ef. 10-14-83  
 > CD 21-1978, f. & ef. 8-29-78
 
-#### **291-011-0050 - Property**
+## **291-011-0050 - Property**
 
 \(1\) Any personal property, as defined in the Department of Corrections rule on Personal Property Control \(Inmate\) \(OAR 291-117\), not permitted in the cell of any disciplinary-segregated inmate will be properly protected in a location designated by the functional unit manager. Upon release from the Disciplinary Segregation Unit, the inmate will check his/her personal property and sign the property sheet.
 
@@ -382,7 +382,7 @@ description: (DISCIPLINARY)
 > CD 33-1983, f. & ef. 10-14-83  
 > CD 21-1978, f. & ef. 8-29-78
 
-#### **291-011-0060 - Services and Activities**
+## **291-011-0060 - Services and Activities**
 
 \(1\) Canteen: Canteen items may be purchased every other week by those inmates who have available funds in their trust accounts.
 
@@ -468,7 +468,7 @@ description: (DISCIPLINARY)
 > CD 33-1983, f. & ef. 10-14-83  
 > CD 21-1978, f. & ef. 8-29-78
 
-#### **291-011-0064 - Forfeiture/Deprivation of Service or Activity**
+## **291-011-0064 - Forfeiture/Deprivation of Service or Activity**
 
 \(1\) A disciplinary-segregated inmate may be required to forfeit or be temporarily deprived of any service or activity when the inmate is using them to destroy or damage property, obstruct security, or threatens physical violence to himself/herself or others. If an inmate is using any service or activity for self-destruction, that service/activity may be temporarily removed upon order of the officer-in-charge or designee. Any item\(s\) withheld shall be returned at the earliest possible time when the basis for removal has ceased to exist. Deprivation orders will be reviewed every eight hours by the officer-in-charge.
 
@@ -484,7 +484,7 @@ description: (DISCIPLINARY)
 > CD 19-1991, f. & cert. ef. 8-21-91  
 > CD 33-1987, f. & ef. 8-28-87
 
-#### **291-011-0080 - Disciplinary Segregation Units in Minimum Custody Facilities**
+## **291-011-0080 - Disciplinary Segregation Units in Minimum Custody Facilities**
 
 \(1\) Due to their size and available staffing, minimum custody facilities will be exempt from the following provisions of the Department of Corrections rule on Segregation \(Disciplinary\) \(OAR 291-011\). These provisions will be modified as described below.
 
