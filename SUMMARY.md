@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
-* Unions
-  * AFSCME
+* [Hitchhikers Guide](README.md)
+* [Unions](unions/README.md)
+  * [AFSCME](unions/afscme/README.md)
     * [AFSCME 2017-2019](unions/afscme/afscme-2017-2019/README.md)
       * [AFSCME Articles 1-10](unions/afscme/afscme-2017-2019/afscme-articles-1-10.md)
       * [AFSCME Articles 11-20](unions/afscme/afscme-2017-2019/afscme-articles-11-20.md)
@@ -36,40 +36,40 @@
       * [AFSCME LOA's](unions/afscme/afscme-2017-2019/afscme-loas.md)
       * [AFSCME APPENDIXES](unions/afscme/afscme-2017-2019/afscme-appendixes.md)
       * [AFSCME Signature Page](unions/afscme/afscme-2017-2019/afscme-signature-page.md)
-    * AFSCME Forms
+    * [AFSCME Forms](unions/afscme/afscme-forms.md)
     * [Critical Incident Procedure - AFSCME Council 93](unions/afscme/critical-incident-procedure-afscme-council-93.md)
-  * AOCE
+  * [AOCE](unions/aoce/README.md)
     * [AOCE 2017-2019](unions/aoce/aoce-2017-2019/README.md)
       * [AOCE Articles 1 - 10](unions/aoce/aoce-2017-2019/aoce-articles-1-10.md)
       * [AOCE Articles 11 - 20](unions/aoce/aoce-2017-2019/aoce-articles-11-20.md)
       * [AOCE Articles 21 - 30](unions/aoce/aoce-2017-2019/aoce-articles-21-30.md)
-    * AOCE Forms
-* Laws and Rules
-  * Federal Statutes
-  * ORS
-    * ORS 30.285
+    * [AOCE Forms](unions/aoce/aoce-forms.md)
+* [Laws and Rules](laws-and-rules/README.md)
+  * [Federal Statutes](laws-and-rules/federal-statutes.md)
+  * [ORS](laws-and-rules/ors/README.md)
+    * [ORS 30.285](laws-and-rules/ors/ors-30.285.md)
     * [ORS 183.750\[1\]](laws-and-rules/ors/ors-183.750-1.md)
     * [ORS 236](laws-and-rules/ors/ors-236.md)
     * [ORS 243.650](laws-and-rules/ors/ors-243.650/README.md)
       * [ORS 243.650 to 243.782](laws-and-rules/ors/ors-243.650/ors-243.650-to-243.782.md)
-    * ORS 659A.030
-  * OAR's
+    * [ORS 659A.030](laws-and-rules/ors/ors-659a.030.md)
+  * [OAR's](laws-and-rules/oars/README.md)
     * [Procedural Rules - 001](laws-and-rules/oars/procedural-rules-001.md)
     * [Network Information System Access & Security - 005](laws-and-rules/oars/network-information-system-access-and-security-005.md)
     * [Discrimination Complaints \(Inmate\) - 006](laws-and-rules/oars/discrimination-complaints-inmate-006.md)
     * [Tours - 009](laws-and-rules/oars/tours-009.md)
     * [Segregation - 011](laws-and-rules/oars/segregation-011.md)
-* ODOC
-  * ODOC Policies
+* [ODOC](odoc/README.md)
+  * [ODOC Policies](odoc/odoc-policies/README.md)
     * [Chapter 10](odoc/odoc-policies/chapter-10/README.md)
       * [10.1.1 Legal Assistance](odoc/odoc-policies/chapter-10/10.1.1-legal-assistance.md)
       * [10.1.2 - Telecommunications](odoc/odoc-policies/chapter-10/10.1.2-telecommunications/README.md)
-        * Telecommunications Attachment
+        * [Telecommunications Attachment](odoc/odoc-policies/chapter-10/10.1.2-telecommunications/telecommunications-attachment.md)
       * [10.1.3 - Forms Control](odoc/odoc-policies/chapter-10/10.1.3-forms-control.md)
       * [10.1.4 - Resource Conservation](odoc/odoc-policies/chapter-10/10.1.4-resource-conservation/README.md)
         * [10.1.4 - Attachment](odoc/odoc-policies/chapter-10/10.1.4-resource-conservation/10.1.4-attachment.md)
       * [10.1.5 - Honor Guard](odoc/odoc-policies/chapter-10/10.1.5-honor-guard.md)
-    * Chapter 20
+    * [Chapter 20](odoc/odoc-policies/chapter-20/README.md)
       * [20.1.1 - Dept. Mission Vision, & Core Values](odoc/odoc-policies/chapter-20/20.1.1-dept.-mission-vision-and-core-values.md)
       * [20.1.2 - Code of Ethics](odoc/odoc-policies/chapter-20/20.1.2-code-of-ethics/README.md)
         * [CD 1382](odoc/odoc-policies/chapter-20/20.1.2-code-of-ethics/cd-1382.md)
@@ -79,12 +79,12 @@
       * [20.1.4 - Compliance with the Federal Gun Control Act of 1968](odoc/odoc-policies/chapter-20/20.1.4-compliance-with-the-federal-gun-control-act-of-1968.md)
       * [20.1.6 - Dress Code](odoc/odoc-policies/chapter-20/20.1.6-dress-code/README.md)
         * [20.1.6 - Uniform Checklist and Standards](odoc/odoc-policies/chapter-20/20.1.6-dress-code/20.1.6-uniform-checklist-and-standards.md)
-    * DOC Forms
+    * [DOC Forms](odoc/odoc-policies/doc-forms/README.md)
       * [Supervisor's Working File](odoc/odoc-policies/doc-forms/supervisors-working-file.md)
-    * Chapter 30
-    * Chapter 40
+    * [Chapter 30](odoc/odoc-policies/chapter-30.md)
+    * [Chapter 40](odoc/odoc-policies/chapter-40.md)
   * [Functional Units](odoc/functional-units.md)
-* Additional Information
+* [Additional Information](additional-information/README.md)
   * [Rights of Employees to be Represented](additional-information/rights-of-employees-to-be-represented.md)
   * [Weingarten Rights](additional-information/weingarten-rights.md)
   * [Garrity Rights](additional-information/garrity-rights.md)
@@ -92,12 +92,12 @@
     * [Right to Free Speech](additional-information/civil-and-constitutional-rights/right-to-free-speech.md)
     * [Privacy Rights](additional-information/civil-and-constitutional-rights/privacy-rights/README.md)
       * [Searches](additional-information/civil-and-constitutional-rights/privacy-rights/searches.md)
-      * Medical and Psychological
-      * Privacy in Personnel Files
+      * [Medical and Psychological](additional-information/civil-and-constitutional-rights/privacy-rights/medical-and-psychological.md)
+      * [Privacy in Personnel Files](additional-information/civil-and-constitutional-rights/privacy-rights/privacy-in-personnel-files.md)
       * [Personal Appearance](additional-information/civil-and-constitutional-rights/privacy-rights/personal-appearance.md)
-      * Off-Duty Conduct
+      * [Off-Duty Conduct](additional-information/civil-and-constitutional-rights/privacy-rights/off-duty-conduct.md)
     * [Unlawful Discrimination](additional-information/civil-and-constitutional-rights/unlawful-discrimination.md)
-  * Stewards Rights
+  * [Stewards Rights](additional-information/stewards-rights/README.md)
     * [Investigatory Meetings](additional-information/stewards-rights/investigatory-meetings/README.md)
       * [Disclose of Intervies and Witnesses](additional-information/stewards-rights/investigatory-meetings/disclose-of-intervies-and-witnesses.md)
 
