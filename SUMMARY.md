@@ -79,6 +79,7 @@
       * [20.1.4 - Compliance with the Federal Gun Control Act of 1968](odoc/odoc-policies/chapter-20/20.1.4-compliance-with-the-federal-gun-control-act-of-1968.md)
       * [20.1.6 - Dress Code](odoc/odoc-policies/chapter-20/20.1.6-dress-code/README.md)
         * [20.1.6 - Uniform Checklist and Standards](odoc/odoc-policies/chapter-20/20.1.6-dress-code/20.1.6-uniform-checklist-and-standards.md)
+      * [20.7.6 - Basic Corrections Course](odoc/odoc-policies/chapter-20/20.7.6-basic-corrections-course.md)
     * [DOC Forms](odoc/odoc-policies/doc-forms/README.md)
       * [Supervisor's Working File](odoc/odoc-policies/doc-forms/supervisors-working-file.md)
     * [Chapter 30](odoc/odoc-policies/chapter-30.md)
