@@ -2,7 +2,7 @@
 
 ## KNOW YOUR RIGHTS
 
-[An Employee's Right to Representation ](rights-of-employees-to-be-represented.md)
+[**An Employee's Right to Representation** ](../rights-of-employees-to-be-represented.md)
 
 An employee may be represented by the union at an investigatory interview with his or her supervisor when the employee reasonably believes that the interview may lead to a disciplinary action.
 
@@ -24,11 +24,11 @@ _**No. The employee must request the representation.**_
 
 ## Is Management obligated to remind me of my Weingarten rights prior to an investigatory meeting?
 
-No, you must request a [**Steward's presence.**](stewards-rights/investigatory-meetings/) Management has no obligation to remind you of your right.
+No, you must request a [**Steward's presence.**](../stewards/investigatory-meetings.md) Management has no obligation to remind you of your right.
 
 ## Can I have a Shop Steward present at any meeting I have with Management?
 
-No, only when you have a **reasonable belief that discipline** will result from an investigatory meeting.
+No, only when you have a _**reasonable belief that discipline**_ will result from an investigatory meeting.
 
 ## What is an investigatory interview?
 

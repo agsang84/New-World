@@ -30,8 +30,8 @@ The agency violates ORS 659A.030 if the agency imposes an occupational requireme
 
 ### Relevant Oregon laws and rules
 
-* ORS 659A.030 Law prohibiting discrimination because of race, color, religion, sex, sexual orientation, national origin, marital status or age ORS 659A.033 Law describing violation of ORS 659A.030 by denying religious leave or prohibiting certain religious observances or practices; determination of reasonable accommodation
+* ORS 659A.030 Law prohibiting discrimination because of race, color, religion, sex, sexual orientation, national origin, marital status or age ORS 659A.033 Law describing violation of ORS 659A.030 by denying religious leave or prohibiting certain religious observances or practices; determination of reasonable accommodation 
 * OAR 839-005-0140 Rule on accommodation of religious practices
 
-Bureau of Labor and Industries provide technical assistance on this issue in the form of questions and answers. You may also contact the Bureau of Labor and Industries, Technical Assistance for Employers at 971-673-0824 or the Department of Justice General Council at 503-947-4600.
+**Bureau of Labor and Industries** provide technical assistance on this issue in the form of questions and answers. You may also contact the Bureau of Labor and Industries, Technical Assistance for Employers at 971-673-0824 or the Department of Justice General Council at 503-947-4600.
 

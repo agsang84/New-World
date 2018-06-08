@@ -2,7 +2,7 @@
 description: 'Posted on April 1, 2009 under LRIS Confidentiality'
 ---
 
-# Disclose of Intervies and Witnesses
+# Disclose of Interviews and Witnesses
 
 ## Employer Required To Disclose Pre-Disciplinary Interviews and Identity Of Witnesses
 
