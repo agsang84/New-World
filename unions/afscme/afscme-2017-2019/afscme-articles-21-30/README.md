@@ -100,13 +100,13 @@ c. Before a supervisor, acting on behalf of the Agency under this policy, may re
 
 d. The employee shall give consent to a blood, urine or Breathalyzer test by signing a consent form. The form shall contain the following information:
 
-1. Employees consent to release test results to the Agency;
-2. The procedure for confirming an initial positive test result for a controlled substance, including marijuana;
-3. The consequences of a confirmed positive test result for a controlled substance, including marijuana;
-4. The consequences of a positive test for alcohol, including one at or above .02% by volume/weight of alcohol in the blood;
-5. A listing provided by the employee of legally prescribed and over-the-counter medications which may be in the employee’s body. At the employee’s option, this information may be submitted in a sealed envelope to be opened only by the Medical Review Officer if the test result is positive;
-6. The right to explain a confirmed positive test result for a controlled substance, including marijuana, or a positive test for alcohol to the Medical Review Officer;
-7. The right to have a Union representative present during the preliminary interview and any follow-up investigation;
+1. Employees consent to release test results to the Agency; 
+2. The procedure for confirming an initial positive test result for a controlled substance, including marijuana; 
+3. The consequences of a confirmed positive test result for a controlled substance, including marijuana; 
+4. The consequences of a positive test for alcohol, including one at or above .02% by volume/weight of alcohol in the blood; 
+5. A listing provided by the employee of legally prescribed and over-the-counter medications which may be in the employee’s body. At the employee’s option, this information may be submitted in a sealed envelope to be opened only by the Medical Review Officer if the test result is positive; 
+6. The right to explain a confirmed positive test result for a controlled substance, including marijuana, or a positive test for alcohol to the Medical Review Officer; 
+7. The right to have a Union representative present during the preliminary interview and any follow-up investigation; 
 8. The consequences of refusing to consent to the blood, urine, or Breathalyzer test.
 
 e. The drug testing process shall be one that is scientifically proven to be at least as accurate and valid as urinalysis using an immunoassay screening test, with all positive screening results being confirmed utilizing gas chromatography/mass spectrometry before a sample is considered positive. The alcohol testing process shall be one that is scientifically proven to be at least as accurate and valid as \(1\) urinalysis using an enzymatic assay screening test, with the positive screening results being confirmed using gas chromatography before a sample is considered positive, or \(2\) breath sample testing using breath analyzing instruments which meet NIDA/SAMSHA testing standards.
@@ -196,7 +196,7 @@ The Agency will continue to use Correctional Officers to relieve other security 
 
 ### Section 6 - Security Briefings
 
-Where security staff are required to attend security briefings prior to commencement of their shift, it shall be counted as time worked and paid in accordance with [**Article 15, Overtime**](./).
+Where security staff are required to attend security briefings prior to commencement of their shift, it shall be counted as time worked and paid in accordance with [**Article 15, Overtime**](../afscme-articles-11-20.md#article-15-overtime).
 
 ### Section 7 - Time Trades
 
@@ -228,21 +228,21 @@ b. Seniority for bargaining unit employees who experience breaks in service shal
 
 Bargaining unit members who leave the bargaining unit and then return, shall be credited with their previous AFSCME bargaining unit seniority in classification which is only the days earned while in that classification upon their return \(Subject to the provisions listed below\).
 
-1. Employees who leave Agency service and return within one hundred eighty \(180\) days, shall be credited with their previous AFSCME in class seniority which is only the days earned while in that classification upon their return or within two \(2\) years if the separation was a result of lay off.
-2. Employees who leave Agency service, for a period longer than one hundred eighty \(180\) days for any reason other than lay off then return, shall lose all seniority for the purpose of bidding.
-3. Employees who transfer within classification between AFSCME represented bargaining units, shall maintain their classification seniority.
-4. Employees who promote or demote into represented classifications within the Agency and then return to a previously held classification shall have their previous AFSCME in classification seniority reinstated by crediting only the days earned while in that classification.
+1. Employees who leave Agency service and return within one hundred eighty \(180\) days, shall be credited with their previous AFSCME in class seniority which is only the days earned while in that classification upon their return or within two \(2\) years if the separation was a result of lay off. 
+2. Employees who leave Agency service, for a period longer than one hundred eighty \(180\) days for any reason other than lay off then return, shall lose all seniority for the purpose of bidding. 
+3. Employees who transfer within classification between AFSCME represented bargaining units, shall maintain their classification seniority. 
+4. Employees who promote or demote into represented classifications within the Agency and then return to a previously held classification shall have their previous AFSCME in classification seniority reinstated by crediting only the days earned while in that classification. 
 5. Employees who promote into management classifications within the Agency and then return within one \(1\) year to a previously held classification shall have their previous AFSCME in classification seniority reinstated crediting only the days earned while in that classification. Employees who remain in a management classification more than one \(1\) year shall lose all previously earned AFSCME in classification time.
 
 c. Institution Specific Bidding Seniority will be determined as follows, except where there is a conflict between Section C and a local Article 25 provision, this section shall prevail.
 
-1. New Hires – Newly hired employees with the same date of hire will have their seniority determined by lottery drawing with a Union representative present.
-2. Transfers – When a staff member transfers within the AFSCME Security represented bargaining unit with the same AFSCME classification seniority date of hire as an existing staff member, the existing staff member shall be granted the higher seniority within the classification. On occasions when an employee returns to an institution they were previously employed, they shall be returned to seniority placement originally obtained through lottery bid for employees hired or promoted on the same date providing the AFSCME in classification time remains the same.
+1. New Hires – Newly hired employees with the same date of hire will have their seniority determined by lottery drawing with a Union representative present. 
+2. Transfers – When a staff member transfers within the AFSCME Security represented bargaining unit with the same AFSCME classification seniority date of hire as an existing staff member, the existing staff member shall be granted the higher seniority within the classification. On occasions when an employee returns to an institution they were previously employed, they shall be returned to seniority placement originally obtained through lottery bid for employees hired or promoted on the same date providing the AFSCME in classification time remains the same. 
 3. Promotional Hires – When newly promoted staff have the same promotional hire date their seniority will be first determined by total bargaining unit seniority. If bargaining unit seniority is equal, total Agency time in the security series will be utilized to determine the higher seniority. If seniority would still be the same, seniority will be determined by lottery drawing with a union representative present.
 
 d. Administration of Lists
 
-1. Six weeks before a Post or Shift and Days off bid at an institution, the ISDS coordinator will post the current job bidding seniority list. 
+1. Six weeks before a Post or Shift and Days off bid at an institution, the ISDS coordinator will post the current job bidding seniority list.  
 2. If an employee’s seniority date has been changed or reinstated after promotion or demotion to a previously held classification and the employee disputes their seniority date, they shall submit the issue in writing to the local Institution Human Resources Manager within ten \(10\) calendar days of the date they become aware of the matter. The Human Resources Manager will forward a copy to the Local President and Local Oregon AFSCME Council Representative.
 
 Functional Units where the question or issue regarding seniority originates, the Local President or Vice President will serve as a labor representative and voting member of the Seniority Panel to be formed. Additionally, Management will select their one \(1\) representative from the following positions: Superintendent, Assistant Superintended of Security \(or Security Manager\) or Operations Capitan who will serve as a Management representative and voting member on the Seniority Panel to be formed.
@@ -286,7 +286,7 @@ Employees suffering damage to personal property in the performance of their offi
 
 ### Section 3 - Footwear Reimbursement
 
-a. Effective on the first \(1st\) of the month following ratification of the tentative agreement or upon receipt of an interest arbitration award, employees shall be eligible to receive a reimbursement for up to two hundred dollars \($200\) per biennium in receipted costs for footwear that meets all of the requirements contained in Agency Policy 20.1.6 \(Footwear\).
+a. Effective on the first \(1st\) of the month following ratification of the tentative agreement or upon receipt of an interest arbitration award, employees shall be eligible to receive a reimbursement for up to two hundred dollars \($200\) per biennium in receipted costs for footwear that meets all of the requirements contained in [**Agency Policy 20.1.6**](../../../../odoc/odoc-policies/chapter-20/20.1.6-dress-code/) ****[**\(Footwear\)**](../../../../odoc/odoc-policies/chapter-20/20.1.6-dress-code/20.1.6-uniform-checklist-and-standards.md).
 
 b. Employees must provide the Agency’s Fiscal Services Accounting Unit with a receipt and completed Non Travel Reimbursement Form in order to receive reimbursement.
 
@@ -320,7 +320,7 @@ Except as provided in Section 2 of this Article, where the Institution/functiona
 
 ### Section 1
 
-The Agency agrees to abide by and maintain in its facilities and work operations standards of safety and health in accordance with the Oregon Safe Employment Act \(ORS 654.001 to 654.991\).
+The Agency agrees to abide by and maintain in its facilities and work operations standards of safety and health in accordance with the **Oregon Safe Employment Act \(ORS 654.001 to 654.991\)**.
 
 ### Section 2
 
@@ -362,7 +362,7 @@ Regular and trial service employees may be eligible to receive up to forty \(40\
 
 ### Section 4
 
-For the purposes of this article, immediate family shall be defined in **Article 33 Section 6 \(Sick Leave\)**.
+For the purposes of this article, immediate family shall be defined in [**Article 33 Section 6 \(Sick Leave\)**](../afscme-article-31-40/#article-33-sick-leave-with-pay).
 
 ### Section 5
 
