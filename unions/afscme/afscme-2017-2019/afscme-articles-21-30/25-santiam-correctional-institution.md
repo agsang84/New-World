@@ -54,11 +54,11 @@ Employees working four \(4\) hours or more beyond the employee’s regular shift
 
 ### d. Splitting Overtime Shifts:
 
-1. Employees can split both voluntary and mandatory overtime assignments. No more than three \(3\) staff members can split a shift.
-2. A list of staff who are willing to work a split overtime shift shall be maintained by the OIC. This will be an ongoing list and need not be signed every day. The list will be kept on the voluntary overtime board.
-3. It will be the responsibility of the employee wishing to split a shift to add or remove their name from the list. When they sign the list, they will indicate half shifts they will be willing to work.
-4. When a staff member is held for overtime, they can ask, at their choice, the OIC for the names of the staff on the overtime split list. It is then their responsibility to contact the Control Center and have them contact the employee. The Control Center will then forward the call to the on duty staff member.
-5. If staff member\(s\) is found for the split, the OIC will be notified immediately. If any staff member does not report to work, the staff member will be required to finish the shift.
+1. Employees can split both voluntary and mandatory overtime assignments. No more than three \(3\) staff members can split a shift. 
+2. A list of staff who are willing to work a split overtime shift shall be maintained by the OIC. This will be an ongoing list and need not be signed every day. The list will be kept on the voluntary overtime board. 
+3. It will be the responsibility of the employee wishing to split a shift to add or remove their name from the list. When they sign the list, they will indicate half shifts they will be willing to work. 
+4. When a staff member is held for overtime, they can ask, at their choice, the OIC for the names of the staff on the overtime split list. It is then their responsibility to contact the Control Center and have them contact the employee. The Control Center will then forward the call to the on duty staff member. 
+5. If staff member\(s\) is found for the split, the OIC will be notified immediately. If any staff member does not report to work, the staff member will be required to finish the shift. 
 6. The employee initiating the split voluntary overtime shift request shall work at least one \(1\) hour of the overtime.
 
 ## Filling of Open Post Guidelines:
@@ -81,9 +81,9 @@ Secondary shift/days off slots that are vacated through the above process will b
 
 The procedure for assigning personnel to the temporary fire crew\(s\) dispatched from Santiam Correctional Institution \(SCI\) during the yearly fire season or in the event of a natural disaster is as follows:
 
-The Agency will notify employees of the opportunity to volunteer for fire camp and natural disaster support in writing once a year. A voluntary fire crew list will be made available and posted for volunteers to sign up. Fire camp and fire crew duties are voluntary assignments and by volunteering, the employee agrees to deviate from his/her normal work schedule without advanced notice. The employee additionally understands and waives [**Article 15 – Overtime Section 3**](25-santiam-correctional-institution.md) Shift Change Penalty does not apply.
+The Agency will notify employees of the opportunity to volunteer for fire camp and natural disaster support in writing once a year. A voluntary fire crew list will be made available and posted for volunteers to sign up. Fire camp and fire crew duties are voluntary assignments and by volunteering, the employee agrees to deviate from his/her normal work schedule without advanced notice. The employee additionally understands and waives [**Article 15 – Overtime Section 3**](../afscme-articles-11-20.md#section-3-shift-change-penalty) Shift Change Penalty does not apply.
 
-The Agency will select from a list of volunteers who have signed up in advance and have been organized based upon seniority date as defined in [**Article 25 Working Conditions Section 8 Seniority**](25-santiam-correctional-institution.md). The employee cannot have any pending shift trades at the time of assignment. If so, the Agency will go to the next person on the list. The hiring of fire crew staff will follow the same rotation process as hiring of staff for voluntary overtime under subsection \(b\).
+The Agency will select from a list of volunteers who have signed up in advance and have been organized based upon seniority date as defined in [**Article 25 Working Conditions Section 8 Seniority**](./#section-8-seniority). The employee cannot have any pending shift trades at the time of assignment. If so, the Agency will go to the next person on the list. The hiring of fire crew staff will follow the same rotation process as hiring of staff for voluntary overtime under subsection \(b\).
 
-Standard length of assignment and other guidelines will be according to [**Article 55 Fire Assignments**](25-santiam-correctional-institution.md). However, upon completion of the standard fourteen \(14\) day assignment the employee will be replaced by the next eligible employee that is signed upon the voluntary signup sheet. If the list is depleted, then the Agency will revert to the top of the list and repeat the process.
+Standard length of assignment and other guidelines will be according to [**Article 55 - Fire Assignments**](../afscme-article-51-56.md#article-55-fire-assignments). However, upon completion of the standard fourteen \(14\) day assignment the employee will be replaced by the next eligible employee that is signed upon the voluntary signup sheet. If the list is depleted, then the Agency will revert to the top of the list and repeat the process.
 

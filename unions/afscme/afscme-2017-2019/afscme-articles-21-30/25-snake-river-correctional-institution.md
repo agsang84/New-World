@@ -4,11 +4,11 @@
 
 Work Schedule Bidding. Each security staff member may submit their bid for a shift and days off work schedule following the posting of the work schedule by the Assistant Superintendent of Security or designee. Employees shall have ten \(10\) working days following the posting of the work schedule to make their bid selections. The employer will post the work schedule for bidding twenty-five \(25\) calendar days prior to the rotation date.
 
-Security staff may submit three \(3\) selections. Such selections must be submitted in priority order. Officers who have completed trial service may bid shifts and days off in order of seniority as defined in [**Section 8**](25-snake-river-correctional-institution.md) of this Article. Employees who fail to successfully bid, or who do not apply for bid, will be assigned at the discretion of the Assistant Superintendent of Security or designee. Security staff hired in between bid periods will be assigned by the Assistant Superintendent of Security or designee.
+Security staff may submit three \(3\) selections. Such selections must be submitted in priority order. Officers who have completed trial service may bid shifts and days off in order of seniority as defined in [**Section 8**](./#section-8-seniority) of this Article. Employees who fail to successfully bid, or who do not apply for bid, will be assigned at the discretion of the Assistant Superintendent of Security or designee. Security staff hired in between bid periods will be assigned by the Assistant Superintendent of Security or designee.
 
 Security staff will bid every six \(6\) months for rotation effective the first \(1st\) Sunday of October and April.
 
-If an employee has completed trial service before the rotation date, the employee will be eligible to bid by seniority as defined in Section 8 of this Article.
+If an employee has completed trial service before the rotation date, the employee will be eligible to bid by seniority as defined in [**Section 8**](./#section-8-seniority) of this Article.
 
 In the event staff members cannot bid for themselves, they may elect a proxy to place their bid for them. At the assigned bid time, the proxy must produce the official proxy form, signed by the person for whom they are bidding.
 
@@ -28,12 +28,12 @@ If an assignment becomes available, the institution will post the opportunity fo
 
 a. Crew members assigned during the prior fire season will be assigned to work a subsequent new fire season except when:
 
-1. staffing requirements are substantially different from the prior fire season;
-2. budgeted funds are not available;
-3. the employee separates from the SRCI Security local or Agency service;
-4. where the employee has identified performance deficiencies/misconduct;
-5. the employee chooses not to work the fire assignment;
-6. the employee is unable to carry out assigned responsibility due to an injury or unable to pass the pre-seasonal “Pack Test”;
+1. staffing requirements are substantially different from the prior fire season; 
+2. budgeted funds are not available; 
+3. the employee separates from the SRCI Security local or Agency service; 
+4. where the employee has identified performance deficiencies/misconduct; 
+5. the employee chooses not to work the fire assignment; 
+6. the employee is unable to carry out assigned responsibility due to an injury or unable to pass the pre-seasonal “Pack Test”; 
 7. employees returning from approved leaves \(Military/FMLA/OFLA\) will be reviewed on a case-by-case basis by Management to determine eligibility for the current season. Once these employees are identified to work fire assignments, the Parties will determine the distribution of the fire assignments and review the training/testing requirements.
 
 b. **Filling Assignment Opportunities:**
@@ -46,34 +46,28 @@ Fire Crew candidates that are not currently fire crew assigned but possess the t
 
 The Mandatory Overtime \(Bucket\) List
 
-1. A mandatory overtime \(bucket\) list will be created to include all represented employees with the exception of those employees exempt from overtime.
-2. The Employer shall create three \(3\) separate Mandatory Overtime \(Bucket\) Lists, following each semi-annual bid rotation. These separate lists shall be maintained by the basic shifts. The lists that will be created are: a. First Shift - Includes all shifts beginning after 10:00 PM each day and ending by 9:00 AM the following day. b. Second Shift – Includes all shifts beginning after 5:00 AM and ending prior to 6:00 PM. c. Third Shift – Includes all shifts beginning after 10:00 AM and ending prior to 1:00 AM.
-3. Employee’s names will appear on the Mandatory Overtime \(Bucket\) List in alphabetical order from A to Z. a. Employees added to the Mandatory Overtime \(Bucket\) List during the rotation period shall have their names added to the computerized list in alphabetical order.
-4. The Mandatory Overtime \(Bucket\) List will be updated each shift by the Officer-in-Charge \(OIC\) \(Lieutenant or Working Out of Class Lieutenant\). Two \(2\) lists shall be maintained. The OIC \(Lieutenant or Working Out of Class Lieutenant\) shall maintain the primary list in the OIC’s \(Lieutenant or Working Out of Class Lieutenant\) office. The primary list will be used to settle any and all disputes. A secondary list for informational purposes only shall be posted in a glass encased bulletin board in the Master Control and Staff Deployment hallway. The OIC \(Lieutenant or Working Out of Class Lieutenant\) will attempt to update the secondary list by the first \(1st\) shift and the list will be made available to staff so they can see their approximate position on the Mandatory Overtime \(Bucket\) List.
-5. For each shift the OIC \(Lieutenant or Working Out of Class Lieutenant\) shall publish, via the electronic shift briefing and “Sally port’ Information portal, the top three \(3\) Sergeants/Corporals and the top ten \(10\) Correctional Officers who will be on the Mandatory Overtime \(Bucket\) List for that shift. a. Corporals and Sergeants will be considered one \(1\) classification for the purposes of filling vacancies using the Voluntary Overtime and Mandatory Overtime \(Bucket\) List.
-6. An employee shall receive credit \(date placed by their name\) on the Mandatory Overtime \(Bucket\) List as follows:
+1. A mandatory overtime \(bucket\) list will be created to include all represented employees with the exception of those employees exempt from overtime. 
+2. The Employer shall create three \(3\) separate Mandatory Overtime \(Bucket\) Lists, following each semi-annual bid rotation. These separate lists shall be maintained by the basic shifts. The lists that will be created are: a. First Shift - Includes all shifts beginning after 10:00 PM each day and ending by 9:00 AM the following day. b. Second Shift – Includes all shifts beginning after 5:00 AM and ending prior to 6:00 PM. c. Third Shift – Includes all shifts beginning after 10:00 AM and ending prior to 1:00 AM. 
+3. Employee’s names will appear on the Mandatory Overtime \(Bucket\) List in alphabetical order from A to Z. a. Employees added to the Mandatory Overtime \(Bucket\) List during the rotation period shall have their names added to the computerized list in alphabetical order. 
+4. The Mandatory Overtime \(Bucket\) List will be updated each shift by the Officer-in-Charge \(OIC\) \(Lieutenant or Working Out of Class Lieutenant\). Two \(2\) lists shall be maintained. The OIC \(Lieutenant or Working Out of Class Lieutenant\) shall maintain the primary list in the OIC’s \(Lieutenant or Working Out of Class Lieutenant\) office. The primary list will be used to settle any and all disputes. A secondary list for informational purposes only shall be posted in a glass encased bulletin board in the Master Control and Staff Deployment hallway. The OIC \(Lieutenant or Working Out of Class Lieutenant\) will attempt to update the secondary list by the first \(1st\) shift and the list will be made available to staff so they can see their approximate position on the Mandatory Overtime \(Bucket\) List. 
+5. For each shift the OIC \(Lieutenant or Working Out of Class Lieutenant\) shall publish, via the electronic shift briefing and “Sally port’ Information portal, the top three \(3\) Sergeants/Corporals and the top ten \(10\) Correctional Officers who will be on the Mandatory Overtime \(Bucket\) List for that shift. a. Corporals and Sergeants will be considered one \(1\) classification for the purposes of filling vacancies using the Voluntary Overtime and Mandatory Overtime \(Bucket\) List. 
+6. An employee shall receive credit \(date placed by their name\) on the Mandatory Overtime \(Bucket\) List as follows:  
 
-   a. Being assigned by the OIC \(Lieutenant or Working Out of Class Lieutenant\) to work any part of the following shift on mandatory overtime.
 
-b. Being relieved late on post that results in the employee being paid overtime.
+   a. Being assigned by the OIC \(Lieutenant or Working Out of Class Lieutenant\) to work any part of the following shift on mandatory overtime.  
+  
+   b. Being relieved late on post that results in the employee being paid overtime.  
+  
+   c. Being listed as number one \(1\) on the Mandatory Overtime \(Bucket\) List for the day regardless if you worked overtime the following shift or not.  
 
-c. Being listed as number one \(1\) on the Mandatory Overtime \(Bucket\) List for the day regardless if you worked overtime the following shift or not.
-
-1. The only employee who shall receive credit for being number one \(1\) on the Mandatory Overtime \(Bucket\) List and not working overtime is the person in the number one \(1\) spot at the beginning of the shift and completes their regular shift and was not required to work mandatory overtime.
+7. The only employee who shall receive credit for being number one \(1\) on the Mandatory Overtime \(Bucket\) List and not working overtime is the person in the number one \(1\) spot at the beginning of the shift and completes their regular shift and was not required to work mandatory overtime.
 
 d. Being assigned Voluntary Overtime when signed up on the Voluntary On-shift Overtime list and being one of the top three \(3\) Sergeants/Corporals or top ten \(10\) Correctional Officers on the Mandatory Overtime \(Bucket\) List. If the employee who is on the Mandatory Overtime \(Bucket\) List is working an employee agreed upon “split-shift”, that employee will be required to work a minimum of two \(2\) hours of voluntary overtime in order to receive credit for the mandatory overtime list.
 
 e. After an employee returns from pre-approved leave \(excluding time trades\) that is fifteen \(15\) calendar days or more and their name reaches number one \(1\) on the computerized mandatory overtime list, they will be considered to have caught up and not be required to make up missed overtime obligations.
 
-1. Exemptions from Mandatory Overtime \(Bucket\) List:
-
-a. Employees who are on Modified or Light Duty are not permitted to work overtime are therefore exempted from being placed on the Mandatory Overtime \(Bucket\) List.
-
-b. Employees once cleared for full duty shall have their name placed back on the mandatory overtime list.
-
-c. Employee’s who are scheduled to attend agency training or other approved training, are exempt from being on the Mandatory Overtime \(Bucket\) List when doing so would not allow the employee to have eight \(8\) consecutive hours off duty prior to the training.
-
-1. This applies only for the day or days attending training.
+1. Exemptions from Mandatory Overtime \(Bucket\) List:  a. Employees who are on Modified or Light Duty are not permitted to work overtime are therefore exempted from being placed on the Mandatory Overtime \(Bucket\) List.  b. Employees once cleared for full duty shall have their name placed back on the mandatory overtime list.  c. Employee’s who are scheduled to attend agency training or other approved training, are exempt from being on the Mandatory Overtime \(Bucket\) List when doing so would not allow the employee to have eight \(8\) consecutive hours off duty prior to the training. 
+2. This applies only for the day or days attending training.
 
 d. Employee shall not be placed on the Mandatory Overtime \(Bucket\) List on any day preceding their scheduled days off \(their “Friday”\) or the day before a scheduled bid vacation period or a previously approved vacation day off.
 

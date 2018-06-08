@@ -22,9 +22,12 @@ Control Center Officers must rotate after one \(1\) year, but Control Center sta
 
 e. The Recreation Sergeant \(Post \#62-2\) and the Inmate Activities Officer \(Post \#205-2\), both on second shift, will be one \(1\) year bid posts. In an effort to ensure continuity, these posts will not rotate on the same bid cycle whenever possible.
 
-f. The following posts will be designated as Training Posts:
+f. The following posts will be designated as Training Posts:  
 
-\| First Shift \| RDO 9 \(F3, F4, G2\) Flex 1 Flex 4 \| \| --- \| --- \| \| Second Shift \| RDO 17 \(B1, B2, A4\) Flex 22 Flex 23 Flex 24 \|
+
+| First Shift  | Second Shift |
+| --- | --- |
+| RDO 9 \(F3, F4, G2\) / Flex 1 / Flex 4 | RDO 17 \(B1, B2, A4\) / Flex 22 / Flex 23 / Flex 24 |
 
 Should the Oregon Department of Corrections implement a security hiring freeze, all of the above posts will be available for Seniority bid for the following, and any subsequent Post Bid Rotation as long as the security hiring freeze remains in effect. No employee on initial trial service will be placed in an armed post.
 
@@ -52,8 +55,8 @@ q. Security staff who bid a five \(5\) day a week or a relief armed observation 
 
 r. After employees successfully bid their posts per Article 25 \(EOCI\), or failing to successfully bid, are assigned a post, the following conditions apply:
 
-1. Change in Shift/Days Off a. The Security Manager or designee may change an employee’s shift and days off for valid cause only. When practical, the employee shall receive a seven \(7\) day notice of change. b. If the employee believes the change of bid shift and days off was not for valid cause, the employee may appeal the decision to the Labor/Management Resolution Committee. c. Should the Committee determine that a change of shift and days off was not for valid cause, the employee shall receive RFM differential for the entire period of the assignment. d. The decision of this committee will be final and binding on both Parties.
-2. Change in Job Assignment a. The Employer retains the right and discretion to change an employee’s job assignment within the employee’s bid shift/days off. However, employees may not be removed from bid fixed posts within their shift, except for valid cause. If an employee is so removed, the employee may request review following the chain of command \(i.e. shift lieutenant, captain, security manager and assistant superintendent\). If the matter is not resolved, the employee may refer the matter to the Labor/Management Resolution Committee. b. Should the committee determine that this change of assignment is not valid cause, the superintendent shall take appropriate action as necessary.
+1. Change in Shift/Days Off a. The Security Manager or designee may change an employee’s shift and days off for valid cause only. When practical, the employee shall receive a seven \(7\) day notice of change. b. If the employee believes the change of bid shift and days off was not for valid cause, the employee may appeal the decision to the Labor/Management Resolution Committee. c. Should the Committee determine that a change of shift and days off was not for valid cause, the employee shall receive RFM differential for the entire period of the assignment. d. The decision of this committee will be final and binding on both Parties. 
+2. Change in Job Assignment a. The Employer retains the right and discretion to change an employee’s job assignment within the employee’s bid shift/days off. However, employees may not be removed from bid fixed posts within their shift, except for valid cause. If an employee is so removed, the employee may request review following the chain of command \(i.e. shift lieutenant, captain, security manager and assistant superintendent\). If the matter is not resolved, the employee may refer the matter to the Labor/Management Resolution Committee. b. Should the committee determine that this change of assignment is not valid cause, the superintendent shall take appropriate action as necessary. 
 3. Labor/Management Resolution Committee. The above Labor/Management Resolution Committee shall consist of five \(5\) members. Two \(2\) management members will be selected by the AFSCME Council 75 representing. Two \(2\) Labor members will be selected by the DAS Labor Relations Manager. The Superintendent will be a permanent member of the committee. The decisions of this committee are final and binding on both Parties and can’t be pursued through the grievance procedure.
 
 s. The Institution will attempt to ensure that staff who bid flex will be left on their bid shift and days off the week of vacation and the week following.
@@ -64,17 +67,17 @@ s. The Institution will attempt to ensure that staff who bid flex will be left o
 
 When there is a need for overtime work, the following steps will be followed:
 
-1. The weekly overtime list will be given first \(1st\) priority to fill any overtime.
-2. Daily overtime list will be assigned second \(2nd\) priority to fill any overtime assignments. As with voluntary overtime, Sergeant posts will be filled by Sergeants/Corporals first \(1st\) and Officer posts will be filled by Officers first \(1st\). The first \(1st\) staff on the list will have the first \(1st\) pick of available posts. The second \(2nd\) staff on the list will have second \(2nd\) pick of the available posts and so on until all posts are filled.
-3. On the job training Officers \(OJT\) can be pulled from their assigned post and placed in another post in order to allow the post to be used to fill an overtime assignment that other staff may want to work.
-4. Staff assigned as ‘Flex’ can be pulled from their assigned posts and placed in another post in order to allow the post to be used to fill an overtime opportunity that other staff may want to work.
-5. Corrections Officers, Corporals and Sergeants can voluntarily relinquish his/her post and be placed in another post in order to allow the post to be filled by another staff member.
-6. Corrections Officers may trade with Corporals and Sergeants provided they are qualified to perform the duties. \(Any MOT assignments do not matter\).
-7. Correctional Officers cannot be assigned to work as a Corporal or Sergeant when there is MOT \(except for number 6 above\).
-8. When there is sufficient staff available to work overtime on a shift, staff will be sent home in the following order \(the last staff assigned will be the first \(1st\) staff relieved in each category’s below\):
-   1. Employees assigned mandatory overtime;
-   2. Employees from solicited overtime;
-   3. Employees assigned overtime from the daily overtime signup;
+1. The weekly overtime list will be given first \(1st\) priority to fill any overtime. 
+2. Daily overtime list will be assigned second \(2nd\) priority to fill any overtime assignments. As with voluntary overtime, Sergeant posts will be filled by Sergeants/Corporals first \(1st\) and Officer posts will be filled by Officers first \(1st\). The first \(1st\) staff on the list will have the first \(1st\) pick of available posts. The second \(2nd\) staff on the list will have second \(2nd\) pick of the available posts and so on until all posts are filled. 
+3. On the job training Officers \(OJT\) can be pulled from their assigned post and placed in another post in order to allow the post to be used to fill an overtime assignment that other staff may want to work. 
+4. Staff assigned as ‘Flex’ can be pulled from their assigned posts and placed in another post in order to allow the post to be used to fill an overtime opportunity that other staff may want to work. 
+5. Corrections Officers, Corporals and Sergeants can voluntarily relinquish his/her post and be placed in another post in order to allow the post to be filled by another staff member. 
+6. Corrections Officers may trade with Corporals and Sergeants provided they are qualified to perform the duties. \(Any MOT assignments do not matter\). 
+7. Correctional Officers cannot be assigned to work as a Corporal or Sergeant when there is MOT \(except for number 6 above\). 
+8. When there is sufficient staff available to work overtime on a shift, staff will be sent home in the following order \(the last staff assigned will be the first \(1st\) staff relieved in each category’s below\): 
+   1. Employees assigned mandatory overtime; 
+   2. Employees from solicited overtime; 
+   3. Employees assigned overtime from the daily overtime signup; 
    4. Employees on the weekly overtime signup.
 
 ### b. Mandatory Overtime \(Bucket Procedure\)
@@ -103,9 +106,9 @@ It is the responsibility of the OIC or AOIC to contact the staff as early as pos
 
 A volunteer overtime list shall be developed and maintained on a daily basis by the OIC or AOIC. This list will be on a first come, first served basis. This will not count towards the bucket if no work is available. If an employee volunteers for an overtime opportunity and:
 
-1. Within two \(2\) hours before the actual overtime opportunity is to start the employee notifies the Institution he/she will not work, and,
-2. Where such notice requires the institution to assign an employee mandatory overtime for that post, and,
-3. There is no bona fide emergency or no OFLA/FMLA qualifying event, then,
+1. Within two \(2\) hours before the actual overtime opportunity is to start the employee notifies the Institution he/she will not work, and, 
+2. Where such notice requires the institution to assign an employee mandatory overtime for that post, and, 
+3. There is no bona fide emergency or no OFLA/FMLA qualifying event, then, 
 4. The employee not working the voluntary overtime will not be assigned voluntary overtime for thirty \(30\) calendar days from the date of notice.
 
 When a shift change occurs, the date of the staff member’s last bucket day, regardless of their previous shift will be transferred to the new list.
