@@ -6,27 +6,19 @@
 
 The following holidays will be recognized and paid for at the regular straight time rate of pay:
 
-a. New Year's Day on January 1;
+| a. New Year's Day on January 1; |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| b. Martin Luther King, Jr.'s Birthday on the third Monday in January; |
+| c. President's Birthday on the third Monday in February; |
+| d. Memorial Day on the last Monday in May; |
+| e. Independence Day on July 4; |
+| f. Labor Day on the first Monday in September; |
+| g. Veterans' Day on November 11; |
+| h. Thanksgiving Day on the fourth Thursday in November; |
+| i. Christmas Day on December 25; |
+| j. Every day appointed by the Governor of the State of Oregon as a holiday and every day appointed by the President of the United States as a day of mourning, rejoicing, or other special observance only when the Governor also appoints that day as a holiday. |
 
-b. Martin Luther King, Jr.'s Birthday on the third Monday in January;
-
-c. President's Birthday on the third Monday in February;
-
-d. Memorial Day on the last Monday in May;
-
-e. Independence Day on July 4;
-
-f. Labor Day on the first Monday in September;
-
-g. Veterans' Day on November 11;
-
-h. Thanksgiving Day on the fourth Thursday in November;
-
-i. Christmas Day on December 25;
-
-j. Every day appointed by the Governor of the State of Oregon as a holiday and every day appointed by the President of the United States as a day of mourning, rejoicing, or other special observance only when the Governor also appoints that day as a holiday.
-
-In addition to the above paid holidays, bargaining unit employees shall receive each November 1, if on the active payroll, twelve \(12\) hours added to their vacation leave balance.
+#### _In addition to the above paid holidays, bargaining unit employees shall receive each November 1, if on the active payroll, twelve \(12\) hours added to their vacation leave balance._
 
 To be eligible for the holiday pay cited in section 1 \(a-j\) above, the employee must be on pay status at least one half \(1/2\) of the last scheduled workday before the holiday and at least one half \(1/2\) of the first scheduled workday after the holiday or be in pay status for at least one hundred \(100\) hours in a month in which a holiday occurs. \(Pay status includes but is not limited to regular pay, overtime pay or use of accrued leaves etc.\)
 
@@ -155,16 +147,22 @@ h. An employee, upon the first day of work after a scheduled bid vacation or sch
 
 i. In addition to Article 32, Section \(9\)\(c\) of the Agreement, security staff may cash out up to one hundred and twenty \(120\) hours of accrued vacation under the following conditions:
 
-1. Employees must have regular status at the time of the request to cash out vacation.
-2. Employees may cash out either forty \(40\) hours, eighty \(80\) hours or one hundred and twenty \(120\) hours. NO other increments of time are allowed.
-3. Employees must have at least forty \(40\) hours of accrued leave after cash out.
-4. Request to cash out must be submitted between January 1 and September 30 each year.
-5. Payment shall be at the employee’s straight time rate of pay.
+1. Employees must have regular status at the time of the request to cash out vacation. 
+2. Employees may cash out either forty \(40\) hours, eighty \(80\) hours or one hundred and twenty \(120\) hours. NO other increments of time are allowed. 
+3. Employees must have at least forty \(40\) hours of accrued leave after cash out. 
+4. Request to cash out must be submitted between January 1 and September 30 each year. 
+5. Payment shall be at the employee’s straight time rate of pay. 
 6. Employees on unprotected leave without pay status at the time the cash is requested are not eligible to cash out accrued vacation hours.
 
 j. Specific Institution Vacation Scheduling Provisions:
 
-\| [**CCCF** ](32-cccf.md) \| [**SCI**](32-sci.md) \| \| --- \| --- \| --- \| --- \| --- \| --- \| \| [**CRCI** ](32-crci.md) \| [**SRCI**](32-srci.md) \| \| [**DRCI**](32-drci.md) \| [**TRANSPORT**](32-transport.md) \| \| [**EOCI**](32-eoci.md) \| [**TRCI**](32-trci.md) \| \| [**PRCF**](32-prcf.md) \| [**WCCF**](32-wccf.md) \| \| [**SCCI**](32-scci.md) \| \|
+| [**CCCF** ](32-cccf.md) | [**CRCI**](32-crci.md) |
+| --- | --- | --- | --- | --- | --- |
+| [**DRCI**](32-drci.md) | [**EOCI**](32-eoci.md) |
+| [**PRCF**](32-prcf.md) | [**SCCI**](32-scci.md) |
+| [**SCI**](32-sci.md) | [**SRCI**](32-srci.md) |
+| [**TRANSPORT**](32-transport.md) | [**TRCI**](32-trci.md) |
+| [**WCCF**](32-wccf.md)  |  |
 
 ## ARTICLE 33 - SICK LEAVE WITH PAY
 
@@ -192,7 +190,11 @@ Actual time worked and all leave with pay, except for educational leave, shall b
 
 ### Section 6
 
-Employees who have earned sick leave credits shall be eligible for sick leave for any period of absence from employment which is due to the employee's illness, bodily injury, disability resulting from pregnancy, necessity for medical or dental care, exposure to contagious disease, attendance upon members of the employee's and their spouse’s or domestic partner’s immediate family \(parents, wife, husband, children, brother, sister, grandmother, grandfather, grandchild, son-in-law, daughter-in-law, or another member of the immediate household including the PEBB definition of domestic partners\) where employee's presence is required because of illness or death, in the immediate family of the employee and the employee's spouse, or domestic partner. The Agency has the duty to require that the employee make other arrangements, within a reasonable period of time, for the attendance upon children or other persons in the employee's care. Certification of an attending physician or practitioner may be required by the Agency to support the employee's claim for sick leave, if the employee is absent in excess of seven \(7\) consecutive calendar days, or if the Agency has evidence that the employee is abusing sick leave privileges. The Agency may also require such certificate from an employee to determine whether the employee should be allowed to return to work where the Agency has reason to believe that the employee's return to work would be a health hazard to either the employee or to others. Any cost associated with the supplying of a certificate concerning a job-incurred injury or illness that is not covered by Workers' Compensation benefits shall be borne by the Agency.
+Employees who have earned sick leave credits shall be eligible for sick leave for any period of absence from employment which is due to the **employee's** illness, bodily injury, disability resulting from pregnancy, necessity for medical or dental care, exposure to contagious disease, attendance upon members of the employee's and their spouse’s or domestic partner’s _**immediate family:**_  
+
+> _parents, wife, husband, children, brother, sister, grandmother, grandfather, grandchild, son-in-law, daughter-in-law, or another member of the immediate household including the PEBB definition of domestic partners_
+
+where employee's presence is required because of illness or death, in the immediate family of the employee and the employee's spouse, or domestic partner. The Agency has the duty to require that the employee make other arrangements, within a reasonable period of time, for the attendance upon children or other persons in the employee's care. Certification of an attending physician or practitioner may be required by the Agency to support the employee's claim for sick leave, if the employee is absent in excess of seven \(7\) consecutive calendar days, or if the Agency has evidence that the employee is abusing sick leave privileges. The Agency may also require such certificate from an employee to determine whether the employee should be allowed to return to work where the Agency has reason to believe that the employee's return to work would be a health hazard to either the employee or to others. Any cost associated with the supplying of a certificate concerning a job-incurred injury or illness that is not covered by Workers' Compensation benefits shall be borne by the Agency.
 
 ### Section 7
 
