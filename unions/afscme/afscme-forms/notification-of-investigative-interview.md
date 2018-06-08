@@ -17,14 +17,23 @@ If you choose to have a union representative present during the scheduled interv
 The employee will be required to answer any questions involving non-criminal matters under investigation and will be afforded all rights and privileges to which the employee is entitled under the laws of the State of Oregon and/or the United States.
 
 | **Scheduled Interview of:** | Staff Name |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | **Location:**  |  |
 | **Date:** | **Time:** |
-|  |  |
 
 ## Summary of investigation/allegations:  ****
 
-## If you have any questions or conflicting schedule changes, please contact me as quickly as possible to reschedule.  Thanks for your time and cooperation.
+|  |
+| --- | --- | --- | --- |
+|  |
+|  |
+|  |
+
+## If you have any questions or conflicting schedule changes, please contact me as quickly as possible to reschedule. Thanks for your time and cooperation.
+
+| **You can contact me via:** | **Work Phone:** | **Cell Phone:** | **Email:** |
+| --- | --- |
+|  |  |  |  |
 
 ## By signing this document you are verifying that you have been notified and provided a copy for your records. 
 
