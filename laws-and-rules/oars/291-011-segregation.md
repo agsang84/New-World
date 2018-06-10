@@ -2,7 +2,7 @@
 description: (DISCIPLINARY)
 ---
 
-# Segregation - 011
+# 291-011 - Segregation
 
 | **291-011-0005**  Authority, Purpose, and Policy |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

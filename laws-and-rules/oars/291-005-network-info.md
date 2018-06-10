@@ -1,15 +1,15 @@
-# Network Information System Access & Security - 005
+# 291-005 - Network Information System Access & Security
 
-| [**291-005-0005 - Authority, Purpose, and Policy**](network-information-system-access-and-security-005.md#291-005-0005-authority-purpose-and-policy) |
+| [**291-005-0005 - Authority, Purpose, and Policy**](291-005-network-info.md#291-005-0005-authority-purpose-and-policy) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [**291-005-0011 - Definitions**](network-information-system-access-and-security-005.md#291-005-0011-definitions) |
-| [**291-005-0015 - General**](network-information-system-access-and-security-005.md#291-005-0015-general) |
-| [**291-005-0025 - Access Authorization**](network-information-system-access-and-security-005.md#291-005-0025-access-authorization) |
-| [**291-005-0035 - Termination of Access**](network-information-system-access-and-security-005.md#291-005-0035-termination-of-access) |
-| [**291-005-0045 - Dial-Up Access**](network-information-system-access-and-security-005.md#291-005-0045-dial-up-access) |
-| [**291-005-0055 - User Password Management and Responsibilities**](network-information-system-access-and-security-005.md#291-005-0055-user-password-management-and-responsibilities) |
-| [**291-005-0065 - Information Systems and Services Division \(ISSD\) Responsibilities for User Identification**](network-information-system-access-and-security-005.md#291-005-0065-information-systems-and-services-division-issd-responsibilities-for-user-identification) |
-| [**291-005-0075 - Physical Security Guidelines**](network-information-system-access-and-security-005.md#291-005-0075-physical-security-guidelines) |
+| [**291-005-0011 - Definitions**](291-005-network-info.md#291-005-0011-definitions) |
+| [**291-005-0015 - General**](291-005-network-info.md#291-005-0015-general) |
+| [**291-005-0025 - Access Authorization**](291-005-network-info.md#291-005-0025-access-authorization) |
+| [**291-005-0035 - Termination of Access**](291-005-network-info.md#291-005-0035-termination-of-access) |
+| [**291-005-0045 - Dial-Up Access**](291-005-network-info.md#291-005-0045-dial-up-access) |
+| [**291-005-0055 - User Password Management and Responsibilities**](291-005-network-info.md#291-005-0055-user-password-management-and-responsibilities) |
+| [**291-005-0065 - Information Systems and Services Division \(ISSD\) Responsibilities for User Identification**](291-005-network-info.md#291-005-0065-information-systems-and-services-division-issd-responsibilities-for-user-identification) |
+| [**291-005-0075 - Physical Security Guidelines**](291-005-network-info.md#291-005-0075-physical-security-guidelines) |
 
 ## **291-005-0005 - Authority, Purpose, and Policy**
 
@@ -69,7 +69,7 @@
 
 > Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 16-1999, f. 9-24-99, cert. ef. 10-1-99 CD 10-1997, f. & cert. ef. 6-20-97 CD 24-1992, f. 11-24-92, cert. ef. 12-1-92 CD 12-1986, f. & ef. 6-30-86 CD 38-1985, f. & ef. 8-16-85 CD 7-1981, f. & ef. 4-17-81
 
-[Back to Top](network-information-system-access-and-security-005.md)
+[Back to Top](291-005-network-info.md)
 
 ## 291-005-0025 - Access Authorization {#291-005-0025---access-authorization}
 

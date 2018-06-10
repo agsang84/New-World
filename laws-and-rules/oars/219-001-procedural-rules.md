@@ -2,16 +2,16 @@
 description: Chapter 291 - Division 1
 ---
 
-# Procedural Rules - 001
+# 219-001 - Procedural Rules
 
-| [**291-001-0020 - Notice of Proposed Rule**](procedural-rules-001.md#291-001-0020-notice-of-proposed-rule) |
+| [**291-001-0020 - Notice of Proposed Rule**](219-001-procedural-rules.md#291-001-0020-notice-of-proposed-rule) |
 | --- | --- | --- | --- | --- | --- | --- |
-| [**291-001-0025 - Model Rules of Procedure**](procedural-rules-001.md#291-001-0025-model-rules-of-procedure) |
-| [**291-001-0051 - Inmate Written Submissions on Proposed Rules**](procedural-rules-001.md#291-001-0051-inmate-written-submissions-on-proposed-rules) |
-| [**291-001-0060 - Mailing List Fees**](procedural-rules-001.md#291-001-0060-mailing-list-fees) |
-| [**291-001-0080 - Copies of Department Permanent and Temporary Rules, and Fees**](procedural-rules-001.md#291-001-0080-copies-of-department-permanent-and-temporary-rules-and-fees) |
-| [**291-001-0110 - Confidentiality and Inadmissibility of Workplace Interpersonal Dispute Mediation Communications**](procedural-rules-001.md#291-001-0110-confidentiality-and-inadmissibility-of-workplace-interpersonal-dispute-mediation-communications) |
-| [**291-001-0115 - Confidentiality and Inadmissibility of Mediation Communications**](procedural-rules-001.md#291-001-0115-confidentiality-and-inadmissibility-of-mediation-communications) |
+| [**291-001-0025 - Model Rules of Procedure**](219-001-procedural-rules.md#291-001-0025-model-rules-of-procedure) |
+| [**291-001-0051 - Inmate Written Submissions on Proposed Rules**](219-001-procedural-rules.md#291-001-0051-inmate-written-submissions-on-proposed-rules) |
+| [**291-001-0060 - Mailing List Fees**](219-001-procedural-rules.md#291-001-0060-mailing-list-fees) |
+| [**291-001-0080 - Copies of Department Permanent and Temporary Rules, and Fees**](219-001-procedural-rules.md#291-001-0080-copies-of-department-permanent-and-temporary-rules-and-fees) |
+| [**291-001-0110 - Confidentiality and Inadmissibility of Workplace Interpersonal Dispute Mediation Communications**](219-001-procedural-rules.md#291-001-0110-confidentiality-and-inadmissibility-of-workplace-interpersonal-dispute-mediation-communications) |
+| [**291-001-0115 - Confidentiality and Inadmissibility of Mediation Communications**](219-001-procedural-rules.md#291-001-0115-confidentiality-and-inadmissibility-of-mediation-communications) |
 
 ## **291-001-0020 - Notice of Proposed Rule**
 

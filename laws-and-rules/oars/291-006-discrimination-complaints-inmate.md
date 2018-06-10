@@ -2,17 +2,17 @@
 description: Chapter 291 - Division 6
 ---
 
-# Discrimination Complaints \(Inmate\) - 006
+# 291-006 - Discrimination Complaints \(Inmate\)
 
-| [**291-006-0005 - Authority, Purpose, and Policy**](discrimination-complaints-inmate-006.md#291-006-0005-authority-purpose-and-policy) |
+| [**291-006-0005 - Authority, Purpose, and Policy**](291-006-discrimination-complaints-inmate.md#291-006-0005-authority-purpose-and-policy) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [**291-006-0011 - Definitions**](discrimination-complaints-inmate-006.md#291-006-0011-definitions) |
-| [**291-006-0012 - Inmate-Staff Communications \(General Principles\)**](discrimination-complaints-inmate-006.md#291-006-0012-inmate-staff-communications-general-principles) |
-| [**291-006-0015 - Internal Complaint Process**](discrimination-complaints-inmate-006.md#291-006-0015-internal-complaint-process) |
-| [**291-006-0031 - How and When a Discrimination Complaint is filed**](discrimination-complaints-inmate-006.md#291-006-0031-how-and-when-a-discrimination-complaint-is-filed) |
-| [**291-006-0035 - Processing of Inmate Discrimination Complaints**](discrimination-complaints-inmate-006.md#291-006-0035-processing-of-inmate-discrimination-complaints) |
-| [**291-006-0040 - Discrimination Complaint Reviews**](discrimination-complaints-inmate-006.md#291-006-0040-discrimination-complaint-reviews) |
-| [**291-006-0045 - Retention and Filing of Inmate Discrimination Complaints**](discrimination-complaints-inmate-006.md#291-006-0045-retention-and-filing-of-inmate-discrimination-complaints) |
+| [**291-006-0011 - Definitions**](291-006-discrimination-complaints-inmate.md#291-006-0011-definitions) |
+| [**291-006-0012 - Inmate-Staff Communications \(General Principles\)**](291-006-discrimination-complaints-inmate.md#291-006-0012-inmate-staff-communications-general-principles) |
+| [**291-006-0015 - Internal Complaint Process**](291-006-discrimination-complaints-inmate.md#291-006-0015-internal-complaint-process) |
+| [**291-006-0031 - How and When a Discrimination Complaint is filed**](291-006-discrimination-complaints-inmate.md#291-006-0031-how-and-when-a-discrimination-complaint-is-filed) |
+| [**291-006-0035 - Processing of Inmate Discrimination Complaints**](291-006-discrimination-complaints-inmate.md#291-006-0035-processing-of-inmate-discrimination-complaints) |
+| [**291-006-0040 - Discrimination Complaint Reviews**](291-006-discrimination-complaints-inmate.md#291-006-0040-discrimination-complaint-reviews) |
+| [**291-006-0045 - Retention and Filing of Inmate Discrimination Complaints**](291-006-discrimination-complaints-inmate.md#291-006-0045-retention-and-filing-of-inmate-discrimination-complaints) |
 
 ## 291-006-0005 - Authority, Purpose, and Policy {#291-006-0005---authority-purpose-and-policy}
 

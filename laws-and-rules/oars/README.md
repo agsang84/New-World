@@ -1,10 +1,10 @@
 # OAR's
 
-| [**291-001**](procedural-rules-001.md) **- Procedural Rules** | [**291-005**](network-information-system-access-and-security-005.md) **- Network Information** |
+| [**291-001**](219-001-procedural-rules.md) **- Procedural Rules** | [**291-005**](291-005-network-info.md) **- Network Information** |
 | --- | --- | --- |
-| [**291-006**](discrimination-complaints-inmate-006.md) **- Discrimination Complaints \(Inmate\)** | [**291-009**](tours-009.md) **- Tours** |
-| [**291-011**](segregation-011.md) **- Segregation \(Disciplinary\)** | [**291-013**](use-of-force-013.md) **- Use of Force** |
-| [**291-014** ](arrest-and-transport-014.md) | **291-014 Attachment** |
+| [**291-006**](291-006-discrimination-complaints-inmate.md) **- Discrimination Complaints \(Inmate\)** | [**291-009**](291-009-tours.md) **- Tours** |
+| [**291-011**](291-011-segregation.md) **- Segregation \(Disciplinary\)** | [**291-013**](291-013-use-of-force.md) **- Use of Force** |
+| [**291-014** ](291-014-arrest-and-transport.md) | **291-014 Attachment** |
 | **291-015** | **291-016** |
 | **291-019** | **291-022** |
 | **291-024** | **291-026** |
