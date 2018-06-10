@@ -1,7 +1,3 @@
----
-description: Chapter 291 - Division 14
----
-
 # Arrest and Transport - 014
 
 | **291-014-0100 - Authority, Purpose, and Policy** |

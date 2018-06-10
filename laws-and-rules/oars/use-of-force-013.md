@@ -1,7 +1,3 @@
----
-description: Chapter 291 - Division 13
----
-
 # Use of Force - 013
 
 | [**291-013-0005 - Authority, Purpose, and Policy**](use-of-force-013.md#291-013-0005-authority-purpose-and-policy) |
