@@ -78,6 +78,7 @@
     * [Tours - 009](laws-and-rules/oars/tours-009.md)
     * [Segregation - 011](laws-and-rules/oars/segregation-011.md)
     * [Therapeutic Restraints \(Use of\) - 071](laws-and-rules/oars/0071.md)
+    * [Use of Force - 013](laws-and-rules/oars/use-of-force-013.md)
 * [ODOC](odoc/README.md)
   * [ODOC Policies](odoc/odoc-policies/README.md)
     * [Chapter 10](odoc/odoc-policies/chapter-10/README.md)
