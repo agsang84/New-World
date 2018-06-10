@@ -77,6 +77,7 @@
     * [Discrimination Complaints \(Inmate\) - 006](laws-and-rules/oars/discrimination-complaints-inmate-006.md)
     * [Tours - 009](laws-and-rules/oars/tours-009.md)
     * [Segregation - 011](laws-and-rules/oars/segregation-011.md)
+    * [0071](laws-and-rules/oars/0071.md)
 * [ODOC](odoc/README.md)
   * [ODOC Policies](odoc/odoc-policies/README.md)
     * [Chapter 10](odoc/odoc-policies/chapter-10/README.md)
