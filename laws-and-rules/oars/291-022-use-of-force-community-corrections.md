@@ -1,19 +1,19 @@
 # 291-022 - Use of Force \(Community Corrections\)
 
-| **291-022-0105 - Authority, Purpose, and Policy** |
+| [**291-022-0105 - Authority, Purpose, and Policy**](291-022-use-of-force-community-corrections.md#291-022-0105-authority-purpose-and-policy) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **291-022-0115 - Definitions** |
-| **291-022-0125 - Applicability of the Rule** |
-| **291-022-0130 - General Provisions — Use of Force** |
-| **291-022-0150 - Deadly Use of Force** |
-| **291-022-0160 - Security Equipment** |
-| **291-022-0161 - Electronic Control Device Deployment** |
-| **291-022-0162 - Treatment of Affected Persons** |
-| **291-022-0170 - Firearms** |
-| **291-022-0180 - Blood Borne Pathogens** |
-| **291-022-0190 - Injury, Death, or Hostage** |
-| **291-022-0200 - Notifications** |
-| **291-022-0210 - Reviews** |
+| [**291-022-0115 - Definitions**](291-022-use-of-force-community-corrections.md#291-022-0115-definitions) |
+| [**291-022-0125 - Applicability of the Rule**](291-022-use-of-force-community-corrections.md#291-022-0125-applicability-of-the-rule) |
+| [**291-022-0130 - General Provisions — Use of Force**](291-022-use-of-force-community-corrections.md#291-022-0130-general-provisions-use-of-force) |
+| [**291-022-0150 - Deadly Use of Force**](291-022-use-of-force-community-corrections.md#291-022-0150-deadly-use-of-force) |
+| [**291-022-0160 - Security Equipment**](291-022-use-of-force-community-corrections.md#291-022-0160-security-equipment) |
+| [**291-022-0161 - Electronic Control Device Deployment**](291-022-use-of-force-community-corrections.md#291-022-0161-electronic-control-device-deployment) |
+| [**291-022-0162 - Treatment of Affected Persons**](291-022-use-of-force-community-corrections.md#291-022-0162-treatment-of-affected-persons) |
+| [**291-022-0170 - Firearms**](291-022-use-of-force-community-corrections.md#291-022-0170-firearms) |
+| [**291-022-0180 - Blood Borne Pathogens**](291-022-use-of-force-community-corrections.md#291-022-0180-blood-borne-pathogens) |
+| [**291-022-0190 - Injury, Death, or Hostage**](291-022-use-of-force-community-corrections.md#291-022-0190-injury-death-or-hostage) |
+| [**291-022-0200 - Notifications**](291-022-use-of-force-community-corrections.md#291-022-0200-notifications) |
+| [**291-022-0210 - Reviews**](291-022-use-of-force-community-corrections.md#291-022-0210-reviews) |
 
 ## 291-022-0105 - Authority, Purpose, and Policy
 
