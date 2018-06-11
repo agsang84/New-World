@@ -139,5 +139,61 @@ An inmate visitor will be granted access as specified in the Department of Corre
 ## 291-016-0100 - Tool and Equipment Access
 
 1. All tools and equipment that enter or exit the facility's secure perimeter require approval of the security manager or designee. 
-2. Electronic Devices:  \(a\) A person will not be allowed to bring in a personal cellular phone, pager, laptop computer, personal digital assistant or other electronic communication device beyond the control point of a correctional facility unless specifically authorized by the security manager or designee. The functional unit manager shall designate the control point of the correctional facility.
+2. Electronic Devices:  
+  
+   \(a\) A person will not be allowed to bring in a personal cellular phone, pager, laptop computer, personal digital assistant or other electronic communication device beyond the control point of a correctional facility unless specifically authorized by the security manager or designee. The functional unit manager shall designate the control point of the correctional facility.  
+  
+   \(b\) Department staff may bring in department-issued electronic two-way communication devices \(e.g., pager, cellular phone, personal digital assistant, etc.\) beyond the control point of a correctional facility when such devices are necessary for the staff member to perform official duties. Department staff must declare the two-way communication device on the Facility Access Register \(CD 52a\).
+
+
+
+   \(c\) Investigators from the Oregon State Police are permitted to bring state-issued cell phones and pagers beyond the control point of a correctional facility while conducting official business without prior authorization from the security manager or designee.
+
+
+
+   \(d\) Any other electronic devices not covered in sections \(a\) through \(c\) that enter a correctional facility beyond the control point require approval of the security manager or designee.
+
+All tools and equipment will be searched for contraband prior to entry and exit of the secure perimeter.
+
+All tools and equipment that enter the secure perimeter on a temporary basis will be inventoried prior to entry and reinventoried before exit from the facility. Any discrepancies with the reinventory will be immediately reported to the security manager or designee.
+
+All tools and equipment that enter the secure perimeter on a temporary basis will be under continual surveillance by a functional unit employee while inside the facility or locked in a secure area.
+
+Tools and equipment that enter or exit a facility with no secure perimeter will be granted access as authorized by the security manager or designee.
+
+
+
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 10-2006, f. & cert. ef. 10-9-06 CD 26-1992, f. 12-11-92, cert. ef. 1-2-93
+
+## 291-016-0110 - Supply Access
+
+All supplies that enter a facility’s secure perimeter will require approval of the security manager or designee.
+
+Supplies will be searched for contraband \(except sealed containers\) prior to entry or exit of the secure perimeter. Sealed containers may be opened for inspection. Any item large enough to conceal a person will be searched before leaving the secure perimeter.
+
+Supplies that enter or exit a facility with no secure perimeter will be granted access as authorized by the security manager or designee.
+
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: CD 26-1992, f. 12-11-92, cert. ef. 1-2-93
+
+## 291-016-0120 - Possession and Storage of Personal Handguns at Facilities Owned or Occupied by the Department of Corrections
+
+In accordance with 2015 Or Laws, Ch 246, authorized staff of the Department of Corrections, Oregon Board of Parole and Post-Prison Supervision, and Oregon Corrections Enterprises may possess and store a personal handgun and ammunition in their personal vehicle when the vehicle is parked in a department parking lot at a Department of Corrections facility only if the authorized staff:
+
+\(a\) Has a valid concealed handgun license issued pursuant to ORS 166.291 and 166.292; and
+
+\(b\) Has secured the handgun and ammunition in a closed and locked container designed for the storage of a firearm inside a vehicle.
+
+Use of Department Storage Facilities Required Where Provided: If the department has provided a secure and locked location for authorized staff to store their personal handgun and ammunition at a Department of Corrections facility, the authorized staff must promptly store the personal handgun and ammunition in the storage location designated by the department, and not in their personal vehicle.
+
+Ammunition: Authorized staff who bring personal handguns to a Department of Corrections facility in accordance with these rules may possess and store with their personal handgun only that amount of ammunition that the personal handgun is designed to hold plus two additional magazines or speed loaders.
+
+Under no circumstance may an authorized staff member carry a personal handgun within the secure perimeter of the correctional facility, unless authorized by the correctional facility’s confidential procedure in order to securely store the staff member’s personal handgun.
+
+Personal handguns shall not be carried or used during the performance of official duties.
+
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 
+>
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 
+>
+> History: DOC 15-2015, f. & cert. ef. 10-20-15 DOC 7-2015\(Temp\), f. & cert. ef. 7-1-15 thru 12-27-15 DOC 23-2014, f. & cert. ef. 12-3-14 DOC 17-2014\(Temp\), f. & cert. ef. 7-2-14 thru 12-3-14 DOC 14-2014\(Temp\), f. 6-5-14, cert. ef. 6-6-14 thru 12-3-14
 
