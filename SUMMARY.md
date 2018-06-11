@@ -86,6 +86,7 @@
     * [291-022 - Use of Force \(Community Corrections\)](laws-and-rules/oars/291-022-use-of-force-community-corrections.md)
     * [291-024 - Capital Punishment](laws-and-rules/oars/291-024-capital-punishment.md)
     * [291-071 - Therapeutic Restraints \(Use of\)](laws-and-rules/oars/291-071-therapeutic-restraints-use-of.md)
+    * [291-026 - Contracts and Governmental Agreements](laws-and-rules/oars/untitled.md)
 * [ODOC](odoc/README.md)
   * [ODOC Policies](odoc/odoc-policies/README.md)
     * [Chapter 10](odoc/odoc-policies/chapter-10/README.md)
