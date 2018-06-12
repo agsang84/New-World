@@ -8,12 +8,12 @@
 | [**291-015 - Volunteer Services/Student Interns**](291-015-volunteer-services-student-interns.md) | [**291-016 - Facility Access**](291-016-facility-access.md) |
 | [**291-019 - Transfer \(Community Corrections\)**](291-019-transfer-community-corrections.md) | [**291-022 - Use of Force \(Community Corrections\)**](291-022-use-of-force-community-corrections.md) |
 | [**291-024 - Capital Punishment**](291-024-capital-punishment.md) | [**291-026 - Contracts and Governmental Agreements**](untitled.md) |
-| [**291-027 - Death \(Inmate\)**](291-027-death-inmate.md) | **291-028 - Searches \(Community Corrections\)** |
-|  | **291-031** |
-| **291-032** | **291-034** |
-| **291-035** | **291-037** |
-| **291-038** | **291-039** |
-| **291-041** | **291-042** |
+| [**291-027 - Death \(Inmate\)**](291-027-death-inmate.md) | [**291-028 - Searches \(Community Corrections\)**](291-028-searches-community-corrections.md) |
+| **291-031 - Community Corrections Programs** | **291-032 - Land Use Coordination** |
+| **291-034 - Transfers \(Inmate\)** | **291-035 - Research Proposals** |
+| **291-037 - Release of Public Records** | **291-038 - Pre-Sentence Reports** |
+| **291-039 - Release of Public Information** | **291-041 - Searches \(Institutions\)** |
+|  |  |
 | **291-046** | **291-047** |
 | **291-048** | **291-052** |
 | **291-053** | **291-055** |
