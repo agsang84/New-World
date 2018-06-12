@@ -1,0 +1,168 @@
+---
+description: Between Oregon Youth Authority and Dept. of Corrections
+---
+
+# 291-052 - Transfers/Responsibilities
+
+Department of Corrections Chapter 291 Division 52 TRANSFERS/RESPONSIBILITIES BETWEEN OREGON YOUTH AUTHORITY AND  DEPARTMENT OF CORRECTIONS 291-052-0100 Authority, Purpose and Policy
+
+\(1\) Authority: The authority for these rules is granted to the Director of the Department of Corrections in accordance with ORS 179.040, 423.020, 423.030, and 423.075.
+
+\(2\) Purpose: The purpose of these rules is to:
+
+\(a\) Provide procedures for the administrative transfer of certain inmates under the age of 20 from the Department of Corrections \(DOC\) to the Oregon Youth Authority \(OYA\); and
+
+\(b\) Provide procedures for requesting a court hearing under the provisions of Second Look, establishing a release plan and providing follow-up reports to the court.
+
+\(3\) It is the policy of DOC that:
+
+\(a\) An individual under the age of 18 at the time of committing an offense and under 20 years of age at the time of sentencing to a term of incarceration in DOC may be housed at a youth correction facility as follows:
+
+\(A\) If the individual is under 16 years of age at the time of transfer, the individual shall be delivered directly to a youth correction facility by the county;
+
+\(B\) If the individual is 16 or 17 years of age and is taken to the Coffee Creek Intake Center, the individual shall be transferred to a youth correction facility the same day;
+
+\(C\) If the individual is 18 or 19 years of age and is taken to Coffee Creek Intake Center, the individual shall be transferred to a youth correction facility as soon as possible; and
+
+\(D\) County sheriffs may elect to deliver these individuals directly to a youth correction facility.
+
+\(b\) Pursuant to federal sight and sound mandates, no one 18 years of age or older at the time of committing the offense shall be transferred to a youth correction facility, and no one under 18 years of age will be housed in a DOC facility within sight or sound of adult DOC inmates.
+
+\(4\) DOC and OYA concur these transfers best serve the inmates’ reformation plans; and inmates may be transferred by OYA to DOC when appropriate, as provided for in ORS 420.011, Subsections 2 and 3, and ORS 137.124.
+
+\(5\) DOC shall request memorandums of understanding from county sheriff offices pertaining to the direct delivery of qualifying inmates to youth correction facilities.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 137.124, 179.040, 420.011\(2\) & \(3\), 423.020, 423.030 & 423.075 History: DOC 14-2015, f. & cert. ef. 10-20-15 291-052-0110 Definitions
+
+\(1\) DOC: Department of Corrections
+
+\(2\) Inmate: Any person under the supervision of the Department of Corrections who is not on parole, post-prison supervision, or probation status.
+
+\(3\) OYA: Oregon Youth Authority
+
+\(4\) Second Look: For crimes committed on or after June 30, 1995, inmates under 18 years of age at the time of committing an offense and sentenced to the Department of Corrections may be eligible for conditional release following completion of half of the Department of Corrections sentence and approval by the sentencing court.
+
+\(5\) Youth Correction Facility: Any facility used for the confinement of persons committed to the physical custody of the Oregon Youth Authority.
+
+\(6\) Youth Offender: A person who has been found to be within the jurisdiction of the juvenile court under ORS 416C.005 for an act committed when the person was under 18 years of age.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 137.124, 179.040, 420.011\(2\) & \(3\), 423.020, 423.030 & 423.075 History: DOC 14-2015, f. & cert. ef. 10-20-15 291-052-0120 Transfer to Oregon Youth Authority of Qualifying Inmates
+
+\(1\) An inmate shall be considered qualified for transfer to a youth correction facility if the inmate meets the criteria outlined in OAR 291-052-0100\(3\).
+
+\(2\) DOC must notify OYA when a qualified inmate is taken to Coffee Creek Intake Center, and make arrangements through the DOC Office of Population Management to transfer the inmate to the appropriate youth correction facility.
+
+\(3\) DOC staff will coordinate with OYA to complete any intake procedures not completed prior to transfer to a youth correction facility.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 137.124, 179.040, 420.011\(2\) & \(3\), 423.020, 423.030 & 423.075 History: DOC 14-2015, f. & cert. ef. 10-20-15 291-052-0130 Inmates Delivered Directly to the Oregon Youth Authority
+
+\(1\) The same day an inmate arrives at a youth correction facility, OYA staff must forward copies of the inmate’s judgments, statements of imprisonment, detainers, county misconduct documents, fingerprints, photograph, and any other information received to DOC.
+
+\(2\) DOC must verify the inmate meets the qualifying criteria to be placed in a youth correction facility as outlined in OAR 291-052-0100\(3\).
+
+\(3\) Designated DOC staff must coordinate with designated OYA staff to complete the inmate’s DOC intake process.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 137.124, 179.040, 420.011\(2\) & \(3\), 423.020, 423.030 & 423.075 History: DOC 14-2015, f. & cert. ef. 10-20-15 291-052-0140 Return of an Inmate to the Department of Corrections
+
+\(1\) To return an inmate to DOC, the OYA Director, or the designee, shall contact the DOC Office of Population Management to request the transfer. The Office of Population Management shall arrange the inmate’s transport to DOC.
+
+\(2\) An inmate cannot remain in the physical custody of the OYA after the inmate is 25 years of age. Before the inmate’s 25th birthday, the Office of Population Management shall arrange the transfer of and coordinate with the DOC Transport Unit for the transfer of the inmate to DOC.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 137.124, 179.040, 420.011\(2\) & \(3\), 423.020, 423.030 & 423.075 History: DOC 14-2015, f. & cert. ef. 10-20-15 291-052-0150 Responsibilities
+
+\(1\) DOC will:
+
+\(a\) Retain legal custody of the inmate, regardless of the inmate’s physical location;
+
+\(b\) Designate the functional unit manager/designee of the Office of Population Management as the coordinator of case planning, classification, and all status change decisions concerning each inmate on administrative transfer to a youth correction facility;
+
+\(c\) Issue all warrants and place All Points Bulletins for inmates who escape from a youth correction facility;
+
+\(d\) Manage release planning, including Second Look Conditional Release planning and coordination of releases to other agencies holding detainers, for all inmates in OYA physical custody; and
+
+\(e\) Notify OYA of scheduled Board of Parole and Post-Prison Supervision hearings for inmates in OYA physical custody.
+
+\(2\) OYA will:
+
+\(a\) Care for inmates in its physical custody in the same manner as youth offenders;
+
+\(b\) Provide copies of all regular, at least semi-annual reports, and special reports to the Offender Information and Sentence Computation Unit;
+
+\(c\) Provide inmates with opportunities for work and self-improvement in the same manner as youth offenders, including compensation when warranted;
+
+\(d\) Provide programs and treatment for inmates as OYA determines are appropriate;
+
+\(e\) Not release an inmate from OYA physical custody, including inmates with detainers from other municipal, state or federal agencies, without the express approval of DOC;
+
+\(f\) Exercise reasonable control of inmates and use security units when warranted. All inmate major behavior violations or circumstances deemed serious by OYA staff must be brought to the attention of the youth correction facility superintendent and the Office of Population Management;
+
+\(g\) Report to the Office of Population Management an inmate’s alleged commission of any crime while in the physical custody of the OYA;
+
+\(h\) If the inmate escapes from a youth correction facility, the facility shall immediately notify the functional unit manager of Offender Information and Sentence Computation and shall, within 24 hours thereafter, return any and all inmate file material to the Offender Information and Sentence Computation Unit; and
+
+\(i\) For escapes which occur after regular business hours, OYA must immediately contact the facility designated by DOC.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 137.124, 179.040, 420.011\(2\) & \(3\), 423.020, 423.030 & 423.075 History: DOC 14-2015, f. & cert. ef. 10-20-15 291-052-0160 Release Planning
+
+\(1\) Post-Prison Supervision:
+
+\(a\) Not more than 180 days and not less than 150 days before the inmate’s projected release date, or at the request of the DOC, OYA will send the inmate’s proposed transition worksheet to the DOC release counselor to assist in the development of the DOC release plan.
+
+\(b\) The DOC release counselor will work with the inmate, OYA, county community corrections, and the Board of Parole and Post-Prison Supervision on the DOC release plan. The release plan must include the following:
+
+\(A\) Proposed residence plan with occupant’s contact information and relationship to the inmate if a private residence. If the inmate is in need of housing, the release plan will include that information;
+
+\(B\) Any notable issues regarding criminal history, risks and needs, residence plan, necessary police reports, financial obligations including restitution, and supporting documentation for recommended conditions of supervision;
+
+\(C\) Recommended special conditions of supervision based on the individual risks and needs of the inmate, including any conditions reasonably necessary to further the reform and rehabilitation of the inmate and to ensure compliance with the other conditions imposed; and
+
+\(D\) Reporting instructions to the county of residence on the day of release.
+
+\(c\) At approximately 120 days before the inmate’s projected release date, the release plan will be forwarded to the appropriate county community corrections agency in the county of residence, as determined by the DOC release counselor. The Board of Parole and Post-Prison Supervision has final authority over county of residence. The release plan shall be investigated by the county and returned to the DOC release counselor within approximately 45 days.
+
+\(d\) The DOC release counselor will submit the plan to the Board of Parole and Post-Prison Supervision no later than 75 days before the inmate’s projected release date.
+
+\(e\) The DOC release counselor will work with the OYA facility staff to facilitate the signing of the conditions of supervision, reporting instructions, and any other documents determined to be necessary by DOC.
+
+\(f\) The DOC release counselor will work with the OYA facility staff to have the inmate transferred to an OYA facility closest to the county of release, and to determine release transportation to the county of release on the day of release.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 137.124, 179.040, 420.011\(2\) & \(3\), 423.020, 423.030 & 423.075 History: DOC 14-2015, f. & cert. ef. 10-20-15 291-052-0170 Second Look
+
+\(1\) Not more than 120 days and not less than 60 days before the sentence is one-half served, OYA or DOC, whichever has physical custody of the inmate, shall file with the sentencing court a notice and request for the court to set a time and place for a hearing on all inmates eligible for a second look.
+
+\(2\) If a request is filed by OYA, OYA shall notify DOC of the request and the date of the hearing. A case summary \(Exhibit I\) will be prepared by OYA and submitted to DOC prior to the date of the hearing.
+
+\(3\) If the inmate is in the physical custody of OYA, the OYA Second Look coordinator will immediately notify Offender Information and Sentence Computation and the DOC release counselor of the decision of the court.
+
+\(4\) If the court decides that a conditional release is appropriate and the inmate is in the physical custody of OYA, DOC will coordinate a release plan with the county community corrections agency and the OYA. DOC will submit the release plan to the court no later than 45 days after the receipt of the court’s direction to prepare the plan. The release plan must include:
+
+\(a\) A description of support services and program opportunities available to the inmate;
+
+\(b\) The recommended conditions of the release and supervision;
+
+\(c\) The level of supervision required;
+
+\(d\) Conditions or requirements that provide for the safety of the victim, the victim's family, and the community;
+
+\(e\) A payment schedule for inmates whose sentences include a requirement to make restitution or to pay compensatory fines or attorney fees and who have not yet made full payment;
+
+\(f\) Any conditions reasonably necessary to further the reform and rehabilitation of the inmate and to ensure compliance with the other conditions imposed; and
+
+\(g\) Any special conditions necessary because of the inmate's individual circumstances.
+
+\(5\) If the court does not approve the proposed release plan and returns the plan to DOC with recommended modifications and additions, DOC shall submit a revised plan to the court no later than 15 days after the receipt of the court’s recommended modifications and additions.
+
+\(6\) When the court has approved a final plan, DOC shall arrange for the physical release of the inmate and notify OYA of the arrangements.
+
+\(7\) The final release plan shall require the DOC or designee to submit a report to the court no later than 90 days after the inmate is conditionally released, and at least every 180 days thereafter, informing the court of the inmate's circumstances and progress on conditional release.
+
+\(8\) While on conditional release, the inmate shall remain under the jurisdiction of the court:
+
+\(a\) If the inmate violates a condition of release, the inmate may be taken into custody and detained pending a hearing by the court;
+
+\(b\) No later than 24 hours after an inmate is taken into custody, DOC or DOC’s designee shall file a notice and affidavit with the court and serve a copy of the notice and affidavit on the person.
+
+\[ED. NOTE: To view tables referenced in rule text, click here to view rule.\]
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 137.124, 179.040, 420.011\(2\) & \(3\), 420A.203, 420A.206, 423.020, 423.030 & 423.075 History: DOC 14-2015, f. & cert. ef. 10-20-15
+

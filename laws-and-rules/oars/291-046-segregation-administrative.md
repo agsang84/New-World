@@ -1,0 +1,266 @@
+# 291-046 - Segregation \(Administrative\)
+
+Department of Corrections Chapter 291 Division 46 SEGREGATION \(ADMINISTRATIVE\) 291-046-0005 Authority, Purpose and Policy
+
+\(1\) The authority for this rule is granted to the Director of the Department of Corrections in accordance with ORS 179.040, 423.020, 423.030 and 423.075.
+
+\(2\) Purpose: The purpose of this rule is to provide a method to administratively house inmates in Department of Corrections facilities who:
+
+\(a\) Constitute a continuing or immediate threat to the safety, security, and orderly operation of the facility; or
+
+\(b\) Require protective custody.
+
+\(3\) Policy: It is the policy of the Department of Corrections to administratively house those inmates in Department of Corrections facilities whose notoriety, actions or threats jeopardize the safety, security, and orderly operation of the facility, staff, visitors or other inmates.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 28-1987, f. & ef. 6-5-87 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0010 Definitions
+
+\(1\) Administrative Housing: Housing separate and apart from the general population, including facilities, rooms, or cells for inmates whose actions, or threats jeopardize the safety, security, and orderly operation of the facility, staff, visitors, or other inmates or for those inmates who require protective custody and no other reasonable housing alternative is available.
+
+\(2\) Administrative Hold: An involuntary or voluntary temporary administrative housing assignment not to exceed 30 days by order of the functional unit manager or designee only when he/she determines there is sufficient evidence to believe immediate assignment is necessary to protect the safety, security and orderly operation of the facility.
+
+\(3\) Administrative Segregation: Administrative housing for those inmates whose notoriety, actions, or threats jeopardize the safety, security, and orderly operation of the facility, staff, visitors, or other inmates.
+
+\(4\) Department of Corrections Facility: Any institution, facility, or staff office, including the grounds, operated by the Department of Corrections.
+
+\(5\) Inmate: Any person under the supervision of Department of Corrections who is not on parole, post-prison supervision, or probation status.
+
+\(6\) Officer in Charge: That person designated by the functional unit manager to supervise the facility and make operational decisions in accordance with rule or procedure during periods when the functional unit manager or officer of the day are not readily available.
+
+\(7\) Protective Custody: Administrative housing for those inmates who consent in writing and for which no reasonable housing alternative is available or for those inmates who are considered by staff to require protective custody but do not volunteer to sign consent for such placement.
+
+\(8\) Reasonable Grounds: Information that is of such credibility that it would induce a reasonably prudent person to use it in the conduct of their serious affairs.
+
+\(9\) Special Needs Inmate Evaluation Committee \(SNIEC\): An institution committee that reviews, evaluates, and manages the needs of special population inmates housed in the custody of Department of Corrections facilities.
+
+\(10\) Special Population Management Committee \(SPM\): A committee that is composed of at least three department staff to include a representative from Institution Operations, Behavioral Health Services, and the Office of Population Management.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: 423.030, 423.075, ORS 179.040 & 423.020 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 28-1987, f. & ef. 6-5-87 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0014 Administrative Hold
+
+An inmate may be voluntarily or involuntarily assigned to administrative housing for a period not to exceed 30 days without a hearing. Any assignment exceeding 30 days must follow the procedures outlined under OAR 291-046-0020 \(Voluntary Administrative Housing\) or 291-046-0025 \(Involuntary Administrative Housing\).
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 291-046-0020 Voluntary Administrative Housing
+
+\(1\) An inmate may be voluntarily placed in protective custody for a period in excess of 30 days without a hearing only when:
+
+\(a\) He/she consents in writing;
+
+\(b\) There is substantial evidence that protective custody is warranted and such evidence is documented;
+
+\(c\) There is no reasonable alternative available; and
+
+\(d\) The functional unit manager or designee authorizes such an assignment.
+
+\(2\) The voluntary housing packet for protective custody will contain information as outlined in the Department’s policy on Administrative Housing \(40.3.3\).
+
+\(3\) Once the functional unit manager or designee has signed the voluntary assignment, the functional unit manager or designee will forward the voluntary packet recommending assignments over 30 days to the SPM Committee. Upon receipt of the voluntary packet, the SPM Committee will review the information and determine which administrative housing unit the inmate will be assigned.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0025 Involuntary Administrative Housing
+
+\(1\) An inmate may be involuntarily placed in administrative segregation or protective custody for a period not to exceed 30 days by order of the functional unit manager or designee only when he/she has sufficient evidence to believe immediate assignment is necessary to protect the safety, security, and orderly operation of the facility.
+
+\(2\) An inmate may be involuntarily placed in administrative segregation or protective custody for a period in excess of 30 days only when information verified through the hearing process, outlined in these rules, shows the inmate to constitute an immediate and continuing threat to the safety, security, and orderly operation of the facility.
+
+\(3\) The involuntary administrative housing packet will contain information as outlined in the Department’s policy on Administrative Housing \(40.3.3\).
+
+\(4\) Each inmate placed in involuntary administrative housing exceeding 30 days will receive a hearing by a hearings officer. The hearing report shall be processed and reviewed by the Institutions Administrator or designee. If the factual allegations support placement in involuntary administrative segregation or protective custody, the packet will be forwarded to the SPM Committee for placement. Upon receipt of the administrative housing packet, the SPM Committee will review the information and determine which administrative housing unit the inmate will be assigned.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0030 Hearings Process
+
+\(1\) Each inmate placed involuntarily in administrative housing will receive a hearing as described below if the involuntary placement request exceeds 30 days. The hearing shall occur within 30 days, if he/she is placed in administrative housing without a hearing as permitted in OAR 291-046-0025. It is the responsibility of each functional unit manager to notify the hearings officer of the need for a hearing and to provide him/her with a Request for Administrative Housing \(CD1482\) containing the allegations justifying such action, including a recommendation for length of stay not to exceed 180 days.
+
+\(2\) The hearing shall be conducted by a hearings officer, or other person trained in the hearings process, in the event the hearings officer is unavailable.
+
+\(3\) Prior to the hearing, the hearings officer shall review the involuntary housing assignment request to determine if there is sufficient evidence to proceed with a hearing. If the request is not complete, it will be returned to the functional unit manager for resubmission.
+
+\(4\) The hearings officer shall not have participated in the case as a charging, investigating, or reviewing officer. Further, no person shall serve as a hearings officer who was a witness to the allegations or has personal knowledge of any disputed material fact relating to the case being heard.
+
+\(5\) The hearings officer may pose questions during the hearing.
+
+\(6\) The evidence considered by the hearings officer will be of such reliability as would be considered by reasonable persons in the conduct of their serious affairs.
+
+\(a\) When confidential informant testimony is submitted to the hearings officer, the identity of the informant and the verbatim statement of the informant shall be revealed to the hearings officer in writing, but shall remain confidential.
+
+\(b\) In order for the hearings officer to rely on the testimony of a confidential informant, information must be submitted to the hearings officer from which the hearings officer can find that the informant is a person who can be believed or that the information provided in the case at issue is truthful.
+
+\(7\) Behavioral Health Services staff will be notified when inmates with either mental health or developmental disability issues are placed in administrative housing or are scheduled for an involuntary administrative housing hearing.
+
+\(8\) At the conclusion of the hearing, the hearings officer will decide whether the factual allegations support involuntary placement of the inmate in administrative segregation or protective custody. The hearings officer may postpone the rendering of a decision for a reasonable period of time, not to exceed five days, for the purpose of reviewing the evidence.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0035 Findings
+
+\(1\) No Justification: The hearings officer may find that the factual allegations do not support involuntary placement in administrative segregation or protective custody, in which case the hearings officer will recommend that the inmate remain in general population status with all rights and privileges of that status.
+
+\(a\) The report shall be processed with final action subject to review by the Institutions Administrator.
+
+\(b\) The findings must be on the merits. Technical or clerical errors in the writing or processing of the allegations shall not be grounds for a no justification finding, unless there is substantial prejudice to the inmate.
+
+\(2\) Justification: The hearings officer may find the factual allegations do support placement in administrative segregation or protective custody, in which case the hearings officer will so inform the inmate, and recommend that he/she be assigned to administrative housing for a specified period of time, as recommended by the functional unit manager, but not to exceed 180 days. The report shall be processed and recorded with final action subject to review by the Institutions Administrator.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 28-1987, f. & ef. 6-5-87 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0040 Inmate Rights
+
+\(1\) Hearing: An inmate shall be entitled to a hearing when an involuntary request for administrative housing has been filed against him/her.
+
+\(2\) Waiver of Hearing:
+
+\(a\) An inmate may waive the right to a hearing. Waiver of the right must be in writing or verbal and must be documented on the record. An inmate’s refusal to attend the hearing will constitute a waiver.
+
+\(b\) An inmate waiving his/her right to a hearing shall have his/her case reviewed on its merits by the hearings officer in accordance with the procedures outlined in this rule.
+
+\(3\) Notice of Hearing:
+
+\(a\) The inmate shall be given written notice of the hearing not less than 24 hours prior to the hearing, unless the inmate consents to holding the hearing within 24 hours after the involuntary request for administrative housing has been served on the inmate.
+
+\(b\) The notice shall include a copy of this rule \(OAR 291-046\).
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0045 Representation
+
+\(1\) In all cases, the inmate is entitled to:
+
+\(a\) Speak in his/her own behalf;
+
+\(b\) Be present at all evidentiary stages of the hearing process, except when the hearings officer finds that to have the charged inmate present would present an immediate threat to the safety, security, and orderly operation of the facility. The reason\(s\) for the finding shall be part of the record.
+
+\(2\) Assistance by an employee, inmate, or other person approved by the hearings officer will be ordered upon a finding that assistance is necessary based upon language barriers or competence and capacity of the inmate to prepare a defense, to understand the allegations, or to understand the rights available to him or her.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0050 Investigation
+
+\(1\) The inmate may request that an investigation be conducted.
+
+\(2\) If an investigation is ordered, a designee of the hearings officer shall conduct the investigation. No person shall serve as an investigator who has participated in the case or who was a witness to the allegations or has personal knowledge of any disputed material fact relating to the case being heard.
+
+\(3\) An investigation shall be conducted upon the inmate's request, if an investigation will assist in the resolution of the proceedings and the information sought is within the ability of the facility to procure.
+
+\(4\) The hearings officer may order an investigation on his/her own motion.
+
+\(5\) The hearings officer shall allow the inmate access to the results of the investigation unless disclosure of the investigative results would constitute a threat to the safety, security, and orderly operation of the facility.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0055 Testimony of Witnesses
+
+The hearings officer shall direct the scheduling and taking of testimony of witnesses at the hearing. Witnesses may include inmates, employees, or other persons. Testimony may be taken in person, by telephone, or by written report or statement.
+
+\(1\) The inmate may request that the hearings officer schedule witnesses to present testimony at the hearing. The request must be submitted to the hearings officer in writing in advance of the hearing, and include a list of the person\(s\) the inmate requests be called to testify and the questions to be posed to each person. The hearings officer shall arrange for the taking of testimony from such witnesses as properly requested by the inmate, subject to the exclusions and restrictions provided in these rules.
+
+\(2\) The inmate shall not have the right to cross examine or directly pose questions to any witness.
+
+\(3\) The hearings officer may limit testimony when it is cumulative or irrelevant.
+
+\(4\) The hearings officer may exclude a specific inmate or employee witness upon finding that the witness' testimony would not assist the hearings officer in the resolution of the proceeding, or that the witness' appearance at the hearing would present an immediate undue risk to the safety, security, and orderly operation of the facility. If a witness is excluded, the reason\(s\) shall be made a part of the record.
+
+\(5\) The hearings officer may exclude other persons as witnesses upon finding that the witness' testimony would not assist the hearings officer in the resolution of the proceeding, or that the witness' appearance at the hearing would present an undue risk to the safety, security, and orderly operation of the facility. The reason\(s\) for exclusion shall be made part of the record.
+
+\(6\) Witnesses requested by the inmate may refuse to testify. Persons, other than inmates or employees, requested as witnesses may refuse to appear or testify.
+
+\(7\) The hearings officer may, on his/her own motion, call witnesses to testify.
+
+\(8\) All questions which may assist in the resolution of the proceeding, as determined by the hearings officer, shall be posed. The reason\(s\) for not posing a question will be made part of the record.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0060 Documents/Physical Evidence
+
+\(1\) The inmate may present documents and physical evidence during the hearing, subject to the exclusion and restrictions provided in these rules.
+
+\(2\) The reporting employee or other agents of the Department of Corrections who are knowledgeable of the allegations may submit documents and physical evidence.
+
+\(3\) The hearings officer may exclude documents and physical evidence upon finding that such evidence would not assist in the resolution of the proceeding, or that such evidence would present an undue risk to the safety, security, and orderly operation of the facility. The reason\(s\) for exclusion shall be made part of the record.
+
+\(4\) The hearings officer may classify documents and physical evidence as confidential \(and not disclose such evidence to the inmate\) upon finding that disclosure would present an undue risk to the safety, security, and orderly operation of the facility. The reason\(s\) for classifying documents and physical evidence as confidential shall be made part of the record.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0065 Postponement
+
+\(1\) A hearing may be postponed by the hearings officer for good cause and for reasonable periods of time.
+
+\(2\) Good cause includes, but is not limited to:
+
+\(a\) Preparation of defense;
+
+\(b\) Illness or unavailability of the inmate charged;
+
+\(c\) Gathering of additional evidence \(e.g., calling of witnesses, gathering of witnesses' statements, investigation, acquisition of physical evidence\); or
+
+\(d\) Avoiding interference with ongoing police investigation or pending prosecution.
+
+\(3\) The reason\(s\) for the postponement shall be stated on the record.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0070 Hearing Record
+
+\(1\) A verbatim recording of the hearing shall be made. Upon completion of the hearing, the hearings officer shall prepare a written hearing record of the decision and the supporting reasons within seven days for transmittal to the Institutions Administrator. The hearing decision shall be documented in the Correctional Information System.
+
+\(2\) The record of the formal hearing shall include:
+
+\(a\) Request for Administrative Housing form \(CD 1482\);
+
+\(b\) Notice of hearing and copy of this rule \(OAR 291-046\);
+
+\(c\) Supporting documentation; and
+
+\(d\) Preliminary Order, Conclusion, and Recommendation of hearings officer.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0075 Institutions Administrator’s Review
+
+\(1\) The results of any hearing held to involuntarily place an inmate in administrative housing will be reviewed and approved by the Institutions Administrator or his/her designee.
+
+\(2\) The Institutions Administrator or designee shall review the case, using the hearing record described above, in terms of the following factors:
+
+\(a\) Was there substantial compliance with this rule \(OAR 291-046\);
+
+\(b\) Was the decision based on substantial evidence; and
+
+\(c\) Was the assignment to administrative housing consistent with the provisions of this rule \(OAR 291-046\).
+
+\(3\) Within seven days of the receipt of the hearing record, the Institutions Administrator or his/her designee shall review the document and do one of the following:
+
+\(a\) Affirm the recommendation;
+
+\(b\) Modify the recommendation; or
+
+\(c\) Reverse the recommendation.
+
+\(4\) When the Institutions Administrator takes action to modify or reverses a recommendation, he/she must state in writing, his/her reason\(s\) and immediately notify the inmate, the hearings officer, and the functional unit manager of his/her action and reason\(s\).
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0080 Provision of Basic Services and Program
+
+\(1\) Basic services and programs may be denied, or the manner in which they are provided may differ from the manner in which programs or services are provided to those in the general population, if their provision in a routine manner would cause an immediate and continuing threat to the safety, security, and orderly operation of the facility.
+
+\(2\) The officer-in-immediate-charge may temporarily deny or withhold a basic service or program previously granted to an inmate in administrative housing if there are reasonable grounds to believe there is a threat to the safety, security, and orderly operation of the facility. All such actions must be reported to the functional unit manager and either affirmed or denied by him/her the following work day. No basic program or service will be permanently withheld without the expressed approval of the functional unit manager.
+
+\(3\) At the discretion of the functional unit manager, inmates in administrative housing may not be permitted out of their assigned cell or room except when in actual custody of an employee. Restraints may be used at the discretion of the functional unit manager.
+
+\(4\) Inmates in administrative housing will be given basic visiting status in accordance with the Department of Corrections rule on Visiting \(Inmate\) \(OAR 291-127\).
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 28-1987, f. & ef. 6-5-87 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0085 Administrative Housing Release
+
+\(1\) Voluntary Assignment: Inmates who voluntarily requested to be assigned to administrative housing will be reassigned to the general population upon request, but only after staff have had adequate time to determine proper placement and transfer to general population.
+
+\(2\) Involuntary Assignment: Inmates involuntarily assigned to administrative segregation or protective custody will be reassigned to the general population once their involuntary timeframe has been completed, but the assignment shall not exceed 180 days without due process.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 28-1987, f. & ef. 6-5-87 CD 47-1985, f. & ef. 8-16-85 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0090 Situational Reviews
+
+\(1\) Inmates assigned to administrative housing shall remain so assigned for only the shortest length of time necessary to achieve the purpose for which the assignment was prescribed. A review of all inmates' status will be made every 30 days by the institution Special Needs Inmate Evaluation Committee \(SNIEC\).
+
+\(2\) An employee in administrative housing may initiate a request for an inmate requesting psychological intervention. All requests will be referred to Behavioral Health Services.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08 CD 30-1997, f. 12-19-97, cert. ef. 1-1-98 CD 28-1987, f. & ef. 6-5-87 CD 19-1980, f. & ef. 5-30-80 CD 7-1980\(Temp\), f. & ef. 4-1-80 291-046-0100 Administrative Review
+
+\(1\) Petitions for administrative review of involuntary administrative segregation or protective custody must be filed by the inmate with the Assistant Director of Operations within 30 calendar days after the recommendation is signed by the Institutions Administrator. Filing a petition for administrative review shall not stay the imposition of the recommendation. Petitions for administrative review shall minimally state the following:
+
+\(a\) The date the hearing was completed and the hearings case number.
+
+\(b\) Sufficient information to show why the finding and subsequent recommendation was not in accordance with the provisions set forth in the rule \(OAR 291-046\).
+
+\(2\) Upon receipt of the petition for administrative review, the Assistant Director of Operations shall review the case to determine:
+
+\(a\) Was there substantial compliance with the rule;
+
+\(b\) Was the finding and subsequent recommendation based on evidence that was reliable and reasonable; and
+
+\(c\) Was the recommendation imposed in accordance with the provisions set forth in this rule \(OAR 291-046\).
+
+\(3\) If the Assistant Director of Operations determines that there was substantial compliance with the rule \(OAR 291-046\), the finding was based on reliable and reasonable evidence, and the recommendation imposed was in accordance with the provisions set forth in the rule \(OAR 291-046\), he/she shall so inform the inmate.
+
+\(4\) If the Assistant Director of Operations determines that there was not substantial compliance with the rule \(OAR 291-046\), the finding was not based on reliable and reasonable evidence, or the recommendation imposed was not in accordance with the provisions set forth in the rule \(OAR 291-046\), he/she shall direct the hearing to be re-opened or vacate all or part of the final recommendation in the case.
+
+\(5\) The Assistant Director of Operations shall provide the inmate with a written response to the petition for administrative review within 30 days from the date it is received by him or her. Documentation submitted to the Assistant Director of Operations shall not be returned to the inmate.
+
+\(6\) Petitions that do not meet the requirements as defined by this rule will be returned to the inmate.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 18-2008, f. 7-18-08, cert. ef. 7-21-08
+

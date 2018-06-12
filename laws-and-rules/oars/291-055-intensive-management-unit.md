@@ -1,0 +1,306 @@
+# 291-055 - Intensive Management Unit
+
+Department of Corrections Chapter 291 Division 55 INTENSIVE MANAGEMENT UNIT 291-055-0005 Authority, Purpose, and Policy
+
+\(1\) Authority: The authority for these rules is granted to the Director of the Department of Corrections in accordance with ORS 179.040, 423.020, 423.030, and 423.075.
+
+\(2\) Purpose: The purpose of these rules is to:
+
+\(a\) Establish Department of Corrections policy and procedures for the assignment of custody Level 5 inmates to special security housing and programs in a designated Intensive Management Unit \(IMU\) or IMU status cells separate from general population housing in Department of Corrections facilities to provide the maximum level of inmate security, control, and supervision; and
+
+\(b\) Establish standards for the operation and management of IMU and IMU status cells.
+
+\(3\) Policy: It is the policy of the Department of Corrections to:
+
+\(a\) Assign custody Level 5 inmates, or inmates who are under investigation for or who have been charged with the in-custody murder or assault of another inmate or staff, to special security housing and programs in a designated IMU or IMU status cells separate from general population housing in Department of Corrections facilities to provide the maximum level of inmate security, control, and supervision as provided in these rules.
+
+\(b\) Conduct meaningful periodic reviews of an inmate’s status and continued assignment to an IMU or IMU status cell as provided in these rules.
+
+\(c\) Temporarily reassign inmates assigned to an IMU or IMU status cell to other treatment, program or service units \(i.e., infirmary, Administrative Housing, Disciplinary Segregation, mental health special housing\) for treatment or programming as deemed necessary or advisable by the department.
+
+\(d\) Ensure inmates assigned to an IMU or IMU status cells have an opportunity for administrative review of their custody Level 5 classification and assignment to IMU as provided in the department's rule on Classification \(Inmate\), OAR 291-104.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 24-2014, f. & cert. ef. 12-29-14 CD 13-1991, f. & cert. ef. 6-7-91; CD 21-1994, f. 11-16-94, cert. ef. 12-1-94; DOC 7-2000\(Temp\), f. 2-24-00, cert. ef. 2-24-00 thru 8-22-00; DOC 20-2000, f. & cert. ef. 8-18-00; DOC 10-2002\(Temp\), f. & cert, ef, 7-10-02 thru 1-6-03; DOC 14-2002, f. & cert. ef. 11-8-02; DOC 16-2014\(Temp\), f. & cert. ef. 7-1-14 thru 12-28-14 291-055-0010 Definitions
+
+\(1\) Intensive Management: The status of a custody Level 5 inmate assigned to special security housing and programs in a designated intensive management unit or cell separate from general population housing units and cells in Department of Corrections facilities.
+
+\(2\) IMU Inmate Program Committee: An institution committee that reviews an inmate’s movement among the program levels. The Assistant Superintendent of Correctional Rehabilitation will chair the committee. The committee will consist of staff from Correctional Rehabilitation, Behavioral Health Services, Security Threat Management, Religious Services, and security. Representatives from the Office of Population Management, Education section, Health Services, and Hearings may also attend.
+
+\(3\) IMU Shift Supervisor: The person responsible for the daily operation of the IMU in the absence of the IMU manager.
+
+\(4\) Intensive Management Unit \(IMU\) Manager: The officer-in-charge or designee responsible for the daily operation of the IMU.
+
+\(5\) Officer-in-Charge: The person designated by the functional unit manager to supervise the facility and make operational decisions in accordance with rule or procedure during periods when the functional unit manager or officer-of-the-day are not readily available.
+
+\(6\) Serious Management Concerns: Participation either individually, or in a group, in behavior which poses a significant threat to the safe and secure operation of the facility, including, but not limited to;
+
+\(a\) Threatening or inflicting bodily injury on another person;
+
+\(b\) Posing an immediate risk of escape;
+
+\(c\) Promoting or engaging in disruptive group behavior;
+
+\(d\) Promoting security threat group activities; or
+
+\(e\) Being involved in any other activity that could significantly threaten the safe and secure operation of the facility, and that such behavior poses a sufficient threat that, in the judgment of the department, can only be adequately controlled in appropriate special housing.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 24-2014, f. & cert. ef. 12-29-14 CD 13-1991, f. & cert. ef. 6-7-911; CD 21-1994, f. 11-16-94, cert. ef. 12-1-94 ; DOC 20-2000, f. & cert. ef. 8-18-00; DOC 7-2008\(Temp\), f. & cert. ef. 4-1-08 thru 9-28-08; Administrative correction 10-21-08; DOC 16-2014\(Temp\), f. & cert. ef. 7-1-14 thru 12-28-14 291-055-0014 Selection of Intensive Management Unit Staff
+
+\(1\) Selection Criteria:
+
+\(a\) To qualify for a post that is solely assigned to an Intensive Management Unit, the employee:
+
+\(A\) Must have successfully completed trial service;
+
+\(B\) Must have achieved a satisfactory on a special performance appraisal at the time of application and assignment to IMU. At a minimum, the staff member must meet the following criteria:
+
+\(i\) Have demonstrated maturity and tolerance;
+
+\(ii\) Have expressed a constructive interest in working with inmates in IMU;
+
+\(iii\) Have demonstrated the ability to work with inmates through conflict-reducing and conflict-control skills; and
+
+\(iv\) Have demonstrated the ability to use good judgment.
+
+\(2\) Assignments to Intensive Management Unit posts:
+
+\(a\) Assignment to Intensive Management Unit posts will be made by the functional unit manager or designee and will be reviewed at least annually.
+
+\(b\) Rotation of staff assigned to Intensive Management Unit posts may occur as it is found to be in the best interest of the employee or the facility, upon determination by the functional unit manager.
+
+\(c\) Temporary assignment to Intensive Management Unit posts will be made by the functional unit manager or designee. Temporary assignments shall be given only to employees who meet the initial qualifications specified in this rule. Whenever possible, temporary assignments will be given only to employees who have successfully completed training specified by the Department of Corrections.
+
+\(3\) Any exceptions to this rule for staff selection to an Intensive Management Unit post must be approved by the Assistant Director for Operations or designee prior to assignment.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 24-2014, f. & cert. ef. 12-29-14 DOC 16-2014\(Temp\), f. & cert. ef. 7-1-14 thru 12-28-14 DOC 20-2000, f. & cert. ef. 8-18-00 291-055-0019 IMU Assignments
+
+\(1\) Custody Level 5 inmates who have received a sentence other than a sentence of death, or who are pending retrial in a case in which a death sentence may be re-imposed, shall be assigned to an IMU or IMU status cell. Inmates who have received a sentence of death \(inmates on death row status\), or who are under investigation for or who have been charged with the in-custody murder of another inmate or staff, may be assigned housing in an IMU or IMU status cell.
+
+\(a\) An inmate demonstrates the need for custody Level 5 housing by demonstrating behaviors that in the judgment of the department cause serious management concerns.
+
+\(b\) Inmates assigned to an IMU or IMU status cell may be temporarily assigned to other housing, treatment, program or service units \(i.e., infirmary, Administrative Housing, Disciplinary Segregation, mental health special housing, Death Row\) for housing, treatment or programming as deemed necessary or advisable by the department.
+
+\(2\) Assignment Request: A request for assignment to an IMU shall be initiated if an inmate scores custody Level 5, or when an override request to custody Level 5 is made.
+
+\(a\) A Classification Summary, Intensive Management Unit Administrative Action Sheet \(CD8a\) and all pertinent information that demonstrates the need for IMU assignment shall be sent to the Office of Population Management.
+
+\(b\) Staff shall indicate the reason for referral and a short statement describing the reason for requesting an IMU assignment. The Office of Population Management will approve or deny the request.
+
+\(3\) Documentation of Decisions: All decisions by the Office of Population Management Administrator or designee will be documented on the Intensive Management Unit Administrative Action Sheet \(CD 8a\) and returned to the facility initiating the request. The signed copy of the action sheet shall be filed in the inmate's IMU file at the Office of Population Management.
+
+\(4\) Notice: Decisions by the Office of Population Management Administrator or designee that assign an inmate to IMU status will be sent to the inmate along with a Classification Summary \(CD1120D\), Intensive Management Unit Administrative Action Sheet \(CD8a\), Request for Administrative Review \(CD1120aD\), and a description of the inmate’s review options.
+
+\(5\) If an inmate is released from prison on IMU status and returns to the department with a new crime of conviction, and is reassigned to IMU housing or an IMU status cell, the inmate shall be re-instated at the same IMU program level last recorded upon release from prison.
+
+\(a\) The inmate must be re-assigned to IMU housing or an IMU status cell in the same process as described in subsections \(2\) through \(4\) above.
+
+\(b\) Any acts of misconduct upon return to prison will be reviewed by the IMU Inmate Program Committee upon assignment to an IMU or an IMU status cell for possible demotion.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 24-2014, f. & cert. ef. 12-29-14 CD 21-1994, f. 11-16-94, cert. ef. 12-1-94; DOC 7-2000\(Temp\), f. 2-24-00, cert. ef. 2-24-00 thru 8-22-00; DOC 20-2000, f. & cert. ef. 8-18-00, Renumbered from 291-055-0011; DOC 10-2002\(Temp\), f. & cert, ef, 7-10-02 thru 1-6-03; DOC 14-2002, f. & cert. ef. 11-8-02; DOC 9-2013\(Temp\), f. & cert. ef. 10-23-13 thru 4-21-14; DOC 10-2014, f. & cert. ef. 4-22-14; DOC 16-2014\(Temp\), f. & cert. ef. 7-1-14 thru 12-28-14 291-055-0020 Programming Levels of Intensive Management Unit Inmates
+
+\(1\) Program Level Criteria:
+
+\(a\) The Assistant Superintendent of Correctional Rehabilitation or designee will establish criteria for the various program levels.
+
+\(b\) All inmates assigned to an Intensive Management Unit or IMU status cell will begin on program level two. The IMU Inmate Program Committee will evaluate each inmate's legal or investigative status, conduct, program involvement and behavior periodically.
+
+\(c\) The initial review will be conducted 150 days after assignment to an IMU or IMU status cell and then at least every 90 days thereafter while on IMU status to determine further and appropriate program level assignment.
+
+\(c\) Demotions:
+
+\(A\) An inmate may be demoted one or more program levels for conduct or behavior which threatens the safe, secure and orderly operation of the Intensive Management Unit or failure to participate in programs. An inmate will not be demoted to a program level one strictly for failure to participate in a program. Any demotion to level one shall be based on inmate behavior.
+
+\(B\) If immediate action is necessary, the IMU shift supervisor may take appropriate action and recommend a reduction in an inmate's program level and submit it to the Intensive Management Unit manager for approval. All demotions will be reviewed by the IMU Inmate Program Committee for final approval.
+
+\(d\) Inmate Program Committee Guidelines for Level Advancement: The following criteria will be considered when evaluating an inmate's adjustment in IMU for program level advancement:
+
+\(A\) Level One: One month at level one with no major rule violation and no more than one minor rule violation may earn promotion to:
+
+\(B\) Level Two: Two months at level two with no major rule violation and no more than one minor rule violation and active participation in prescribed programming may earn promotion to:
+
+\(C\) Level Three: Three months at level three with no major rule violation and no more than one minor rule violation and a successful completion of prescribed programs may earn promotion to:
+
+\(D\) Level Four: Maintain level four with no major rule violation and no more than one minor rule violation. Within 30 days of a promotion to level four a decision for promotion to level five or reassignment from IMU will be made.
+
+\(E\) Level Five: Continue to present a serious management concern and are retained at custody Level 5.
+
+\(e\) The provisions of this rule apply retroactively to all inmates assigned to an IMU or IMU status cell on or after December 29, 2014.
+
+\(2\) Program Level Services and Activities: Services, activities, programs, incentives, and property may vary based on the architecture of the facility and individual needs of each assigned inmate. An inmate's adjustment and behavior while housed in the Intensive Management Unit will determine the inmate's service and activities program level. The schedule for programs and services are as follows:
+
+\(a\) Level One basic services provided to Intensive Management Unit \(IMU\) inmates:
+
+\(A\) Correspondence and photos \(excluding publications\): As received through the mail after assignment to level one.
+
+\(B\) Commissary: Envelopes ordered every two weeks.
+
+\(C\) Pen and paper.
+
+\(D\) Legal services: As required in accordance with the department’s rule on Legal Affairs \(Inmate\), OAR 291-139. Inmates are authorized to possess legal materials for active and pending cases in accordance with OAR 291-117-0100, Authorized Legal Property.
+
+\(E\) Religious services and materials: As requested and meeting security requirements.
+
+\(F\) Personal hygiene/shower: Three times per week.
+
+\(G\) State issued personal care items \(soap, tooth powder, toothbrush, comb, toilet paper\).
+
+\(H\) Bedding: One mattress, one pillow, one pillow case, two sheets, one towel, and blanket\(s\) as needed.
+
+\(I\) Clothing: One set of undergarments, coverall and footwear.
+
+\(J\) Address books.
+
+\(K\) Treatment/Programming/Educational Services: As deemed appropriate to the individual treatment program and meeting security requirements.
+
+\(L\) Library: Up to three paperback books on a scheduled exchange basis.
+
+\(b\) Level Two services and activities available to IMU inmates: In addition to level one basic services:
+
+\(A\) Recreation: 40 minutes per day, five days per week.
+
+\(B\) Commissary: $25 worth of commissary items ordered every two weeks.
+
+\(C\) Radio and headphones.
+
+\(D\) One approved property storage container.
+
+\(E\) Personal care items on the IMU commissary list from the inmate’s personal property or purchased after placement.
+
+\(F\) One pair of personal shower shoes.
+
+\(G\) Educational material, treatment or psychological service program materials: As requested, approved and meeting security requirements.
+
+\(c\) Level Three services and activities available to IMU inmates: In addition to level two services:
+
+\(A\) Commissary: $30 of commissary items ordered every two weeks.
+
+\(B\) One pair of personal shoes.
+
+\(C\) Personal books, stored appropriately.
+
+\(D\) Personal property on the IMU commissary list.
+
+\(G\) One photo album.
+
+\(F\) Telephone access one time per week up to 40 minutes.
+
+\(G\) Work assignments.
+
+\(d\) Level Four services and activities available to IMU inmates: In addition to level three services:
+
+\(A\) Commissary: $40 worth of commissary items ordered every two weeks.
+
+\(B\) Personal property: No more than two approved storage containers.
+
+\(e\) Level Five services and activities available to IMU inmates in addition to level four services:
+
+\(A\) Commissary: $50 worth of commissary items ordered every two weeks.
+
+\(B\) Telephone access up to one hour per day.
+
+\(C\) Televisions purchased through commissary or issued from the inmate’s personal property.
+
+\(D\) Personal electronic players as approved.
+
+\(3\) Immediately following any action of self destruction, a medical or psychological services staff member will be consulted by the IMU Manager to determine if the inmate should be recommended for transfer to mental health special housing.
+
+\(4\) IMU status inmates will be permitted to leave their cell as appropriate to their program level for visits, exercise, showers, medical, dental, or mental health services, hearings, interviews, or other reasons as authorized by the IMU Manager.
+
+\(a\) The Assistant Superintendent of Security will assign escort supervision as deemed appropriate.
+
+\(b\) IMU inmates will not be permitted to leave their cells without approval from the IMU Manager unless previously scheduled to do so for program participation. The inmate will be in restraints at all times while being escorted inside and outside the unit. Routine staff interviews may be accomplished at the inmate's cell.
+
+\(5\) The IMU Manager or designee will conduct a tour of the Intensive Management Unit at least once per shift. Inmates may address questions to the IMU Manager at this time.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 11-2015, f. & cert. ef. 8-21-15 DOC 4-2015\(Temp\), f. & cert. ef. 3-20-15 thru 9-15-15 DOC 24-2014, f. & cert. ef. 12-29-14 DOC 16-2014\(Temp\), f. & cert. ef. 7-1-14 thru 12-28-14 DOC 20-2000, f. & cert. ef. 8-18-00 CD 21-1994, f. 11-16-94, cert. ef. 12-1-94 CD 13-1991, f. & cert. ef. 6-7-91 291-055-0025 Situational Reviews
+
+Individual inmate assessments may be requested by the Assistant Superintendent of Correctional Rehabilitation or designee or the IMU Inmate Program Committee at any time. Inmates requesting mental health services may be referred to qualified Behavioral Health Services personnel pursuant to recommendation of Behavioral Health Services program staff or the Assistant Superintendent of Correctional Rehabilitation or designee.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 24-2014, f. & cert. ef. 12-29-14 DOC 16-2014\(Temp\), f. & cert. ef. 7-1-14 thru 12-28-14 DOC 20-2000, f. & cert. ef. 8-18-00 CD 21-1994, f. 11-16-94, cert. ef. 12-1-94 CD 13-1991, f. & cert. ef. 6-7-91 291-055-0031 Retention/Re-assignment from an IMU or IMU Status Cell
+
+\(1\) When considering an inmate for re-assignment from an IMU or IMU status cell to other appropriate housing, the IMU Inmate Program Committee will consider the inmate's adjustment within IMU, the nature and severity of the high category misconduct, length of time in IMU, and past history. The committee may also consider the degree of participation in self-improvement programs, mental health counseling, anger management, education, job assignments, alcohol/drug abuse therapy, assessment and evaluation, behavioral contracts, security threat group disassociation, communicable disease counseling, or other institutional management concerns.
+
+\(2\) Periodic Review:
+
+\(a\) The IMU Inmate Program Committee shall review each inmate assigned to an IMU or IMU status cell periodically. The initial review will be conducted at 150 days after the initial placement on IMU status or an IMU status cell, and then at least every 90 days, or within 30 days of the inmate obtaining program level four status, to determine if the inmate will be retained in or re-assigned from an IMU or IMU status cell to other appropriate housing.
+
+\(b\) Prior to the review and recommendation by the IMU Inmate Program Committee, the IMU status inmate will receive notice and be allowed an opportunity to provide written submission to the committee for their consideration.
+
+\(c\) The IMU Inmate Program Committee shall submit a written recommendation to either retain or reassign an inmate from IMU or an IMU status cell to the Office of Population Management Administrator or designee. A completed IMU 90 Day Review \(CD1683\) must be sent to the Office of Population Management describing the reason\(s\) and justification for the inmate to be either retained in or re-assigned from IMU or an IMU status cell.
+
+\(d\) The Office of Population Management Administrator or designee shall make a decision to retain the inmate in IMU or an IMU status cell or assign the inmate to other appropriate housing. The Office of Population Management Administrator’s or designee’s decision is final and not subject to further review.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 24-2014, f. & cert. ef. 12-29-14 CD 13-1991, f. & cert. ef. 6-7-91; CD 21-1994, f. 11-16-94, cert. ef. 12-1-94; DOC 20-2000, f. & cert. ef. 8-18-00; DOC 16-2014\(Temp\), f. & cert. ef. 7-1-14 thru 12-28-144 291-055-0040 Property
+
+\(1\) Any personal property, as defined in the Department of Corrections rule on Personal Property Control and Disposition \(Inmate\), OAR 291-117, not permitted in the cell of any Intensive Management Unit inmate will be properly protected in a designated property room. Upon release from IMU, the inmate shall check his/her personal property and sign the property sheet.
+
+\(2\) Intensive Management Unit inmates will be permitted to retain basic personal health items \(dentures, prescribed eye wear, hearing aids and approved prosthetic devices\).
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 24-2014, f. & cert. ef. 12-29-14 DOC 16-2014\(Temp\), f. & cert. ef. 7-1-14 thru 12-28-14 DOC 20-2000, f. & cert. ef. 8-18-00 CD 21-1994, f. 11-16-94, cert. ef. 12-1-94 CD 13-1991, f. & cert. ef. 6-7-91 291-055-0045 Services, Programs and Activities
+
+\(1\) Basic: The following basic programs and services will be provided to all inmates in IMU unless compelling security or safety reasons dictate otherwise.
+
+\(a\) Food:
+
+\(A\) Except when under special diet specifically prescribed by the medical officer, each IMU inmate shall receive food prepared in accordance with the Department of Corrections rule on Food Service Programs, OAR 291-061.
+
+\(B\) Food will be delivered to each inmate in his/her cell by a staff member.
+
+\(C\) Food shall never be used as punishment.
+
+\(D\) Intensive Management Unit inmates who intentionally misuse food or eating utensils may be subject to the provisions of the department’s rule governing Controlled Feeding, OAR 291-083.
+
+\(b\) Clothing: A clean set of undergarments and coveralls will be provided on an exchange basis three times a week.
+
+\(c\) Bedding: Clean sheets and one pillow case will be exchanged on a weekly basis. A clean towel will be provided on an exchange basis at least three times per week.
+
+\(d\) Personal Hygiene/Shower: Inmates will be allowed to shower, shave and obtain necessary personal care items three times a week. Arrangements for haircuts will be arranged on a regularly scheduled basis.
+
+\(e\) IMU inmates shall be provided correspondence privileges in accordance with the Department of Corrections rule on Mail \(Inmate\), OAR 291-131. Inmates may submit Interview Requests and grievances. Grievances will be handled in a manner prescribed by the Department of Corrections rule on Grievance Review System \(Inmate\), OAR 291-109.
+
+\(f\) Legal Services: IMU inmates may pursue their legal activities in accordance with the Department of Corrections rule on Legal Affairs \(Inmate\), OAR 291-139. Legal material will be provided. Abuse of materials may result in disciplinary action. Attorney visits must be scheduled in advance.
+
+\(g\) Religious: IMU inmates will be allowed to receive religious guidance if requested. Religious Services staff will visit each Intensive Management Unit once per week. Request for religious material will be reviewed by the Assistant Superintendent of Security or his/her designee prior to issuing to the inmate.
+
+\(i\) Medical/Dental/Mental Health Services:
+
+\(A\) Health care and mental health care services will be provided to inmates in IMU in accordance with the Department of Corrections rule on Health Services \(Inmate\), OAR 291-124.
+
+\(B\) A member of the Health Services staff shall minimally visit IMU inmates three times weekly. The staff member will provide each inmate an opportunity to talk with him/her and refer requests for medical, dental, or mental health services to the appropriate staff member.
+
+\(C\) A physician will visit Intensive Management Units as the need arises. Dental services will be provided on a schedule determined between the unit manager or his/her designee and the Health Services Manager.
+
+\(D\) Mental Health Services:
+
+\(i\) Behavioral Health Services staff shall perform and supervise mental health services as needed. Services may include crisis intervention, behavioral contracts, anger management, brokering out other mental health services, as well as transitional services.
+
+\(ii\) While it is recognized some inmates refuse services and are otherwise unamenable to treatment, the accessibility to treatment services remains available during times of assessment, by inmate request, or could be fostered by an inmate's uncontrollable behavior\(s\).
+
+\(2\) Services: Depending on unit adjustment and inmate programming level, inmates have opportunities for increased programs and services. These programs and services may include the following:
+
+\(a\) Visits: Visits will be conducted in accordance with the department’s rule on Visiting \(Inmate\), OAR 291-127. Visits will be conducted in a basic visiting area for IMU status inmates. Visits must be scheduled at least three days in advance of the visit. Two one-hour sessions will be made available monthly. Additional visiting sessions may be made available based on facility architecture and approved by the IMU Manager.
+
+\(b\) Exercise: Inmates on IMU status shall have the opportunity to exercise out of their cells as outlined by the IMU program level, except for those inmates who receive a conduct order or disciplinary sanction as provided in the department’s rule on Prohibited Inmate Conduct \(OAR 291-105\). Inmates eligible to exercise will receive 40 minutes of exercise per day, five days per week. The 40-minute exercise period will begin when the inmate exits his/her cell.
+
+\(c\) Library: Paperback books are available for inmate use on an exchange basis. The books may be exchanged on a regularly scheduled basis.
+
+\(d\) Commissary: As outlined in OAR 291-055-0020, inmates may be eligible to purchase commissary items based upon their IMU program level. Commissary items will be issued every other week to eligible inmates. Authorized commissary items on the approved IMU Commissary List may be purchased.
+
+\(e\) Education: Education services may be made available to inmates assigned to IMU or to an IMU status cell to assist in developing each inmate’s academic needs.
+
+\(f\) Correctional Counselor Services: A correctional counselor will be assigned to each IMU.
+
+\(g\) The services listed in sections \(a\) through \(f\) above will be provided unless security, staff availability, safety or sanitation considerations dictate otherwise as authorized by the functional unit manager or designee.
+
+\(h\) Additional incentives may be offered to inmates assigned to double bunk cells.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 24-2014, f. & cert. ef. 12-29-14 DOC 16-2014\(Temp\), f. & cert. ef. 7-1-14 thru 12-28-14 DOC 20-2000, f. & cert. ef. 8-18-00 CD 21-1994, f. 11-16-94, cert. ef. 12-1-94 CD 13-1991, f. & cert. ef. 6-7-91 291-055-0050 Forfeiture/Deprivation of Service or Activity
+
+\(1\) An Intensive Management Unit inmate may be required to forfeit or be temporarily deprived of any service or activity when the inmate is using them to destroy or damage property, obstruct security, or threatens physical violence to self or others. If an inmate is using any service or activity for self destruction, that service/activity may be temporarily removed upon order of the IMU manager or designee. Any item\(s\) withheld shall be returned at the earliest possible time when the basis for removal has ceased to exist. A written report documenting the action will be forwarded to the functional unit manager or designee.
+
+\(2\) Services and activities may be forfeited or deprived as a result of a disciplinary sanction in accordance with the Department of Corrections rule on Prohibited Inmate Conduct and Processing Disciplinary Actions, OAR 291-105.
+
+\(3\) Additional programs and services will depend on the inmate's adjustment and adherence to department rules and Intensive Management Unit regulations. Programs and services outlined in this rule denote eligibility only, they do not guarantee program and service delivery. Staff and facility resources may determine frequency and duration of approved inmate activity.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 24-2014, f. & cert. ef. 12-29-14 DOC 16-2014\(Temp\), f. & cert. ef. 7-1-14 thru 12-28-14 DOC 20-2000, f. & cert. ef. 8-18-00 CD 21-1994, f. 11-16-94, cert. ef. 12-1-94 CD 13-1991, f. & cert. ef. 6-7-91
+
