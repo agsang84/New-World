@@ -1,4 +1,4 @@
-# 291-073 - Mandatory & Desirable Criteriafor Siting Correctional Facilities
+# 291-073 - Mandatory & Desirable Criteria for Siting Correctional Facilities
 
 Department of Corrections Chapter 291 Division 73 MANDATORY AND DESIRABLE CRITERIA FOR SITING CORRECTIONAL FACILITIES 
 
