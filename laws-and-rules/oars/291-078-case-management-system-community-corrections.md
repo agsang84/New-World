@@ -1,0 +1,272 @@
+# 291-078 - Case Management System \(Community Corrections\)
+
+Department of Corrections Chapter 291 Division 78 CASE MANAGEMENT SYSTEM \(COMMUNITY CORRECTIONS\) 
+
+## 291-078-0005 Authority, Purpose, and Policy
+
+\(1\) Authority: The authority for this rule is granted to the Director of the Department of Corrections in accordance with ORS 179.040, 423.020, 423.030, and 423.075.
+
+\(2\) Purpose: The purpose of this rule is to:
+
+\(a\) Provide uniform business practices in accordance with evidence-based practices of case management for offender supervision in the community;
+
+\(b\) Establish a level of statewide consistency for the classification of offenders;
+
+\(c\) Classify offenders based upon the risk of recidivism;
+
+\(d\) Operate on the principle of limited risk control and utilize an objective risk assessment tool for making classification decisions;
+
+\(e\) Quantify workload, including both investigative and supervision services;
+
+\(f\) Assign levels of supervision;
+
+\(g\) Provide the data necessary for policy decisions, program planning, effective utilization of resources, research, and evaluation;
+
+\(h\) Enhance corrections system credibility by providing a means of accountability through established auditing methods; and
+
+\(i\) Provide workload data which may be used for resource allocation.
+
+\(3\) Policy: It is the policy of the Department of Corrections to target resources to those offenders who are most likely to recidivate using evidence-based practices in a comprehensive case management approach.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 3-2013, f. & cert. ef. 2-28-13 DOC 9-2012\(Temp\), f. 8-31-12, cert. ef. 9-1-12 thru 2-28-13 CD 12-1997, f. 7-23-97, cert. ef. 8-1-97 CD 15-1991, f. & cert. ef. 6-14-91 291-078-0010 Definitions
+
+\(1\) Agency: The Department of Corrections or county community corrections agencies.
+
+\(2\) Case Management: A proactive and collaborative process which assesses, plans, implements, coordinates, monitors, and evaluates options and services to meet an offender’s risks, needs, and responsivity factors. Case management is the process that links all the elements involved in an offender’s management. The process of case management unifies procedures and personnel to balance resources and an offender’s needs through their term of community supervision.
+
+\(3\) Case Plan: A dynamic document created collaboratively with an offender that specifically identifies the offender’s evidence-based assessed risk and needs, accompanied by risk reduction strategies and plans of action, with timelines.
+
+\(4\) Evidence-Based Practices: The body of research and clinical knowledge that describes correctional assessment, programming, and supervision strategies that lead to improved correctional outcomes, such as risk reduction and increased public safety. Such principles not only meet the public’s expectations for economical business strategies, efficiency, and effectiveness; but also reflect fairness and accountability.
+
+\(5\) Intensive Supervision: An enhanced level of supervision exceeding a county's high risk level supervision standards. Intensive supervision may include, but not be limited to, electronic monitoring, house arrest, curfew, day reporting, supervised housing, multiple supervising officers, adjunct surveillance by law enforcement or other specialists, increased face-to-face offender contacts in the community, increased collateral contacts \(such as with family, therapist and employer\), community notification, geographic restrictions, offender mileage logs, medication monitoring \(such as psychotropics, or antabuse\), intensive outpatient or residential treatment programming, urinalysis, and polygraph.
+
+\(6\) Offender: Any person under the supervision of local community corrections who is on probation, parole, or post-prison supervision status.
+
+\(7\) Risk of Violence: The identified potential of an offender to engage in or threaten to engage in behavior that constitutes physical force and/or the inflicting of injury on another person.
+
+\(8\) Risk of Recidivism: The likelihood of an offender being convicted of a new felony within three years of release from prison or admission to probation.
+
+\(9\) Sexually Violent Dangerous Offender \(SVDO\): A special designation by the Court and/or Board of Parole and Post-Prison Supervision as defined in ORS 144.635 subjecting the offender to intensive supervision for the full period of parole and/or post-prison supervision.
+
+\(10\) Supervision Intake Date: The date upon which the agency supervisor assigns a new case offender to a supervising/intake officer.
+
+\(11\) Supervision Period: The period of time an offender is under the supervision of an agency or agencies. The period of supervision may involve multiple cases and is interrupted only by Department of Correction incarceration, transfer of the offender’s supervision out of state, case closure due to absconding, or legal termination of the final chronological case.
+
+\(12\) Supervision Termination Date: The date established by the releasing/sentencing authority when the offender is no longer legally subject to community supervision.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 3-2015, f. & cert. ef. 2-25-15 DOC 19-2014\(Temp\), f. & cert. ef. 8-29-14 thru 2-25-15 DOC 3-2013, f. & cert. ef. 2-28-13 DOC 9-2012\(Temp\), f. 8-31-12, cert. ef. 9-1-12 thru 2-28-13 CD 12-1997, f. 7-23-97, cert. ef. 8-1-97 CD 15-1991, f. & cert. ef. 6-14-91 291-078-0015 Applicability
+
+\(1\) All agencies are required to utilize Community Case Management in order to access designated Community Corrections Act funds.
+
+\(2\) Community Case Management shall apply to all offenders being supervised or investigated due to a felony conviction and to offenders being formally investigated as part of the court process prior to actual conviction and/or sentencing. Community Case Management does apply to diversions and deferred sentences, but not to game violations.
+
+\(3\) Community Case Management Manual: A manual, which includes all agreed upon community case management practices and standards, will be provided by the Department.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 3-2013, f. & cert. ef. 2-28-13 DOC 9-2012\(Temp\), f. 8-31-12, cert. ef. 9-1-12 thru 2-28-13 CD 12-1997, f. 7-23-97, cert. ef. 8-1-97 CD 15-1991, f. & cert. ef. 6-14-91 291-078-0020 Risk Assessment
+
+\(1\) Proper assessment ensures the classification of offenders according to risk and their assignment to specified levels of community supervision. The following risk assessment tools are utilized by the department and county community corrections agencies for risk assessment of offenders:
+
+\(a\) Level of Service/Case Management Inventory \(LS/CMI\) Section 1 General Risk/Need Factors \(version Feb. 2013\): A validated assessment tool used to determine an offender’s risk to recidivate and identify criminogenic risk factors across eight domains Criminal History, Education/Employment, Family/Marital, Leisure/Recreation, Companions, Alcohol/Drug Problem, Procriminal Attitude/Orientation, Antisocial Pattern.
+
+\(b\) Ontario Domestic Assault Risk Assessment \(ODARA\) \(version June 2004\): Actuarial risk assessment tool to assess risk of committing future battering in cases where a man or a woman has assaulted his partner.
+
+\(c\) Public Safety Checklist \(PSC\)\(version 2005\): A statistical calculation developed by the Oregon Criminal Justice Commission in collaboration with the department’s research unit to predict an offender’s risk to recidivate within three years of release from custody or admission to probation.
+
+\(d\) Proxy \(version 2005\): A three question validated risk assessment tool used to identify initial risk for offenders entering probation supervision.
+
+\(e\) Stable-2007 \(version Sept. 2012\): Actuarial risk assessment designed to assess risk of sexually recidivating over time using static risk factors used in conjunction Acute-2007.
+
+\(f\) Acute-2007 \(version Aug. 2012\): Actuarial risk and needs scale for the assessment of sexual offenders and the probability of sexual and violent recidivism based upon dynamic needs measured at each supervision contact.
+
+\(g\) Static-99R and Definitions \(version 2003, age coding August 2012\): A ten item actuarial assessment instrument for use with adult sexual offenders who are at least 18 years of age at the time of admission to supervision.
+
+\(h\) The risk assessment tools listed in \(a\) through \(g\) above are filed with this rule and are available on request from the Department of Corrections or at the Secretary of State’s Office.
+
+\(2\) New Case: Any offender received for community supervision who is not already under community supervision at the time of the admission to supervision shall be considered a new case. A risk assessment must be completed.
+
+\(a\) The offender shall be considered a new case for a period of up to 30 days commencing with the supervision intake date. Authorization to extend the new case status an additional 30 days may be granted by the supervisor when extenuating circumstances warrant such extension. Approval for the extension may be documented in the case file.
+
+\(b\) An absconder shall be considered a new case upon return to supervision if he/she has been absent from supervision for a period of six months or longer.
+
+\(c\) An offender shall be considered a new case upon release from incarceration due to revocation or upon a new felony conviction.
+
+\(3\) Risk Assessment:
+
+\(a\) The assessment of risk will involve the use of the PSC, a validated risk assessment tool, which is an objective instrument that groups offenders according to their likelihood to recidivate.
+
+\(b\) The assessment of risk will rely primarily on automated static risk factors to predict the likelihood to recidivate. The initial risk assessment score will be created as part of new case procedures.
+
+\(c\) The computer generated score will place the offender in one of three risk levels: high, medium, or low.
+
+\(d\) If an offender has no in-state arrest history or an extensive out-of-state criminal history, the Proxy risk tool will be used, which is a manual risk assessment tool and will serve as a proxy to the automated risk assessment tool and will determine the initial risk level.
+
+\(4\) Risk, Needs, and Responsivity Assessment:
+
+\(a\) The ongoing assessment of offenders risk, needs, and responsivity relies on a combination of both static and dynamic risk factors in order to predict recidivism and identify criminogenic needs and responsivity issues.
+
+\(b\) The LS/CMI and a case plan, as described in OAR 291-078-0026, will be completed on all offenders determined to be of high or medium risk either by the PSC, Proxy, or by an approved override. The LS/CMI is not required on sexual offenders who are subject to the Stable/Acute and Static-99R.
+
+\(c\) Offenders will be reassessed using the LS/CMI a minimum of every twelve months, or as circumstances warrant for high and medium level cases.
+
+\(d\) The LS/CMI is not required on offenders that are assessed at the low level either by the PSC or by an approved override. Low level offenders may be reassessed using the PSC or LS/CMI as circumstances warrant.
+
+\(e\) Nothing in this rule prevents an agency from completing an LS/CMI on a sexual offender or on a low level offender.
+
+\(5\) Overrides:
+
+\(a\) The override feature is intended to address risk factors that may not be included in the objective risk assessment instruments. These factors are based upon:
+
+\(A\) Dynamic risk factors, which appear to impact the risk the offender poses to the community; or
+
+\(B\) Policy and/or value statements on the part of the agency regarding the delivery of correctional services.
+
+\(b\) The override feature provides for either increases or decreases in the level of supervision from that determined through the initial risk assessment score.
+
+\(c\) All overrides must be based upon static and/or dynamic risk factors identified by one of the following tools, special offender designation, or the offender’s availability for supervision:
+
+\(A\) LS/CMI;
+
+\(B\) Stable/Acute
+
+\(C\) ODARA;
+
+\(D\) SVDO;
+
+\(E\) Policy; or
+
+\(F\) Unavailable status, which includes
+
+\(i\) In custody;
+
+\(ii\) Warrant/Abscond;
+
+\(iii\) Residential Treatment;
+
+\(iv\) CMPO, Compacted Out of State; or
+
+\(v\) Medical \(Hospice, State Hospital, etc.\)
+
+\(d\) The assessing officer must indicate the single most appropriate category on the override screen.
+
+\(e\) Approval of override requests by the officer’s supervisor is not required; however, an agency may require this level of approval.
+
+\(f\) All overrides must include a comment or a reason for the override.
+
+\(g\) Supervision level changes due to override shall remain in effect until:
+
+\(A\) A change in circumstances warrants a reassessment and subsequent adjustment in the level of supervision;
+
+\(B\) The removal of the override is warranted and consistent with public safety and the reformation of the offender.
+
+\(6\) In order to ensure a baseline of statewide consistency in the supervision of offenders, three basic levels of supervision have been established: high, medium, and low. The risk instrument shall, in most cases, determine which supervision level is appropriate. The county community corrections manager will establish minimum contact standards for each of the three supervision levels for new cases.
+
+\(a\) Standards will be in writing with the policies and procedures of the agency.
+
+\(b\) The county will notify the Department of Corrections of the contact standards so that they can be coded into the Corrections Information System \(CIS\). The management reports generated by CIS will reflect the actual standards set in the county.
+
+\(7\) An offender found to be a SVDO, as defined in ORS 144.635, shall be subject to intensive supervision for the full period of the offender’s parole and post-prison supervision.
+
+\(8\) Intensive supervision for the purposes of this rule means an enhanced level of supervision exceeding a county’s high risk level supervision standards. Intensive supervision may include, but not be limited to, electronic monitoring, house arrest, curfew, day reporting, supervised housing, multiple supervising officers, adjunct surveillance by law enforcement or other specialists, increased face-to-face offender contacts in the community, increased collateral contacts \(such as with family, therapist and employer\), community notification, geographic restrictions, offender mileage logs, medication monitoring \(such as depo provera, psychotropics, antabuse\), intensive outpatient or residential treatment programming, urinalysis, and polygraph.
+
+Statutory/Other Authority: ORS 144.637, 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 144.637, 179.040, 423.020, 423.030 & 423.075 History: DOC 3-2015, f. & cert. ef. 2-25-15 DOC 19-2014\(Temp\), f. & cert. ef. 8-29-14 thru 2-25-15 DOC 3-2013, f. & cert. ef. 2-28-13 DOC 9-2012\(Temp\), f. 8-31-12, cert. ef. 9-1-12 thru 2-28-13 DOC 4-2001, f. & cert. ef. 2-7-01 CD 12-1997, f. 7-23-97, cert. ef. 8-1-97 CD 15-1991, f. & cert. ef. 6-14-91 291-078-0026 Community Case Management and Planning
+
+\(1\) Community case management and planning is comprised of the following principles:
+
+\(a\) When all community corrections staff and community stakeholders share appropriate information and assist in the case planning for offenders, both the quality of change and the safety of the community improve. Mutual respect, proper training, and on-going communication and cooperation provide the foundation for community case management;
+
+\(b\) Case planning begins in the institution for those offenders releasing on parole or post-prison supervision. An effective community case management system will build upon the case planning that occurred in the institution;
+
+\(c\) Each offender is treated as an individual rather than as a part of a group;
+
+\(d\) Case management programs and interventions are structured around an individual’s risk, need, and responsivity factors;
+
+\(e\) Case plan programs and interventions contain clear and achievable goals where goal achievement is rewarded;
+
+\(f\) Positive behaviors and personal accountability are expected in order to achieve goals;
+
+\(g\) Each offender has the ability to provide input into their case plan;
+
+\(h\) Quality pro-social interaction between all agency staff and offenders is the expectation and is an evidence-based practice that can be consistently offered throughout the correctional process;
+
+\(i\) Offenders receive support in various ways, including education, employment, programs, and treatment services;
+
+\(j\) The emphasis is on being proactive rather than waiting for problems to develop;
+
+\(k\) Accurate record keeping for monitoring progress is a vital and on-going part of successful community case planning and case management;
+
+\(l\) Feedback to the offender about case planning and progress is a vital and on-going part of successful community case management; and
+
+\(m\) Quality assurance measures are utilized to ensure consistency and reliability of community case management techniques, as well as a consistent statewide case management approach.
+
+\(2\) Individualized case plans shall be prepared on all high and medium risk offenders. Case plans may be prepared on all other offenders.
+
+\(a\) The case plan will identify interventions, supervision strategies, programming, treatment, and educational/employment activities that are appropriate to the offender’s strengths and needs;
+
+\(b\) The case plan will promote positive change and assist in developing pro-social behaviors;
+
+\(c\) The case plan process is intended to be collaborative in nature;
+
+\(d\) The automated case plan in the Case Management Module shall be used when creating a case plan;
+
+\(e\) Components of each case plan should contain or identify:
+
+\(A\) Prioritized goals based upon assessments such as the LS/CMI, Stable/Acute and Static 99R, ODARA, \(as referenced in this rule division\) mental health status, or any other instruments assessing need or risk to recidivate;
+
+\(B\) Desired outcomes for each goal;
+
+\(C\) Action steps or tasks linking the offender to the appropriate services;
+
+\(i\) Are time sensitive, measurable, achievable, and specific;
+
+\(ii\) Are time specific and should not be identified as a range \(e.g. 30-60 days\) or as an unspecified period of time, \(e.g. as needed\);
+
+\(iii\) Should identify who is responsible for accomplishing the action steps/tasks; and
+
+\(iv\) Should prioritize completion dates.
+
+\(3\) Officers should routinely review the case plan with the offender and modifications should be made as indicated by the offender’s behavior, compliance with the plan, and responsivity to change.
+
+\(a\) Progress should be outcome oriented, measurable, and recorded in case plan;
+
+\(b\) When goals and action steps are completed, they should be replaced by the next prioritized risk/need areas identified.
+
+\(4\) Reentry and release planning are part of the case planning process.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 3-2015, f. & cert. ef. 2-25-15 DOC 19-2014\(Temp\), f. & cert. ef. 8-29-14 thru 2-25-15 DOC 3-2013, f. & cert. ef. 2-28-13 DOC 9-2012\(Temp\), f. 8-31-12, cert. ef. 9-1-12 thru 2-28-13 291-078-0031 Validation/Evaluation
+
+\(1\) The Department of Corrections will subject the PSC to periodic validation in order to ensure that the tool is predicting risk within acceptable ranges.
+
+\(2\) Evaluation of the community case management system will occur through:
+
+\(a\) The ongoing assessment of operations through the operational review system;
+
+\(b\) The ongoing informal feedback of users and recommendations of the Oregon Association of Community Corrections Directors Risk Assessment Workgroup; and
+
+\(c\) The formal written evaluation of the system to determine operational effectiveness and accomplishments of identified purposes.
+
+\(3\) A formal evaluation will occur at no more than five-year intervals.
+
+\(4\) Each agency is responsible for quality assurances measures within their county.
+
+\(a\) Case plans should be reviewed a minimum of every six months for high and medium cases and as needed for all other cases;
+
+\(b\) Internal quality assurance measures such as peer review and supervisor audits should be used to maximize consistency and reliability of case management tasks. These reviews should be conducted on a regular basis as determined by the agency.
+
+\(c\) Internal quality assurance may include:
+
+\(A\) Spot checks of assessments, which may include the LS/CMI and Stable/Acute and Static 99R \(as referenced in this rule division\);
+
+\(B\) Review of case plan development and maintenance;
+
+\(C\) Observation, review, and feedback of LS/CMI \(as referenced in this rule division\) interviews or motivational interviews;
+
+\(D\) Proper use of supervision overrides;
+
+\(E\) Accurate and appropriate case documentation; and/or
+
+\(F\) Adherence to case plan policies and procedures.
+
+\(d\) External quality assurance measures, including peer review and formal audits, may be used to ensure a statewide case management practice.
+
+Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 3-2015, f. & cert. ef. 2-25-15 DOC 19-2014\(Temp\), f. & cert. ef. 8-29-14 thru 2-25-15 DOC 3-2013, f. & cert. ef. 2-28-13 DOC 9-2012\(Temp\), f. 8-31-12, cert. ef. 9-1-12 thru 2-28-13
+
