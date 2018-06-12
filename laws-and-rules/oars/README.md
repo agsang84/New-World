@@ -7,8 +7,9 @@
 | [**291-014 - Arrest and Transport**](291-014-arrest-and-transport/) | [**291-014 - Attachment**](291-014-arrest-and-transport/291-014-attachment.md) |
 | [**291-015 - Volunteer Services/Student Interns**](291-015-volunteer-services-student-interns.md) | [**291-016 - Facility Access**](291-016-facility-access.md) |
 | [**291-019 - Transfer \(Community Corrections\)**](291-019-transfer-community-corrections.md) | [**291-022 - Use of Force \(Community Corrections\)**](291-022-use-of-force-community-corrections.md) |
-| [**291-024 - Capital Punishment**](291-024-capital-punishment.md) | 291-026 - Contracts and Governmental Agreements |
-| **291-028** | **291-031** |
+| [**291-024 - Capital Punishment**](291-024-capital-punishment.md) | [**291-026 - Contracts and Governmental Agreements**](untitled.md) |
+| [**291-027 - Death \(Inmate\)**](291-027-death-inmate.md) | **291-028 - Searches \(Community Corrections\)** |
+|  | **291-031** |
 | **291-032** | **291-034** |
 | **291-035** | **291-037** |
 | **291-038** | **291-039** |
