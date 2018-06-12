@@ -66,7 +66,11 @@
 3. Assigned staff will maintain supervision of the deceased until the appropriate mortuary has taken control of the remains. This includes expected deaths that occur at outside medical facilities. Exceptions may be made by the functional unit manager or designee only after coordination with the assigned State Police investigator. 
 4. The State Police will determine the time and place that the deceased inmate will be fingerprinted and coordinate this process with the assigned institution when appropriate.
 
-> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 8-2011, f. 4-29-11, cert. ef. 5-2-11 CD 7-1994, f. 3-18-94, cert. ef. 4-1-94
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 
+>
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 
+>
+> History: DOC 8-2011, f. 4-29-11, cert. ef. 5-2-11 CD 7-1994, f. 3-18-94, cert. ef. 4-1-94
 
 ## 291-027-0050 - Notifications
 
@@ -76,7 +80,11 @@
 4. If the deceased inmate is a citizen of a country other than the United States, Immigration and Customs Enforcement \(ICE\) and the appropriate consulate will be notified as soon as possible. 
 5. If the deceased inmate is an ICC inmate housed by the department, the ICC coordinator will be notified by the functional unit manager or designee. The ICC coordinator will notify the administrator of the sentencing jurisdiction as soon as possible.
 
-> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 8-2011, f. 4-29-11, cert. ef. 5-2-11 CD 7-1994, f. 3-18-94, cert. ef. 4-1-94
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 
+>
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 
+>
+> History: DOC 8-2011, f. 4-29-11, cert. ef. 5-2-11 CD 7-1994, f. 3-18-94, cert. ef. 4-1-94
 
 ## 291-027-0055 - Duties of the Facility Contact Person
 
@@ -93,7 +101,11 @@
 4. If the Department of Corrections becomes the responsible agent in this matter, the authorized mortuary will provide this final service in accordance with contracted services or local agreements. 
 5. Trust funds from the deceased inmate’s accounts shall not be used to offset expenses incurred by the Department of Corrections related to the inmate’s death.
 
-> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 8-2011, f. 4-29-11, cert. ef. 5-2-11
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 
+>
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 
+>
+> History: DOC 8-2011, f. 4-29-11, cert. ef. 5-2-11
 
 ## 291-027-0070 - Property and Fund Disposition
 
@@ -113,7 +125,7 @@
 2. Outside Work Crews: In the event of an incident involving death or possible death of an inmate assigned to an outside crew, the work crew supervisor will immediately activate local emergency medical services if available. The work crew supervisor will then notify the applicable facility. The officer-in-charge of the facility will be responsible to implement the procedures outlined in OAR 291-027-0030, Assessment and Security. 
 3. ICC Inmate sentenced to DOC: The ICC agreement for all inmates sentenced to the department will address the arrangements to be used if the inmate dies while in custody of the receiving jurisdiction. Details of the agreement will include required notifications, transport of the body or remains, and financial responsibility for associated costs. 
 4. Rental Bed Inmate: Local jurisdictions will report the death of any department inmate in their custody to the Department of Corrections as soon as possible, and furnish all information requested. The Department of Corrections is responsible for making final disposition of the inmate’s body and providing notice to the inmate’s emergency contact person. These arrangements will be included in all rental bed agreements. 
-5. Outside Medical Facility: When an inmate dies while under the care of an outside medical facility, the staff assigned to the hospital watch or medical trip escort will be responsible for immediately contacting the officer-in-charge at the inmate’s assigned institution.  \(a\) The officer-in-charge of the facility will be responsible to implement the procedures outlined in OAR 291-027-0030, Assessment and Security.  \(b\) The officer-in-charge will determine if a crime scene log needs to be initiated.  \(c\) Arrangements for transportation of the deceased inmate from the outside medical facility to the designated mortuary will be made in accordance with contracts or local agreements negotiated by the department.  \(d\) The staff assigned to hospital watch will remain with the deceased inmate until the designated mortuary has taken control of the remains. Exceptions may be made by the functional unit manager or designee only after coordination with the assigned State Police investigator.
+5. Outside Medical Facility: When an inmate dies while under the care of an outside medical facility, the staff assigned to the hospital watch or medical trip escort will be responsible for immediately contacting the officer-in-charge at the inmate’s assigned institution.  \(a\) The officer-in-charge of the facility will be responsible to implement the procedures outlined in [**OAR 291-027-0030**](291-027-death-inmate.md#291-027-0030-assessment-and-security), Assessment and Security.  \(b\) The officer-in-charge will determine if a crime scene log needs to be initiated.  \(c\) Arrangements for transportation of the deceased inmate from the outside medical facility to the designated mortuary will be made in accordance with contracts or local agreements negotiated by the department.  \(d\) The staff assigned to hospital watch will remain with the deceased inmate until the designated mortuary has taken control of the remains. Exceptions may be made by the functional unit manager or designee only after coordination with the assigned State Police investigator.
 
 > Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 
 >
