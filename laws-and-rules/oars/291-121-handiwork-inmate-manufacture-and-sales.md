@@ -1,0 +1,442 @@
+# 291-121 - Handiwork \(Inmate Manufacture and Sales\)
+
+|  |
+| --- | --- |
+|  |
+
+## 291-121-0005 Authority, Purpose, and Policy
+
+\(1\) Authority: The authority for this rule is granted to the Director of the Department of Corrections in accordance with ORS 179.040, 421.142, 423.020, 423.030, and 423.075.
+
+\(2\) Purpose: To afford constructive utilization of leisure time providing a positive learning experience and potential for earning funds for those inmates in participating institutions/facilities.
+
+\(3\) Policy:
+
+\(a\) It is the policy of the Department of Corrections that selected inmates within Department of Corrections participating facilities may be permitted to manufacture small items of authorized handiwork, and to sell or otherwise dispose of these through approved channels;
+
+\(b\) It is the policy that the price of handiwork products to Department of Corrections staff will be the same as the public price. ORS 421.405 prohibits offices and employees of the state from receiving the use or profit of the labor or services of any inmate.
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 Statutes/Other Implemented: ORS 179.040, 421.142, 421.405, 423.030, 423.075 & 423.020 History: CD 12-1991, f. & cert. ef. 5-15-91 CD 20-1987, f. & ef. 3-5-87 CD 55-1985, f. & ef. 8-16-85 CD 58-1981, f. & ef. 12-21-81 CD 20-1981\(Temp\), f. & ef. 6-30-81 CD 39-1978, f. & ef. 12-12-78 291-121-0010 Definitions
+
+\(1\) “Department of Corrections Facility”: Any secure institution or minimum security facility or staff office, including the grounds, operated by the Department of Corrections.
+
+\(2\) “Functional Unit”: Any organizational component within the Department of Corrections responsible for the delivery of services or coordination of programs.
+
+\(3\) “Functional Unit Manager”: Any person within the Department of Corrections who reports to either the Director, an assistant director, or an administrator and has responsibility for the delivery of program services or coordination of program operations.
+
+\(4\) “Inmate”: Any person under the supervision of Department of Corrections who is not on parole, post-prison supervision, or probation status.
+
+\(5\) “Participating Institutions/Facilities”: The institutions/ facilities which have a hobby shop which include Mill Creek Correctional Facility \(MCCF\), Oregon State Correctional Institution \(OSCI\), Oregon State Penitentiary \(OSP\), and Oregon Women’s Correctional Center \(OWCC\).
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 Statutes/Other Implemented: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 History: CD 12-1991, f. & cert. ef. 5-15-91 CD 20-1987, f. & ef. 3-5-87 CD 55-1985, f. & ef. 8-16-85 CD 58-1981, f. & ef. 12-21-81 CD 20-1981\(Temp\), f. & ef. 6-30-81 CD 39-1978, f. & ef. 12-12-78 291-121-0015 Methods of Application and Approval for Program Participation
+
+Space limitation alone dictates selectivity among members of the population. Care must be exercised that those chosen have an acceptable conduct record and sufficient resources to obtain the supplies needed. If necessary, assignment of hobby craft work may be rotated to accommodate a greater number of inmates.
+
+\(1\) Mill Creek Correctional Facility: Inmate applications for admission to the hobby shop will be submitted on an Interview Request \(CD 214\) to the facility commander or designee:
+
+\(a\) The facility commander or designee will determine the inmate’s eligibility for assignment to the hobby shop program;
+
+\(b\) The facility commander or designee will maintain a list by date of application of the inmates requesting hobby shop admission;
+
+\(c\) As space becomes available in the hobby shop, inmates will be assigned from the list, in order of application, to the hobby shop.
+
+\(2\) Oregon State Correctional Institution:
+
+\(a\) Inmates may apply to participate in the hobby shop program by sending an Interview Request \(CD 214\) to the hobby shop supervisor;
+
+\(b\) If there are no vacancies in the hobby shop, names will be placed on a waiting list in the order in which applications are received by the hobby shop supervisor;
+
+\(c\) A person who has documented and demonstrated past behavior as a threat to others or to the security and safety of the institution may be defined placement in the hobby shop program;
+
+\(d\) Inmates must show sufficient resources are available to secure needed supplies prior to hobby shop program admission. Inmate without funds must show donated property availability which will need final approval by the hobby shop supervisor;
+
+\(e\) If, in the hobby shop supervisor’s opinion, an inmate is no longer benefitting from the program, the supervisor may submit a recommendation to the Activities Manager to review the inmate for removal from the program;
+
+\(f\) If an inmate is absent from the institution for forty-five days, his property will be removed from the hobby shop, packaged and stored in the property room located in the back of Unit \#1 for subsequent disposition as appropriate in accordance with the Department of Corrections rule on Personal Property Control and Disposition \(Inmate\) and Oregon State Correctional Institution requirements;
+
+\(g\) There are no full-time assignments to the hobby shop. In the event all hobby work spaces are filled and a waiting list exists, the Activities Manager may elect to remove from active participation the inmates who have held work spaces for the longest period of time to the extent deemed appropriate to accommodate the waiting list and thus assure equal opportunity in the hobby shop. Any inmate removed will be permitted to complete the project then in progress; his name will then be added to the waiting list. Materials sent home during these conditions shall be sent at the institution’s expense or stored at institution discretion. When an inmate voluntarily terminates program involvement or is removed from the program for disciplinary reasons, personal hobby shop materials will be sent out of the institution at the inmate’s expense;
+
+\(h\) Individual clubs wishing to obtain access to the hobby shop to work on club projects will submit a written request to the Activities Manager. If approved for program placement, the hobby shop supervisor will determine appropriate times and locations for club work to be done.
+
+\(3\) Oregon State Penitentiary:
+
+\(a\) Inmate applications for admission to the hobby shop:
+
+\(A\) Applications will be submitted on an Interview Request Form \(CD 214\) to the inmate’s respective counselor;
+
+\(B\) The counselor will present the application to the Assistant Superintendent, Security or designee and a decision will be reached as to whether the inmate is eligible for placement on the hobby shop waiting list;
+
+\(C\) The hobby shop waiting list will remain in the Operations Captain/Lieutenant’s office.
+
+\(b\) Eligibility and Assignment Criteria:
+
+\(A\) Six months served in the institution since admission on current sentence, six months clear conduct \(no major rule violation\) at time of assignment request, and six months clear conduct at time of actual assignment to the hobby shop;
+
+\(B\) Twelve months or more to release date;
+
+\(C\) Sufficient resources available to secure needed supplies at the time of assignment;
+
+\(D\) A person that has documented and demonstrated past behavior as a threat to others or to the security and safety of the institution may be denied placement on the hobby shop waiting list or admittance to the hobby shop program;
+
+\(E\) Inmates will be assigned by the Assistant Superintendent, Security or Operations Captain/Lieutenant to the hobby shop from the established eligibility list in chronological order.
+
+\(c\) Bench Activity by Clubs:
+
+\(A\) Individual clubs wishing to obtain a bench must submit a request to the Assistant Superintendent, Security for review at the Activities Committee meeting. If approved, they are placed on the bottom of the waiting list;
+
+\(B\) Eligibility and assignment criteria for clubs is the same as for individual inmates, except the club selects the individual to participate and refers the name to the Assistant Superintendent, Security for consideration and approval;
+
+\(C\) Inmates selected by the clubs are to use only the benches specified for club use;
+
+\(D\) Two inmates are allowed to be assigned and/or work on each club bench at a time;
+
+\(E\) The system for receiving items, selling, etc., is the regular process for other inmates except the club\(s\) sponsor the material\(s\) bought. All club-sponsored hobby craft items will be credited to that specific club account;
+
+\(F\) If an inmate is removed from the hobby shop by the Disciplinary Committee, the club’s status will be reviewed by the Assistant Superintendent, Security. Removal of an assigned inmate will not be an automatic removal of the club bench unless the violation was directly related to the hobby shop.
+
+\(d\) Attendance/Removal:
+
+\(A\) All inmates assigned to the hobby shop part-time will maintain a minimum of eight work periods per month. Full-time assignments require the same attendance as full-time jobs. Failure to meet the minimum attendance requirements may result in removal from the hobby shop;
+
+\(B\) An inmate may be removed by the Assistant Superintendent, Security or designee if the inmate’s actions while working in the hobby shop present a threat to the security of the institution. Inmates working in the hobby shop will work on their own approved hobby craft only.
+
+\(4\) Oregon Women’s Correctional Center: An arts and crafts area is maintained in the Program Unit:
+
+\(a\) All arts and crafts projects and materials to be used in the institution shall be approved by the Education Manager and Security Manager. All requests are submitted by the Recreation Supervisor on a Program Proposal Form \(CD 812\) or Special Program Request Form \(CD 812A\);
+
+\(b\) Inmates may use the arts and crafts area to work on approved items unless specifically restricted from the privilege;
+
+\(c\) Space availability shall be a criterion used to govern inmate participation. If use exceeds available space, the Recreation Therapist shall originate a schedule to permit equal participation by all inmates. Inmates shall obtain permission from the Recreation Supervisor before entering the arts and crafts area.
+
+\[ED. NOTE: Forms referenced are available from the agency.\]
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 Statutes/Other Implemented: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 History: CD 12-1991, f. & cert. ef. 5-15-91 CD 20-1987, f. & ef. 3-5-87 CD 55-1985, f. & ef. 8-16-85 CD 58-1981, f. & ef. 12-21-81 CD 39-1978, f. & ef. 12-12-78 291-121-0020 Schedule of Program Activity
+
+\(1\) Mill Creek Correctional Facility: The hobby shop is open seven days per week, including holidays, from 4 p.m. to 9 p.m. weekdays and 9 a.m. to 9 p.m. on weekends.
+
+\(2\) Oregon State Correctional Institution: The hobby shop will normally be open five days per week as scheduled in the inmate newsletter. The hobby shop may be closed occasionally for special projects. Approved inmates are authorized to go to the hobby shop only during regularly scheduled line movements or when on call-out.
+
+\(3\) Oregon State Penitentiary:
+
+\(a\) On the first Wednesday of each month, the hobby shop supervisor will designate a crew of approximately five inmates from the hobby shop roster to assist the hobby shop orderly in thoroughly cleaning the hobby shop floor. The orderly and clerk assignments are paid positions under the direction of the Group Living Captain/Lieutenant;
+
+\(b\) The hobby shop is open five days per week with varied hours and is closed on major holidays. Hours are posted on the hobby shop doors and any changes are announced to the general population as far in advance as possible.
+
+\(4\) Oregon Women’s Correctional Center: The Recreation Therapist shall post the arts and crafts schedule in a conspicuous place near the arts and crafts room. These hours are also listed in the weekly inmate newsletter.
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 Statutes/Other Implemented: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 History: CD 12-1991, f. & cert. ef. 5-15-91 291-121-0025 Approved Projects List
+
+\(1\) Mill Creek Correctional Facility: Projects must be approved by the facility commander or designee and inmates may work on only one project at a time.
+
+\(2\) Oregon State Correctional Institution: Approved projects are leather crafts, painting, model building, woodworking, fishing equipment, and stained glass:
+
+\(a\) Materials for projects are not to exceed space in assigned lockers;
+
+\(b\) All project materials must have written approval \(approval slip or order form\) by the hobby shop supervisor before entering the institution;
+
+\(c\) Approved hobby craft projects must be manufactured in the hobby shop with hobby shop tools. Personal inmate tools will not be allowed in the institution;
+
+\(d\) All items in the hobby shop must be mailed out of the institution.
+
+\(3\) Oregon State Penitentiary: Approved projects are leather, arts, copper, jewelry, fishing equipment, and approved club projects:
+
+\(a\) Inmates may be approved for only one of the projects listed at any one time. If an inmate desires to change his hobby craft, he must submit an Interview Request \(CD 214\) to the Assistant Superintendent, Security or designee for approval;
+
+\(b\) If approved, all materials and tools concerning the first craft must be sent out of the institution prior to ordering new tools and materials. Certain related tools may be retained upon approval of the Assistant Superintendent, Security or designee. Items and tools classified as detrimental to the security of the institution will not be permitted;
+
+\(c\) All items made in the hobby shop must be delivered to the Curio Store or mailed out of the institution except items approved by the Assistant Superintendent, Security or designee. Club bench projects may be removed from the hobby shop by designated staff for approved functions.
+
+\(4\) Oregon Women’s Correctional Center: The Recreation Therapist shall maintain a list of all approved craft materials/ projects on an Operations Committee Approved Arts and Crafts Materials/ Projects Form \(CD 873\).
+
+\[ED. NOTE: Forms referenced are available from the agency.\]
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 Statutes/Other Implemented: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 History: CD 12-1991, f. & cert. ef. 5-15-91 291-121-0030 Procurement of Materials
+
+\(1\) General:
+
+\(a\) Procurement of materials shall be handled in accordance with ORS 421.142;
+
+\(b\) An inmate will not be denied participation in a handiwork program merely because of lack of personal funds if donated property or materials are available. Trading of materials for labor or other trading between inmates will be prohibited.
+
+\(2\) Mill Creek Correctional Facility: The method for procuring tools, supplies, and equipment must be approved by the facility commander or designee.
+
+\(3\) Oregon State Correctional Institution:
+
+\(a\) All materials must be purchased from an approved vendor. Inmates will be required to pay postage. Designated times during the week will be set aside for purchase of hobby craft materials and supplies. All projects must be approved by the hobby shop supervisor. Any inmate may appeal any negative decision on a proposed project to the Activities Manager; Assistant Superintendent, Program Services; and Superintendent, in that order;
+
+\(b\) All incoming materials must be shipped through the warehouse with a Package Authorization Form \(CD 948\) attached to the outside of the package;
+
+\(c\) All donated materials must be approved by the hobby shop supervisor and listed on a Recreation Property Transaction Form \(CD 252\);
+
+\(d\) Inmates purchasing craft materials will complete and submit Hobby Shop Order Form \(CD 753\) to the hobby shop supervisor for approval and signature. Upon arrival, the hobby shop supervisor will turn the form in to the canteen officer during normal canteen operating hours. The canteen officer will verify the inmate has sufficient funds, debit the account appropriately and return the approved form to the hobby shop supervisor;
+
+\(e\) Upon receipt of materials, the hobby shop supervisor will complete and submit Hobby Shop Transaction Form \(CD 254\) and submit one copy each to the hobby file and the inmate. Upon completion of this form, property will be subject to the Department of Corrections rule on Personal Property Control and Disposition \(Inmate\) and Oregon State Correctional Institution requirements. Proper procurement information such as receipts or Recreation Property Transaction Forms must be available for all inmate owned property.
+
+\(4\) Oregon State Penitentiary:
+
+\(a\) Materials and tools must be purchased from an approved vendor:
+
+\(A\) The inmate will be required to pay postage;
+
+\(B\) Donated items must be from a vendor and approved by the Assistant Superintendent, Security.
+
+\(b\) Requests for purchasing of materials and tools will be submitted to the hobby shop supervisor for approval:
+
+\(A\) Order forms will establish that finished articles are, in fact, projects completed from legitimately acquired materials;
+
+\(B\) Tools and materials will be related to hobby shop assignment only;
+
+\(C\) A signed Withdrawal Request Form \(CD 28D\) must accompany the request to pay for materials, tools, and required postage;
+
+\(D\) The hobby shop supervisor will submit all orders to the Assistant Superintendent, Security or designee for final approval and then forward them to the Central Trust Accounting Unit;
+
+\(E\) All materials received from vendors will be delivered directly to the receiving warehouse and stored in a secure area until signed for by the Operations Captain/Lieutenant or designee. On a weekly basis, the materials will be searched in the warehouse by the Operations Captain/Lieutenant or designee prior to delivery to the hobby shop;
+
+\(F\) The Assistant Superintendent, Security will designate a time schedule to ensure the weekly delivery of supplies to the hobby shop.
+
+\(c\) All tool orders will be reviewed by the Operations Captain/Lieutenant;
+
+\(d\) A security staff member will be required to ensure the delivery of orders to the hobby shop:
+
+\(A\) Upon receipt of the orders to the hobby shop, the supervisor will inventory the items received and personally re-inventory each item with the inmate;
+
+\(B\) A notebook labeled “Supplies Received” will be kept by the hobby shop supervisor. All incoming orders will be noted. Information will include the inmate’s name and number, the shipper and order number, and the institution’s order number. Any items not shipped or on back order and any refunds or balances due will also be noted;
+
+\(C\) All supplies received without appropriate shipping invoices will be returned to the shipper collect;
+
+\(D\) Delivery of supplies can be made at any time designated by the Assistant Superintendent, Security \(at least one time per week\);
+
+\(E\) An up-to-date inventory sheet will be posted on the inside of the cabinet doors at each work area. The inmates assigned to benches are responsible for keeping bench inventories current.
+
+\(5\) Oregon Women’s Correctional Center:
+
+\(a\) Inmates shall purchase all raw materials for personal use for arts and crafts projects with their own funds. State-owned property is not sold or given to inmates for handicraft purposes unless inmates are involved in a structured workshop or class. These items shall not be sold by the inmates;
+
+\(b\) The Recreation Therapist may accept any approved donated materials to be distributed to interested indigent inmates;
+
+\(c\) The Recreation Therapist may accept donated materials from approved vendors for inmates to be used in constructive handiwork programs. Handiwork manufactured from these materials become the property of the inmate participants;
+
+\(d\) A volunteer conducting an approved handicraft program may donate materials for use in the program. These materials may become the property of the inmate upon completion of a handicraft;
+
+\(e\) The Recreation Therapist shall maintain a Donated Materials Form \(CD 802\) showing the date, donor, type of material, and inmate receiving the material;
+
+\(f\) Inmates with funds may obtain arts and crafts materials by submitting a Withdrawal Request \(CD 28D\) made payable to an approved vendor and a Ceramic Order Form \(CD 621\) or a Vendor’s Order Form to the Recreation Supervisor. The Recreation Supervisor will keep a copy of the vendor order to verify authorization of all incoming craft packages;
+
+\(g\) The Recreation Supervisor will forward the Withdrawal Request \(CD 28D\) to the Education Services Manager for approval. The education secretary will send the request to the Superintendent’s assistant who will forward it to the Central Trust Accounting Unit. The Central Trust Accounting Unit shall send final approval notice to the inmate. Withdrawal Requests showing insufficient funds shall be returned to the Recreation Supervisor to be returned to the inmate;
+
+\(h\) The Central Trust Accounting Unit shall send a check made out for the materials to the vendor;
+
+\(i\) The Oregon Women’s Correctional Center is not responsible for damage to inmate handiwork, except for damage due to staff and assigned recreation clerk accident or negligence;
+
+\(j\) All incoming craft packages shall be routed to the Recreation Supervisor to be searched and given to the inmate;
+
+\(k\) Toxic, caustic, or flammable products shall be handled in accordance with the Department of Corrections rule on Hazard Communications.
+
+\[ED. NOTE: Forms referenced are available from the agency.\]
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 Statutes/Other Implemented: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 History: CD 12-1991, f. & cert. ef. 5-15-91 291-121-0035 Security of Tools and Materials
+
+\(1\) Mill Creek Correctional Facility: Control of hobby shop tools and equipment will be in accordance with Mill Creek Correctional Facility requirements. No tools or equipment for hobbies shall be manufactured at Mill Creek Correctional Facility.
+
+\(2\) Oregon State Correctional Institution:
+
+\(a\) Inmates will be assigned a locker and padlock on an as-needed basis;
+
+\(b\) Tools and flammables will be issued out of the hobby shop office and must be checked back in by the inmate prior to leaving the shop;
+
+\(c\) Inmates will be searched in and out of the shop. Inmates shall not leave and then return until the next authorized line movement;
+
+\(d\) No flammable liquids or tools are to be stored in inmate lockers. No smoking is permitted in the hobby shop.
+
+\(3\) Oregon State Penitentiary:
+
+\(a\) Control of tools and materials will be conducted in accordance with Oregon State Penitentiary tool requirements;
+
+\(b\) Absolutely no tools or equipment will be manufactured in the institution \(e.g., hobby shop, industries, vocational training\);
+
+\(c\) When the inmate is released or removed from the hobby shop, the following will occur:
+
+\(A\) All inmate materials, tools, and Curio Store item\(s\) will be inventoried and packaged by the hobby shop supervisor. A copy of the inventory list is to be retained by the hobby shop supervisor. Abandoned property will be disposed of in accordance with the Department of Corrections rule on Personal Property Control and Disposition \(Inmate\);
+
+\(B\) If the inmate wishes the materials to be mailed or shipped by freight, he will prepare a request for withdrawal from his personal funds on a Withdrawal Request Form \(CD 28D\). The form will be taken to the mail room by the hobby shop supervisor with the packaged materials;
+
+\(C\) If the inmate wishes to take materials with him at the time of his release, the hobby shop supervisor will inventory the inmate’s materials with the inmate and have the inmate sign an accurate inventory list prior to delivery to the inmate;
+
+\(D\) Under unusual situations, other arrangements will be made for disposition of hobby craft materials by the Assistant Superintendent, Security or designee;
+
+\(E\) Inmates who are removed from their hobby shop assignment will follow the procedure for disposition of their materials. Inmates will not be removed for any time period shorter than six months. All materials in the hobby shop and the Curio Store will be removed and disposed of by the hobby shop supervisor. Inmates who have been removed from the hobby shop will not be reassigned without being placed on the bottom of the waiting list \(on approval of the Assistant Superintendent, Security or designee\);
+
+\(F\) Removal from a club bench for nondisciplinary reasons will not jeopardize the inmate’s position on the hobby shop waiting list.
+
+\(4\) Oregon Women’s Correctional Center:
+
+\(a\) All tools purchased for use in the arts and crafts area shall be approved in accordance with Oregon Women’s Correctional Center requirements;
+
+\(b\) All tools designated as critical shall be stored in the designated locked storage cabinet in the arts and crafts area. Critical tools shall be used under the direct supervision of staff and secured on a shadow board when not in use. The Recreation Supervisor shall maintain a tool and equipment log which shall be initialed each time a critical tool is checked out;
+
+\(c\) All tools designated as noncritical shall be stored in the arts and crafts area. The recreation staff shall maintain a tool and equipment log which shall be initialed each time a noncritical tool is checked out.
+
+\[ED. NOTE: Forms referenced are available from the agency.\]
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 Statutes/Other Implemented: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 History: CD 12-1991, f. & cert. ef. 5-15-91 291-121-0040 Pricing Policy for Handiwork
+
+\(1\) Mill Creek Correctional Facility:
+
+\(a\) Each inmate desiring to offer his handiwork for sale will set his own asking price for the item;
+
+\(b\) Price breaks for a handiwork item offered for sale must be in increments of five cents for prices up to one dollar, twenty-five cents for prices up to five dollars, and fifty cents for prices above five dollars.
+
+\(2\) Oregon State Correctional Institution: Each inmate will establish his own price together with his name and number on a tag which will be attached to each article. Prices must be in increments of five cents for prices up to one dollar, twenty-five cents for prices up to five dollars, and fifty cents for prices above five dollars.
+
+\(3\) Oregon State Penitentiary: Each inmate will establish his own price for his product \(at five-cent price breaks\) and will record this price together with his name and number on a tag and attach it to each article.
+
+\(4\) Oregon Women’s Correctional Center: Each inmate is permitted to establish the sale price for completed handiwork.
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 Statutes/Other Implemented: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 History: CD 12-1991, f. & cert. ef. 5-15-91 291-121-0045 Personnel Supervision
+
+\(1\) General:
+
+\(a\) Guidelines for participation in the program should be written and a signed acknowledgement from the individual inmate retained in the hobby-craft office during the period of the inmate’s participation in the program;
+
+\(b\) Designated staff shall make nonscheduled inspections and monitor the physical area of the hobby shop, as well as the activities. Periodic and special inventories shall be made of tools and materials.
+
+\(2\) Mill Creek Correctional Facility:
+
+\(a\) The primary responsibility for supervision of the hobbies program will be with the officer in charge of the hobby shop. Any security staff member may enter the hobby shop at any time for monitoring and supervising programs;
+
+\(b\) The facility commander will complete a monthly unscheduled inspection of the hobbies area;
+
+\(c\) Inmates will be held responsible for the sanitation of their assigned areas;
+
+\(d\) Any item wrapped for mailing or pick up will be checked by the facility commander or designee prior to wrapping.
+
+\(3\) Oregon State Correctional Institution:
+
+\(a\) Supervision of handiwork activities will be done at all times by the hobby shop supervisor;
+
+\(b\) Specific rules for participation in the program will be supplied and signed by the individual inmates. These will be retained in the hobby shop office files during the period of the inmate’s participation in the program;
+
+\(c\) All lockers are subject to regular inspections. There shall be no exchange of materials between inmates;
+
+\(d\) Each assigned inmate is responsible for items in or at his assigned bench and general sanitation of his work area;
+
+\(e\) The supervisor will observe and inventory all packages being wrapped for mailing or sale at the Curio Store. The supervisor will ensure that items sent to the mail room for mailing or pickup were made by the inmate and correspond with his approved hobby. A copy of the inventory will be kept in the hobby shop central records.
+
+\(4\) Oregon State Penitentiary:
+
+\(a\) Supervision of handiwork activities will be done at all times by the hobby shop supervisor;
+
+\(b\) The Assistant Superintendent, Security; the Safety and Sanitation Officer; and the Operations Captain/Lieutenant will complete a monthly nonscheduled inspection and monitoring of the hobby shop. Periodic and special inventories shall be made of tools and materials;
+
+\(c\) Each assigned inmate is responsible for keeping his assigned bench clean and orderly and is responsible for all items in or at his assigned bench;
+
+\(d\) The supervisor will observe and inventory all packages being wrapped for mailing or sale at the Curio Store and ensure that all items were made by the inmate and correspond with his approved hobby. A copy of the inventory will be kept in the supervisor’s records.
+
+\(5\) Oregon Women’s Correctional Center:
+
+\(a\) The Recreation Supervisor shall be present for at least spot supervision while the arts and crafts area is open;
+
+\(b\) The Recreation Supervisor shall draft requirements for participation in the arts and crafts program and maintain a signed acknowledgement of all inmates participating in the program;
+
+\(c\) The Education Services Manager shall inspect the arts and crafts area weekly.
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 421.142, 423.020, 423.030 & 423.075 History: CD 17-1994, f. 8-17-94, cert. ef. 9-1-94 CD 12-1991, f. & cert. ef. 5-15-91 291-121-0050 Disposition of Completed Handiwork
+
+\(1\) General: Procurement information will establish that finished articles are, in fact, products of legitimately acquired materials.
+
+\(2\) Completed handiwork items may be mailed out or kept if in compliance with the Department of Corrections rule on Personal Property Control and Disposition \(Inmate\).
+
+\(3\) Sales Unit:
+
+\(a\) ORS 421.142 permits establishment of a handiwork sales facility at the “penal or correctional institution.” The inmate handiwork sales facility at the Oregon State Penitentiary shall be called the “Curio Store” and shall be for use by Oregon State Penitentiary, Oregon State Correctional Institution, and Oregon Women’s Correctional Center inmates only. Operating hours will be posted at the Curio Store:
+
+\(A\) Articles will be individually itemized on the hobby shop shipping ticket \(OSP Form \#128\) and will normally reach the Curio Store one day after leaving the hobby shop;
+
+\(B\) All items for sale at the Curio Store, including special orders, will be for sale to the general public;
+
+\(C\) All articles sent to the Curio Store may be displayed for a period of one calendar year. Articles that have not sold within the allotted time period will be packaged and inventoried by the hobby shop supervisor. The responsible inmate may have these articles disposed of in accordance with requirements in this procedure. Abandoned property will be disposed of in accordance with the Department of Corrections rule on Personal Property Control and Disposition \(Inmate\);
+
+\(D\) Once an article has been delivered to the Curio Store it may not be returned to the hobby shop except with the written permission of the Superintendent or designee. Minor repairs will be handled by the Curio Store clerk within his capabilities;
+
+\(E\) Upon sale of an article, a quadruplicate sales ticket will be filled out. Distribution of the sales ticket is as follows:
+
+\(i\) The orange ticket goes into the lock box in the Curio Store;
+
+\(ii\) The pink ticket goes to the customer;
+
+\(iii\) The yellow ticket is sent to the inmate who made the article;
+
+\(iv\) The white \(original\) ticket goes to the hobby shop supervisor for retention;
+
+\(v\) Each ticket number will be recorded on a special Curio Store sales report by the store clerk. This report will also list the inmate’s inventory number, item description, amount, and total sales for each inmate per day. The sales tickets and the sales reports will be turned in to the Penitentiary Communications Center daily for processing and delivery to the Central Trust Accounting Unit. A copy shall be sent to the Activities Manager for record keeping. Money from sales will be turned in to the Penitentiary Communications Center daily and a receipt obtained.
+
+\(F\) The Department will not be responsible for lost, stolen, or damaged articles and/or monies;
+
+\(G\) If an inmate desires to make any changes in the terms of sale or delivery of his merchandise, he will outline the changes on an Interview Request \(CD 214\) signed and witnessed by staff and forward his request to the Activities Manager. All changes will be completed as soon as possible.
+
+\(b\) An inmate clerk may be selected from minimum custody candidates by the Penitentiary Superintendent or his/her designee; the Assistant Superintendent, Security; and the Activities Manager using the following criteria: No drug history, high level of maturity and stability, and parole or release date far enough into the future to allow the clerk to remain in position for a length of time:
+
+\(A\) The inmate clerk is a paid position. Pay will be within the limits established by ORS 421.408. The Activities Manager is the operational supervisor for the Curio Store. The inmate clerk is responsible and accountable to the Activities Manager for all store procedures \(stock, inventory, receipts, complaints, etc.\);
+
+\(B\) The clerk will check daily with the Activities Manager for sales, report, stock, etc. The cash bag and store keys shall be obtained from the Communications Center. Sufficient change should be maintained in the cash bag to ensure the clerk will not have to obtain more during the course of the day;
+
+\(C\) The clerk will pick up/receive hobby shop items as scheduled by the hobby shop supervisor. Absolutely no item will be sent to the Curio Store without being listed on a shipping ticket from the appropriate facility;
+
+\(D\) Stock will be displayed and grouped by type of items and crafts. Each individual inmate’s products should be as closely arranged together as possible for easier accountability;
+
+\(E\) Checks will not be accepted. Advance payments for special orders are not to be accepted;
+
+\(F\) The inmate clerk is not to close the store unless specifically instructed to do so by the Activities Manager and/or Operations Captain/ Lieutenant;
+
+\(G\) Cash receipts will be turned in to the Penitentiary Communications Center daily \(Monday–Friday\) with original of the sales report. The receipt and copy of the sales report will be turned in to the hobby shop supervisor \(Monday–Friday\);
+
+\(H\) All sales are final; no refunds will be given.
+
+\(4\) Special Order:
+
+\(a\) Any persons desiring to order a specially made item shall submit their request to the Curio Store clerk who will deliver the request to the Activities Manager. The request will be recorded and sent to the Operations Captain/Lieutenant for approval and assignment to the appropriate hobby shop supervisor. Department of Corrections employees are not permitted to negotiate with inmates on the pricing for special orders;
+
+\(b\) All special orders will be picked up within thirty days of being placed in the Curio Store. If not picked up in thirty days, special orders must be placed for sale in the Curio Store or mailed out at the inmate’s expense;
+
+\(c\) Recordkeeping is under the supervision of the institution specific Activities Manager or designee. Articles presented for sale shall be tagged and will bear the inmate’s name and institution number, description of the article, and one price for each article. The article will bear the inmate’s name and institution number when displayed in the Curio Store;
+
+\(d\) Sales procedures other than through the Curio Store:
+
+\(A\) Items fabricated in the hobby shop may be disposed of through any agent in the community. All items must leave the Penitentiary through the Oregon State Penitentiary mail room with all postage or delivery charges being paid by the inmate. All items being sent out will be inspected and approved by the hobby shop supervisor who will deliver them to the mail room with a signed Withdrawal Request \(CD 28D\) for postage or delivery charges;
+
+\(B\) Inmates may only send out items which they have personally fabricated;
+
+\(C\) It is the responsibility of the inmate\(s\) to check the firm\(s\) they deal with before entrusting their merchandise to them and to fully understand and agree to the terms proposed by the respective merchants;
+
+\(D\) The Penitentiary or the State of Oregon will in no way be responsible for losses incurred by any inmates in his dealing\(s\) with private vendors. Funds from the sale of hobby shop merchandise which are mailed to the Department of Corrections will be handled the same as all inmate funds.
+
+\[ED. NOTE: Forms referenced are available from the agency.\]
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 421.405, 421.142, 423.020, 423.030 & 423.075 History: CD 17-1994, f. 8-17-94, cert. ef. 9-1-94 CD 12-1991, f. & cert. ef. 5-15-91 291-121-0055 Quarters Handiwork Activity
+
+\(1\) Mill Creek Correctional Facility: No type of hobby activity is permitted in any inmate living unit or area.
+
+\(2\) Oregon State Correctional Institution:
+
+\(a\) No hobby shop handiwork or tools will be allowed in the living units unless approved by the Security Manager;
+
+\(b\) Inmates may buy art supplies from the canteen for use in the cell/bed area \(drawing pencils, pens, colored pencils, erasers, smudge sticks, and drawing paper\).
+
+\(3\) Oregon State Penitentiary: No type of hobby shop activity will be permitted in an inmate’s living unit.
+
+\(4\) Oregon Women’s Correctional Center:
+
+\(a\) All handiwork activity permitted in inmate cells shall be approved by the Recreation Supervisor after consultation with the Security Manager. The Recreation Supervisor shall give written authorization to inmates to do handiwork in their cells by completing the Recreation Property Transaction Form \(CD 252\);
+
+\(b\) The inmate is required to keep the written authorization on her cell bulletin board until the handiwork is completed;
+
+\(c\) Upon completion of the handiwork, the inmate shall return the written authorization and the handiwork to the Recreation Supervisor;
+
+\(d\) The Recreation Supervisor shall complete and file the written authorization;
+
+\(e\) The Recreation Supervisor shall assure the inmate disposes of the handiwork in conformance with requirements.
+
+\[ED. NOTE: Forms referenced are available from the agency.\]
+
+Statutory/Other Authority: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 Statutes/Other Implemented: ORS 179.040, 421.142, 423.030, 423.075 & 423.020 History: CD 12-1991, f. & cert. ef. 5-15-91
+
