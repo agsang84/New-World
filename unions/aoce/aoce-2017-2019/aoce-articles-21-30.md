@@ -18,35 +18,35 @@ B. An additional eight \(8\) hours of vacation leave, on July 1 of each year, sh
 
 C. In addition, in lieu of a paid holiday on the Friday after Thanksgiving, employees on the active payroll as of November 1 of each year shall receive an additional twelve \(12\) hours of vacation hours added to their balance.
 
-Section 2.
+### Section 2
 
 Compensation for use of accrued vacation shall be at the employee's prevailing straight time rate of pay.
 
-Section 3.
+### Section 3
 
 In the event of an employee's death, all monies due him/her for accumulated vacation and salary shall be paid as provided by law.
 
-Section 4.
+### Section 4
 
 Vacation credits shall continue to be earned while an employee is using paid leave.
 
-Section 5.
+### Section 5
 
 If an employee has a break in service and that break does not exceed two \(2\) years, he/she shall be given credit for the time worked prior to the break in service in determining accrual rate.
 
-Section 6.
+### Section 6
 
 Time spent in actual State service or on military leave, educational leave, or job-incurred disability, leave without pay shall be considered as time in the State service in determining length of service for vacation accrual rate.
 
-Section 7.
+### Section 7
 
 Vacation hours may accumulate to a maximum of three hundred fifty \(350\) hours of which only three hundred \(300\) hours are compensable pursuant to Section 11\(A\). Subject to other provisions of this Article, hours earned over three hundred fifty \(350\) hours will be immediately lost to the employee if the equivalent of those hours is not used prior to the month of maximum accrual.
 
-Section 8.
+### Section 8
 
 Employees who work at least thirty-two \(32\) hours per month shall accrue vacation leave on a prorated basis.
 
-Section 9.
+### Section 9
 
 A. Vacation bidding will be conducted on an annual basis. Each facility management team will establish the vacation slots available for the calendar year allowing for required training time for custody employees.
 
@@ -85,17 +85,17 @@ C. To avoid losing vacation, the Employer may schedule the employee who has accr
 
 D. Employees may request vacation days off outside of the annual vacation bid window on a first-come, first-served basis no more than ninety \(90\) days prior to the requested time. Such requests will be responded to no less than seven \(7\) days prior to the requested time. If two \(2\) or more employees, on the same day, request the same period of time and the matter cannot be resolved by agreement of the parties concerned, the employee having the greatest length of State service shall be granted the time; however, this tie breaking seniority may be exercised only once in any calendar year. An employee may not use his/her seniority to bump an employee out of their Section 10 bid vacation under this Section.
 
-Section 11.
+### Section 11
 
 Employees' vacations will start the first \(1st\) day following their regularly scheduled days off when approved by the Agency. Security employee vacation block\(s\) of time will start on Sunday.
 
-Section 12.
+### Section 12
 
 A. Staff will be given a specific time and date based upon DOC seniority in which to take place a vacation bid. The “window” will be thirty \(30\) minutes in length. This list will be posted thirty \(30\) days in advance of the bidding process. If an employee does not bid in their assigned “window” they may bid anytime afterwards during this process for those remaining open slots.
 
 B. If an employee desires to turn in a vacation slot, management will open that vacancy to rebid the vacant slot unless there is a valid cause not to do so. The bid period shall be open for seven \(7\) calendar days. The slot will be awarded based on DOC seniority in the following order: first preference goes to employees who have not previously had the opportunity to exercise their seniority to obtain a vacation slot, then to all employees who request the slot. Employees who chose not to bid will be considered to have had the opportunity to exercise their seniority to obtain a vacation slot. Employees may only exercise their seniority under this section once per vacation bid cycle. If the slot is returned less than thirty \(30\) days prior to the date of the vacation slot, this time will be utilized for single days off subject to first-come, first-served basis.
 
-Section 13.
+### Section 13
 
 In addition to section 10\(c\) of the Agreement, Corrections Officers, Corporals and Sergeants may cash out up to a maximum of one hundred sixty \(160\) hours of accrued vacation annually under the following conditions:
 
@@ -109,23 +109,23 @@ In addition to section 10\(c\) of the Agreement, Corrections Officers, Corporals
 
 ## ARTICLE 22 - SICK LEAVE WITH PAY
 
-Section 1.
+### Section 1
 
 Employees shall accrue eight \(8\) hours of sick leave for each full month worked. Employees working less than a full month, but at least thirty-two \(32\) hours shall accrue sick leave on a pro rata basis.
 
-Section 2.
+### Section 2
 
 Employees who have been separated from the State Service and return as regular status within one \(1\) year shall have unused sick leave credits accrued during previous employment restored.
 
-Section 3.
+### Section 3
 
 Actual time worked and all leave with pay shall be included in determining the pro rata accrual of sick leave credits each month provided that the employee works thirty-two \(32\) hours or more that month. Employees shall be eligible to utilize sick leave immediately upon accrual.
 
-Section 4.
+### Section 4
 
 Employees who have earned sick leave credits shall be eligible for sick leave for any period of absence from employment which is due to the employee's illness, bodily injury, disability resulting from pregnancy, necessity for medical or dental care, exposure to contagious disease, attendance upon members of the employee's immediate family \(employee's parent, wife, husband, domestic partner, children, brother, sister, granddaughter, grandson, grandmother, grandfather, son-in-law, daughter-in-law, or another member of the immediate household\) where the employee's presence is required because of illness or death in the immediate family of the employee or the employee's spouse or domestic partner. The Employer has the duty to require that the employee make other arrangements within a reasonable period of time for the attendance upon children or other persons in the employee's care. Certification of an attending physician or practitioner may be required by the Agency to support the employee's claim for sick leave, if the employee is absent in excess of five \(5\) calendar work days or if the Agency has evidence that the employee is abusing sick leave privileges. The Employer may also request such certificate from an employee to determine whether the employee should be allowed to return to work where the Agency has reason to believe that the employee's return to work would be a health hazard to either the employee or to others. Any cost associated with the supplying of a certificate concerning a job-incurred injury or illness that is not covered by Workers' Compensation benefits shall be borne by the Employer.
 
-Section 5.
+### Section 5
 
 Salary paid for a period of sick leave resulting from a condition incurred on the job and also covered by Workers' Compensation, shall be equal to the difference between the Workers' Compensation for lost time and the employee's regular salary rate. Therefore, prorated charges will be made against accrued sick leave. Should an employee who has exhausted earned sick leave elect to use vacation leave or compensatory time during a period in which Workers' Compensation is being received, the salary paid for such period shall be equal to the difference between the Workers' Compensation for lost time and the employee's regular salary rate. In such instances, prorated charges will be made against accrued vacation leave.
 
@@ -141,21 +141,21 @@ b. The claim must be for a period of less than fourteen \(14\) days.
 
 c. The employee’s attending physician certifies that the employee can not work.
 
-Section 6.
+### Section 6
 
 A. If an employee's sick leave accrual should become exhausted, the employee may, before using any accrued vacation or compensatory time off, request to use such leave provided the employee submits a leave slip and has a discussion with their supervisor. The request shall not be denied without valid cause or the employee is on a current written notice for attendance problems.
 
 B. Employees on authorized FMLA/OFLA leave may elect to use leave without pay if they are covered by short- or long-term disability insurance. Employees not electing to use short- or long-term disability insurance or employees without that coverage shall use accrued paid leave \(sick leave, vacation leave, compensatory time off\) until such accrued paid time is exhausted. Employees may elect to leave up to sixty \(60\) total hours in their sick leave and/or vacation account for use following their return to work. However, employees may not reserve accrued paid leave when on intermittent or reduced schedule leave. An employee may be approved to leave up to eighty \(80\) hours of vacation leave to cover pre-approved vacation. Upon exhausting all accrued paid leave, or leave down to sixty \(60\) hours, the employee will be placed on leave without pay until FMLA/OFLA ends. Employees will notify the Agency which paid leave will be used. Employees will be able to choose which specific accrued paid leave to use in a consecutive block of time and, once selected, the employee must exhaust that particular accrued paid leave amount before being able to use any other accrued paid leave. A “consecutive block of time” shall be either all paid leave in that account \(sick, vacation, or comp time off\) or the designation of a specified number of hours, up to sixty \(60\) hours. If the employee does not inform the Agency within seven \(7\) days of which type of accrued paid leave he/she wishes to use, the Agency shall designate the employee to use accrued sick leave consistent with state and federal law until that accrued paid leave is exhausted. Thereafter, the employee may select which accrued paid leave to use, if any. If the employee does not have accrued sick leave available, then the Agency shall be authorized to designate the use of the employee’s accrued vacation hours until these hours are exhausted.
 
-Section 7.
+### Section 7
 
 Employees who have to miss work due to a death of a member of their immediate family, or their spouse's or domestic partner’s immediate family as defined in section 4 of this Article and which includes aunt, uncle, nephew and niece, shall be entitled to forty \(40\) hours per calendar year for funeral leave, without loss of pay or benefits. Thereafter, the employee's funeral leave time shall be deducted from the employee's accumulated sick time. Bereavement leave under this section shall run concurrently with OFLA when applicable. The Agency shall notify the employee when OFLA is running concurrently with bereavement leave.
 
-Section 8.
+### Section 8
 
 Parental and family leave will be as provided by law. In any event, the employee may utilize all accumulated sick time for such leave, to the extent allowed by Court decision or statutes.
 
-Section 9. Hardship Leave.
+### Section 9 - Hardship Leave
 
 The Agency will allow employees to make irrevocable donations of accumulated vacation leave to a co-worker who has exhausted accumulated leave while recuperating from an extended or qualified intermittent illness or injury or while attending a family member suffering from an illness or injury.
 
