@@ -24,7 +24,7 @@ If the grievance is not resolved at Step 2, the Union may request review of the 
 
 ### Step 4
 
-If the grievance is not resolved by the Agency, the Union shall notify the Labor Relations Unit of the Department of Administrative Services in writing within fifteen \(15\) calendar days of receipt of the designated appointing authority’s response that such response is not acceptable. For purposes of this Article, an appeal in writing can be delivered by first class registered or certified mail, postage prepaid, by fax or by electronic mail to the Labor Relations Unit email address \(LRU@oregon.gov\). A meeting will be held between the Parties to mutually share information about the grievance. The Parties shall discuss their respective positions known at the time and may discuss options for resolution.
+If the grievance is not resolved by the Agency, the Union shall notify the Labor Relations Unit of the Department of Administrative Services in writing within fifteen \(15\) calendar days of receipt of the designated appointing authority’s response that such response is not acceptable. For purposes of this Article, an appeal in writing can be delivered by first class registered or certified mail, postage prepaid, by fax or by electronic mail to the Labor Relations Unit email address \([LRU@oregon.gov](mailto:LRU@oregon.gov)\). A meeting will be held between the Parties to mutually share information about the grievance. The Parties shall discuss their respective positions known at the time and may discuss options for resolution.
 
 The Labor Relations Unit shall respond in writing to the grievance within fifteen \(15\) calendar days of receipt of the grievance.
 
