@@ -10,7 +10,7 @@ description: 20.1.2
 | **Supersedes:** | 7/15/98 |
 | **Applicability:** | All permanent and temporary employees |
 | **Directives Cross-Reference:** | Volunteers/Student Interns – 90.2.6 |
-| **Attachments:** | - [**Code of Ethics \(CD 1382**](cd-1382.md)**\)** |
+| **Attachments:** | - [**Code of Ethics \(CD 1382\)**](cd-1382.md) |
 |  | - [**Contractor Statement of Conduct and Ethics**](contractor.md) |
 
 ## **I. PURPOSE**
