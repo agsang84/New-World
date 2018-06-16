@@ -176,7 +176,7 @@ C. If the Agency is not able to find a volunteer to work an overtime assignment,
 
 ## ARTICLE 13 - DIFFERENTIALS
 
-Section 1. Shift Differentials.
+### Section 1 - Shift Differentials
 
 Shift differential shall apply to all bargaining unit members, except part-time employees working less than thirty-two \(32\) hours per month.
 
@@ -188,7 +188,7 @@ RNs, Nurse Practitioners and Health Services Technicians will receive a shift di
 
 RNs and LPNs shall be paid a weekend differential for all hours worked on a Saturday and Sunday. RNs and LPNs shall be eligible for the differential for hours worked beginning 12:01 a.m. Saturday through 11:59 p.m. Sunday night. This differential shall be one dollar and sixty cents \($1.60\) per hour.
 
-Section 2. Bilingual Differential.
+### Section 2 - Bilingual Differential
 
 A. When formally assigned in writing, an employee assigned to interpret to or from another language to English will receive a differential of five percent \(5%\) over the base rate per month. Employees will be required to pass an Agency standardized test at seventy-five percent \(75%\) to become or remain eligible for this differential. Employees will not lose bilingual pay until the Agency has implemented and offered the standardized test and fail the examination or meet conditions under subsection \(c\).
 
@@ -196,7 +196,7 @@ B. The Agency shall pay for the cost for the employee taking the initial test. I
 
 C. Bilingual assignments will be reviewed at each Institution’s shift bid to determine the Institution’s need for each shift. Employees can file a memorandum of interest for an assignment on a specific shift and the Institution shall select the employee able to meet the Institution’s needs.
 
-Section 3. DPSST, TERT/CNT and FTO Differentials.
+### Section 3 - DPSST, TERT/CNT and FTO Differentials
 
 A. Security employees who obtain an intermediate certificate from DPSST shall have a premium of three percent \(3%\) per month in addition to their base wages.
 
@@ -216,41 +216,43 @@ Section 4. Institution Staff Deployment \(ISD\).
 
 Security staff who bid or were assigned to variable relief slots shall receive a six percent \(6%\) premium differential. Corrections professionals staff may be considered for and assigned to receive an ISD differential where multi-shift/seven \(7\)-day coverage is required. In such cases, corrections professionals staff assigned are subject to changes in their regularly scheduled shift and/or days off. Employees receiving this differential shall not be eligible for penalty pay provisions.
 
-Section 5. Housing Allowance for Chaplains.
+### Section 5 - Housing Allowance for Chaplains
 
 Provided the employee meets all of the IRS regulations, thirty-five percent \(35%\) of the monthly salary of all Chaplains in the full-time employment of the Department shall be designated as housing allowance. Each Chaplain shall report annually to the appointing authority the exact amount being claimed under Section 107 of the Internal Revenue Code of 1954 as housing allowance.
 
-Section 6. DOC Corrections Professionals Employees.
+### Section 6 - DOC Corrections Professionals Employees
 
-Security Differential. Security differential points will be awarded to eligible employees. Eligible employees are those employees assigned to Department of Corrections corrections professionals classifications who perform various levels of security and/or custody duties. Each point is worth thirteen dollars and twenty-five cents \($13.25\).
+#### Security Differential:
+
+Security differential points will be awarded to eligible employees. Eligible employees are those employees assigned to Department of Corrections corrections professionals classifications who perform various levels of security and/or custody duties. Each point is worth thirteen dollars and twenty-five cents \($13.25\).
 
 A. Annually, as part of the performance review, supervisors and eligible employees shall review the position description and differential assessment form \(attached as Appendix B\). The review will ensure that the duties of the position are eligible for the differential and the appropriate number of points have been awarded. The position description and assessment form will be signed and forwarded to the assigned department human resource manager who will verify the duties and points. The human resources manager will send the documents to Personnel Records. A copy of the differential assessment form will be placed in the employee’s file.
 
 B. Security differential points shall be reviewed at the employee’s request. The employee shall request the employee’s current position description and assessment form and then review it with the employee’s immediate supervisor. The employee shall receive an official position description and assessment form signed by the supervisor noting agreement or disagreement within fourteen \(14\) calendar days of submission to the supervisor, or the employee can proceed to the next step without the position description or assessment form. The employee will submit the official, signed position description and assessment form or an unsigned version if the supervisor did not sign it, and a written explanation for the basis of the points change request to the Human Resources Office within thirty \(30\) days of having given the position description and assessment form to the employee’s supervisor.
 
-If the employee disagrees with the Human Resources Office response, the employee may take the matter up as a grievance under Article 44.
+If the employee disagrees with the Human Resources Office response, the employee may take the matter up as a grievance under **Article 44**.
 
 C. Employees occupying positions classified as Office Specialist 1 and Office Specialist 2 at the Oregon State Penitentiary working in the mailroom shall be eligible for security differential points consistent with other similarly situated agency employees.
 
-Section 7. Institution Registered Nurses.
+### Section 7 - Institution Registered Nurses
 
 BSN Differential. Any Institution Registered Nurse who possesses a Baccalaureate Degree in Nursing shall be eligible to receive an additional four and seventy-five one hundredths percent \(4.75%\) of his/her salary rate. To receive the differential the nurse shall submit appropriate verification of this degree to the Institution’s Human Resource Manager. The nurse may begin receiving the differential the first of the month following confirmation by the HRM.
 
 MSN Differential. Any Institution Registered Nurse who possesses a Master’s Degree in Nursing shall be eligible receive an additional nine and five-tenths percent \(9.5%\) of his/her salary rate. Individuals eligible for this differential shall not also receive a BSN differential. To receive the differential the nurse shall submit appropriate verification of this degree to the Institution’s Human Resource Manager. The nurse may begin receiving the differential the first of the month following confirmation by the HRM.
 
-Section 8. Physical Plant Differential.
+### Section 8 - Physical Plant Differential
 
 Employees in the classification of Facility Energy Technician 2 \(4033\) or Facility Maintenance Specialist \(4012\) shall be paid a differential of five percent \(5%\) above their base rate of pay when duties are assigned in writing which require a Limited Maintenance Electrician license.
 
-Section 9. Safety Committee Differential.
+### Section 9 - Safety Committee Differential
 
 As a result of Safety Managers positions being eliminated in the Agency and the reassignment of safety duties, effective on the first \(1st\) of the month following the effective date of the Agreement, the Chair, Vice Chair and Secretary of an Institution Safety Committee assigned to the Safety Committee shall receive a two and one half percent \(2.5%\) above their straight time rate of pay.
 
-Section 10. Commercial Drivers License \(CDL\) Differential \(OSP Only\)
+### Section 10 - Commercial Drivers License \(CDL\) Differential \(OSP Only\)
 
 Security staff who possess a CDL and where the Agency assigns those security staff to use their CDL to perform assigned duties on behalf of the Agency will earn a five percent \(5%\) monthly differential above his/her base pay rate. OSP may review its operational needs for staff every six \(6\) months.
 
-Section 11. RN Leadwork Differential \(OSP Only\).
+### Section 11 - RN Leadwork Differential \(OSP Only\).
 
 An RN will be assigned by the Institution to serve as a leadworker every shift who shall receive leadwork differential pursuant to Article 17 \(Leadwork Differential\) of this Agreement. In the absence of a leadworker, a supervisor shall perform the leadworker duties,
 
@@ -258,7 +260,7 @@ An RN will be assigned by the Institution to serve as a leadworker every shift w
 
 ## ARTICLE 14 - CALL BACK AND REPORTING PAY
 
-Section 1. Call Back.
+### Section 1 - Call Back
 
 A. An employee who is called back to work outside his/her regular shift will receive overtime compensation in accordance with the overtime Article in this Agreement for hours actually worked, but in no event will the employee be paid less than two and sixty-seven one-hundredths \(2.67\) hours at the overtime rate of pay.
 
@@ -266,19 +268,19 @@ B. This provision will not apply when call back results from employee oversight,
 
 C. If previously unscheduled involuntary call back will cause an employee a personal hardship, such as difficulty in finding child care, the employee shall be afforded a reasonable amount of time to report to duty.
 
-Section 2. Reporting Pay.
+### Section 2 - Reporting Pay
 
 An employee who is scheduled for work and reports to work and there is not work available for the employee, may be excused from duty, but shall be paid at his/her regular rate for the shift of work scheduled.
 
 ## ARTICLE 15 - ON-CALL/STANDBY
 
-Section 1. On-Call.
+### Section 1 - On-Call
 
 Employees shall be paid one \(1\) hour of pay at the regular straight time rate for each six \(6\) hours of assigned to be on-call. Employees who are assigned to be on-call for less than six \(6\) hours shall be paid on a prorated basis.
 
 An employee shall be on-call when required to be available for work outside his/her normal working hours and not subject to restrictions which would prevent the employee from using the time while on-call effectively for the employee’s own purposes.
 
-Section 2. Standby.
+### Section 2 - Standby
 
 A. An employee shall be on standby duty when required to be available for work outside his/her normal working hours, and subject to restrictions consistent with the Fair Labor Standards Act which would prevent the employee from using the time while on standby duty effectively for the employee’s own purposes.
 
@@ -291,33 +293,33 @@ C. Corrections Professionals Employees shall be paid one \(1\) hour of pay at se
 
 D. Correctional Officer Series employees on forest fire assignment who are off duty shall be considered on standby unless the Employer notified the employee otherwise.
 
-Section 3.
+### Section 3
 
 An employee shall not be on-call or standby time once he/she actually commences performing assigned duties and receives the appropriate rate of pay for time worked.
 
-Section 4.
+### Section 4
 
 No employee is eligible for any premium pay compensation while on standby duty, except as expressly stated in this Article.
 
-Section 5.
+### Section 5
 
 Standby duty time shall be counted as time worked if so required by the Fair Labor Standards Act.
 
 ## ARTICLE 16 -WORK OUT OF CLASSIFICATION
 
-Section 1.
+### Section 1
 
 Except for employees assigned as variable relief pursuant to Article 13, Section 4, when an employee is assigned for a limited period to perform the duties of a position at a higher level classification for five \(5\) consecutive work days or more, or forty \(40\) consecutive regular hours or more, the employee shall be compensated for all hours worked beginning from the first day of the assignment for the full period of the assignment at a rate which is not less than the equivalent of a one \(1\) step increase, or the bottom step of the higher range when no salary overlap exists between ranges. An employee who is assigned work out of class and subsequently is assigned variable relief will be eligible for both work out of classification and ISD differentials.
 
-Section 2.
+### Section 2
 
 An employee performing duties out of classification for training or developmental purposes shall be informed in writing of the purpose and length of the assignment during which there shall be no extra pay for the work. A copy of the notice shall be placed in the employee's file.
 
-Section 3.
+### Section 3
 
 An employee who is underfilling a position shall be informed in writing that he/she is an underfill, the reasons for the underfill, and the requirements necessary for the employee to qualify for reclassification to the allocated level. Upon gaining regular status and meeting the requirements for the allocated level of the position, the employee shall be reclassified.
 
-Section 4.
+### Section 4
 
 A. Assignments of work out of classification shall not be made in a manner which will subvert or circumvent the administration of this Article.
 
@@ -329,29 +331,29 @@ D. An employee who applies for a promotion within the same classification in whi
 
 E. Upon request, an employee who is not selected for a promotion for which he/she applied, may meet with the designated Agency management representative involved in the selection process to obtain feedback on his/her not being selected.
 
-Section 5.
+### Section 5
 
 For Corrections Professionals, work out of classification pay pending reclassification refer to Article 38 \(Reclassification\) of this Agreement.
 
 ## ARTICLE 17 - LEAD WORK DIFFERENTIAL
 
-Section 1.
+### Section 1
 
 Lead work differential shall be defined as a differential for employees who have been formally assigned by their supervisor, in writing, "lead work" duties over three \(3\) or more employees in their classification or salary range for ten \(10\) consecutive calendar days or more or eighty \(80\) consecutive regular hours or more. Lead work is where, on a recurring daily basis, while performing essentially the same duties as the workers led, the employee has been directed to perform substantially all of the following functions: to orient new employees, if appropriate; assign and reassign tasks to accomplish prescribed work efficiently; give direction to workers concerning work procedures; transmit established standards of performance to workers; review work of employees for conformance to standards; and provide informal assessment of workers' performance to the supervisor. All lead work assignments exceeding one \(1\) calendar work day shall be in writing delivered to the affected employee at the time the assignment is made.
 
-Section 2.
+### Section 2
 
 The differential shall be five percent \(5%\) beginning from the first day the duties were formally assigned in writing for the full period of the assignment.
 
-Section 3.
+### Section 3
 
 Lead work differential shall not be computed at the rate of time and one-half \(1-1/2\) for the time worked in an overtime or holiday work situation, or to effect a "pyramiding" of work out of classification payment.
 
-Section 4.
+### Section 4
 
 Lead work differential shall not apply for voluntary training and development purposes which are mutually agreed to in writing between the supervisor and the employee.
 
-Section 5.
+### Section 5
 
 If an employee believes that he/she is performing the duties that meet the criteria in Section 1 of a lead worker but the duties have not been formally assigned in writing, the employee may notify the Functional Unit Manager in writing. The Agency will review the duties within fifteen \(15\) calendar days of the notification. If the Agency determines that lead work duties were in fact assigned and are appropriate, the lead work differential will be effective beginning with the day the employee notified the Agency Head of the issue.
 
@@ -365,23 +367,23 @@ All bargaining unit employees will be reimbursed for per diem and mileage as set
 
 ## ARTICLE 19 - INSURANCE
 
-Section 1.
+### Section 1
 
 An Employer contribution will be made for each eligible employee who has at least eighty \(80\) paid regular hours in the month or as required by law.
 
 The contribution for eligible participating part-time employees with eighty \(80\) or more hours paid time for the month the Employer shall contribute a prorated amount of the contribution for full-time employees unless otherwise required by law. This prorated contribution shall be prorated based on the ratio of paid regular hours to full-time hours to the nearest full percent.
 
-Section 2. Plan Years 2018 and 2019.
+### Section 2 - Plan Years 2018 and 2019
 
 A. For Plan Years 2018 and 2019 the Employer will pay ninety-five percent \(95%\) and the employee will pay five percent \(5%\) of the monthly premium rate for PEBB health, vision, dental and basic insurance benefits.
 
 B. For employees who enroll in medical plan that is at least ten percent \(10%\) lower in cost than the monthly premium rate for the highest cost plan available to the majority of employees, the Employer shall pay ninety-nine percent \(99%\) of the monthly premium for PEBB health, vision, dental and basic life insurance benefits and the employee shall pay one percent \(1%\).
 
-Section 3. Liability in Civil Suits.
+### Section 3 - Liability in Civil Suits
 
 The Employer agrees that any employee who has any civil action suit or proceeding brought against that employee for causes resulting from acting in the employee’s official capacity, duties or employment in good faith and without malice, shall be given legal defense by the State of Oregon. The Employer further agrees to provide written procedures which will outline the proper methods for requesting this legal defense.
 
-Section 4. Reimbursement for Expenses in Criminal Cases.
+### Section 4 - Reimbursement for Expenses in Criminal Cases
 
 If an employee faces criminal charges arising out of the course and scope of his employment and the employee is acquitted of those charges, the employer shall reimburse the employee for all reasonable expenses connected with the defense of the employee's lawsuit. This Section shall not apply if the employee is terminated for such conduct and the termination is ultimately upheld through the grievance arbitration process.
 
@@ -389,45 +391,36 @@ If an employee faces criminal charges arising out of the course and scope of his
 
 ## ARTICLE 20 - HOLIDAYS
 
-Section 1.
+### Section 1
 
 The following holidays will be recognized and paid for at the regular straight time rate of pay:
 
-A. New Year's Day on January 1;
-
-B. Martin Luther King, Jr.'s Birthday on the third Monday in January;
-
-C. President's Birthday on the third Monday in February;
-
-D. Memorial Day on the last Monday in May;
-
-E. Independence Day on July 4;
-
-F. Labor Day on the first Monday in September;
-
-G. Veterans' Day on November 11;
-
-H. Thanksgiving Day on the fourth Thursday in November;
-
-I. Christmas Day on December 25;
-
+A. New Year's Day on January 1;  
+B. Martin Luther King, Jr.'s Birthday on the third Monday in January;  
+C. President's Birthday on the third Monday in February;  
+D. Memorial Day on the last Monday in May;  
+E. Independence Day on July 4;  
+F. Labor Day on the first Monday in September;  
+G. Veterans' Day on November 11;  
+H. Thanksgiving Day on the fourth Thursday in November;  
+I. Christmas Day on December 25;  
 J. Every day appointed by the Governor of the State of Oregon as a holiday and every day appointed by the President of the United States as a day of mourning, rejoicing, or other special observance only when the Governor also appoints that day as a holiday.
 
-Section 2.
+### Section 2
 
 For all employees who work in positions that are staffed five \(5\) days a week, Monday through Friday, when a holiday falls on Saturday, the previous Friday shall be recognized as the holiday. When a holiday falls on Sunday, the following Monday shall be recognized as the holiday.
 
 For all employees who work in positions that are staffed seven \(7\) days a week, the recognized holiday will be the actual day specified in Section 1 above.
 
-Section 3.
+### Section 3
 
 Employees who are required to work on days recognized as holidays which fall within their regular work schedules shall be entitled, in addition to their regular salary, to compensatory time off for the time worked or to be paid in cash for time worked at the discretion of the Employer. Compensatory time off or cash paid for all time worked shall be at the rate of time and one-half \(1-1/2\). The additional compensation which an employee shall be paid for working on a holiday shall not exceed the rate of time and one-half \(1-1/2\) of his/her straight time pay. Any compensatory time earned may be converted to cash payment by the Employer. Holiday benefits shall be prorated for part-time employees.
 
-Section 4.
+### Section 4
 
 Where an employee has been approved to work an alternate work schedule such as a four \(4\) day, ten \(10\) hour workweek, management shall either revert the schedule to a five \(5\) day, eight \(8\) hour workweek or allow the employee to utilize other available paid leave for the balance of the holiday off.
 
-Section 5.
+### Section 5
 
 Holidays which occur during vacation or sick leave shall not be charged against such leave.
 

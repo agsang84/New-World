@@ -2,7 +2,7 @@
 
 ## ARTICLE 21 - VACATION LEAVE
 
-Section 1.
+### Section 1
 
 A. After having served in the State service for six \(6\) full calendar months, full-time employees shall be credited with six \(6\) days of vacation leave, and thereafter, vacation leave shall be accumulated as follows:
 
