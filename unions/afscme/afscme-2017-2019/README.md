@@ -5,7 +5,7 @@ description: Contract - TABLE OF CONTENTS
 # AFSCME 2017-2019
 
 | [**ARTICLE 1 - SCOPE OF AGREEMENT** ](afscme-articles-1-10.md#article-1-scope-of-agreement) | [**ARTICLE 2 - TERM OF AGREEMENT** ](afscme-articles-1-10.md#article-2-term-of-agreement) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [**ARTICLE 3 - UNION SECURITY**](afscme-articles-1-10.md#article-3-union-security) | [**ARTICLE 4 - UNION/MANAGEMENT MEETINGS** ](afscme-articles-1-10.md#article-4-union-management-meetings) |
 | [**ARTICLE 5 - LEGISLATIVE ACTION** ](afscme-articles-1-10.md#article-5-legislative-action) | [**ARTICLE 6 - EFFECT OF LAWS AND RULES** ](afscme-articles-1-10.md#article-6-effect-of-laws-and-rules) |
 | [**ARTICLE 7 - SEPARABILITY OF PROVISIONS** ](afscme-articles-1-10.md#article-7-separability-of-provisions) | [**ARTICLE 9 - EQUAL OPPORTUNITY** ](afscme-articles-1-10.md#article-9-equal-opportunity) |
@@ -31,8 +31,9 @@ description: Contract - TABLE OF CONTENTS
 | - [_**CCCF**_](afscme-article-31-40/32-cccf.md) | - [_**CRCI**_](afscme-article-31-40/32-crci.md) |
 | - [_**DRCI**_](afscme-article-31-40/32-drci.md) | - [_**EOCI**_](afscme-article-31-40/32-eoci.md) |
 | - [_**PRCF**_](afscme-article-31-40/32-prcf.md) | - [_**SCCI**_](afscme-article-31-40/32-scci.md) |
-| - [_**SCI**_](afscme-article-31-40/32-sci.md) | - [_**Transport**_](afscme-article-31-40/32-transport.md) |
-| - [_**TRCI**_](afscme-article-31-40/32-trci.md) | - [_**WCCF**_](afscme-article-31-40/32-wccf.md) |
+| - [_**SCI**_](afscme-article-31-40/32-sci.md) | - [_**SRCI**_](afscme-article-31-40/32-srci.md) |
+| - [_**Transport**_](afscme-article-31-40/32-transport.md) | - [_**TRCI**_](afscme-article-31-40/32-trci.md) |
+| - [_**WCCF**_](afscme-article-31-40/32-wccf.md) |  |
 | [**ARTICLE 33 - SICK LEAVE WITH PAY**](afscme-article-31-40/#article-33-sick-leave-with-pay) | [**ARTICLE 34 - SICK LEAVE WITHOUT PAY** ](afscme-article-31-40/#article-34-sick-leave-without-pay) |
 | [**ARTICLE 35 - FAMILY LEAVE** ](afscme-article-31-40/#article-35-family-leave) | [**ARTICLE 36 - LEAVES WITH PAY** ](afscme-article-31-40/#article-36-leaves-with-pay) |
 | [**ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY** ](afscme-article-31-40/#article-37-leave-of-absence-without-pay) | [**ARTICLE 38 - PRE-RETIREMENT COUNSELING LEAVE**](afscme-article-31-40/#article-38-pre-retirement-counseling-leave) |
