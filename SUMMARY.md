@@ -47,6 +47,7 @@
       * [AOCE Articles 31 - 40](unions/aoce/aoce-2017-2019/aoce-articles-31-40.md)
       * [AOCE Articles 41 - 44](unions/aoce/aoce-2017-2019/aoce-articles-41-44.md)
       * [Appendixes](unions/aoce/aoce-2017-2019/appendixes.md)
+      * [Letters of Agreements](unions/aoce/aoce-2017-2019/letters-of-agreements.md)
     * [AOCE Forms](unions/aoce/aoce-forms.md)
   * [Labor Laws / Information](unions/labor-laws-information/README.md)
     * [Rights of Employees to be Represented](unions/labor-laws-information/rights-of-employees-to-be-represented.md)

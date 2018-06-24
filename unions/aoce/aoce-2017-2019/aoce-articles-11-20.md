@@ -123,7 +123,7 @@ a. The overtime opportunity will first be offered to those in the same classific
 
 b. Correctional Officer overtime will first be offered to Correctional Officers. If no Officer volunteers then the overtime opportunity will be offered to Corporals. If no Corporals volunteer then the overtime opportunity will be offered to Sergeants. Corporal overtime will first be offered to Corporals, then to Officers and if no volunteers, then the overtime opportunity will be offered to Sergeants. Sergeant overtime will first be offered to Sergeants then to Corporals and if there are still no volunteers then to Officers.
 
-B. If there are overtime opportunities for nurses, they will be offered first to staff nurses who are on the voluntary overtime list for that week, before those opportunities are offered to other DOC unrepresented nurses or contract nurses.
+#### B. If there are overtime opportunities for nurses, they will be offered first to staff nurses who are on the voluntary overtime list for that week, before those opportunities are offered to other DOC unrepresented nurses or contract nurses. {#aoce-12-6b}
 
 C. Corrections Professionals Bid Positions Voluntary Overtime Procedures.
 
