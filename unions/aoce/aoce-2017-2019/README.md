@@ -45,26 +45,26 @@
 | [**ARTICLE 42 – DRUG TESTING**](aoce-articles-41-44.md#article-42-drug-testing) |
 | [**ARTICLE 43 - DISCIPLINE AND DISCHARGE**](aoce-articles-41-44.md#article-43-discipline-and-discharge) |
 | [**ARTICLE 44 - GRIEVANCE AND ARBITRATION**](aoce-articles-41-44.md#article-44-grievance-and-arbitration) |
-| **APPENDIX A - CLASSIFICATIONS WITH SALARY RANGES** |
-| **APPENDIX C – CORRECTIONS PROFESSIONALS SALARY SCHEDULES** |
-| **APPENDIX D - CUSTODY SALARY SCHEDULES** |
-| **APPENDIX E – REITREE MEDICAL TRUST** |
-| **LETTER OF AGREEMENT \#1 - OSCI** |
-| **LETTER OF AGREEMENT \#2 - SMH/DSU** |
-| **LETTER OF AGREEMENT \#3 – ARMED POST QUALIFICATIONS** |
-| **LETTER OF AGREEMENT \#4 - PART TIME MEDICAL PREMIUM SUBSIDY** |
-| **LETTER OF AGREEMENT \#5 - TRANSPORT OF INMATES** |
-| **LETTER OF AGREEMENT \#6 - USE OF CONTRACTED NURSES AT THE OREGON STATE PENITENTIARY** |
-| **LETTER OF AGREEMENT \#7 - PULL/FIXED POSTS/OSCI** |
-| **LETTER OF AGREEMENT \#8 - 2011 FIRE ASSIGNMENT** |
-| **LETTER OF AGREEMENT \# 9 SPECIAL HOUSING EVALUATION COMMITTEE OREGON STATE PENITENTIARY** |
-| **LETTER OF AGREEMENT \#10 - BHS SHIFT BIDDING** |
-| **LETTER OF AGREEMENT \#11 – PHARMACY TECHNICIAN WORK OUT OF CLASS PAYMENT** |
-| **LETTER OF AGREEMENT \#12 – ARMED ESCORT IN THE COMMUNITY TRAINING OSCI/OSP** |
-| **LETTER OF AGREEMENT \#13 – CORRECTIONAL COUNSELORS CLASSIFICATION STUDY** |
-| **LETTER OF AGREEMENT \#14 – PERSONAL DAY** |
-| **Memorandum of Understanding \(MOU\) \#1  For Oregon State Correctional Institution \(OSCI\) Re: Special Housing Units** |
-| **Memorandum of Understanding \(MOU\) \#2 Between Association of Oregon Corrections Employees \(AOCE\) & the Department of Corrections \(DOC\) Re: OSCI Overtime** |
-| **Memorandum of Understanding \#3 Clarification of Eight Hour Work Schedule Oregon State Correctional Institution** |
-| **SIGNATURE PAGE** |
+| [**APPENDIX A - CLASSIFICATIONS WITH SALARY RANGES**](appendixes.md#appendix-a-classifications-with-salary-ranges) |
+| [**APPENDIX C – CORRECTIONS PROFESSIONALS SALARY SCHEDULES**](appendixes.md#appendix-c-corrections-professionals-salary-schedules) |
+| [**APPENDIX D - CUSTODY SALARY SCHEDULES**](appendixes.md#appendix-d-custody-salary-schedules) |
+| [**APPENDIX E – RETIREE MEDICAL TRUST**](appendixes.md#appendix-e-retiree-medical-trust) |
+| [**LETTER OF AGREEMENT \#1 - OSCI**](letters-of-agreements.md#letter-of-agreement-1-osci) |
+| [**LETTER OF AGREEMENT \#2 - SMH/DSU**](letters-of-agreements.md#letter-of-agreement-2-smh-dsu) |
+| [**LETTER OF AGREEMENT \#3 – ARMED POST QUALIFICATIONS**](letters-of-agreements.md#letter-of-agreement-3-armed-post-qualifications) |
+| [**LETTER OF AGREEMENT \#4 - PART TIME MEDICAL PREMIUM SUBSIDY**](letters-of-agreements.md#letter-of-agreement-4-part-time-medical-premium-subsidy) |
+| [**LETTER OF AGREEMENT \#5 - TRANSPORT OF INMATES**](letters-of-agreements.md#letter-of-agreement-5-transport-of-inmates) |
+| [**LETTER OF AGREEMENT \#6 - USE OF CONTRACTED NURSES AT THE OREGON STATE PENITENTIARY**](letters-of-agreements.md#letter-of-agreement-6-use-of-contracted-nurses-at-the-oregon-state-penitentiary) |
+| [**LETTER OF AGREEMENT \#7 - PULL/FIXED POSTS/OSCI**](letters-of-agreements.md#letter-of-agreement-7-pull-fixed-posts-osci) |
+| [**LETTER OF AGREEMENT \#8 - 2011 FIRE ASSIGNMENT**](letters-of-agreements.md#letter-of-agreement-8-2011-fire-assignment) |
+| [**LETTER OF AGREEMENT \# 9 SPECIAL HOUSING EVALUATION COMMITTEE OREGON STATE PENITENTIARY**](letters-of-agreements.md#letter-of-agreement-9-special-housing-evaluation-committee-oregon-state-penitentiary) |
+| [**LETTER OF AGREEMENT \#10 - BHS SHIFT BIDDING**](letters-of-agreements.md#letter-of-agreement-10-bhs-shift-bidding) |
+| [**LETTER OF AGREEMENT \#11 – PHARMACY TECHNICIAN WORK OUT OF CLASS PAYMENT**](letters-of-agreements.md#letter-of-agreement-11-pharmacy-technician-work-out-of-class-payment) |
+| [**LETTER OF AGREEMENT \#12 – ARMED ESCORT IN THE COMMUNITY TRAINING OSCI/OSP**](letters-of-agreements.md#letter-of-agreement-12-armed-escort-in-the-community-training-osci-osp) |
+| [**LETTER OF AGREEMENT \#13 – CORRECTIONAL COUNSELORS CLASSIFICATION STUDY**](letters-of-agreements.md#letter-of-agreement-13-correctional-counselors-classification-study) |
+| [**LETTER OF AGREEMENT \#14 – PERSONAL DAY**](letters-of-agreements.md#letter-of-agreement-14-personal-day) |
+| [**Memorandum of Understanding \(MOU\) \#1  For Oregon State Correctional Institution \(OSCI\) Re: Special Housing Units**](memorandums-of-understanding-mou.md#memorandum-of-understanding-1-for-oregon-state-correctional-institution-osci) |
+| [**Memorandum of Understanding \(MOU\) \#2 Between Association of Oregon Corrections Employees \(AOCE\) & the Department of Corrections \(DOC\) Re: OSCI Overtime**](memorandums-of-understanding-mou.md#memorandum-of-understanding-2-between-aoce-and-the-odoc-regarding-osci-overtime) |
+| [**Memorandum of Understanding \#3 Clarification of Eight Hour Work Schedule Oregon State Correctional Institution**](memorandums-of-understanding-mou.md#memorandum-of-understanding-3-clarification-of-eight-hour-work-schedule-oregon-state-correctional-institution) |
+| [**SIGNATURE PAGE**](aoce-signature-page.md) |
 

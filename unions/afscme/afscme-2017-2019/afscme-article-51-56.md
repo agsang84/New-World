@@ -8,7 +8,7 @@ Grievances are defined as acts, omissions, applications or interpretations alleg
 
 ### Section 2
 
-Dismissal appeals are subject to the grievance and arbitration procedure pursuant to the expedited procedures described in [**Article 50, Discipline and Discharge**](afscme-article-51-56.md). All other disciplinary actions and refusal/withholding of merit step increases shall follow the steps outlined in this article.
+Dismissal appeals are subject to the grievance and arbitration procedure pursuant to the expedited procedures described in [**Article 50, Discipline and Discharge**](afscme-article-41-50.md#article-50-discipline-and-discharge). All other disciplinary actions and refusal/withholding of merit step increases shall follow the steps outlined in this article.
 
 ### Step 1
 
