@@ -31,13 +31,13 @@
 | [Create Ad-hoc Roster](ad-hoc-temporary-roster.md#close-ad-hoc-roster) | [Close Ad-hoc Roster](ad-hoc-temporary-roster.md#close-ad-hoc-roster) |
 | [Print](ad-hoc-temporary-roster.md#print) |  |
 | [**Configure Schedule Track**](configure-schedule-track.md) |  |
-| Host Properties | Add a Scanner |
-| Scanner Properties | Filter Properties and Logic |
-| Add and Configure Filters | Calendar Filter Properties |
-| Custody Filter | Housing Filter |
-| Volunteer Filter |  |
+| [Host Properties](configure-schedule-track.md#host-properties) | [Add a Scanner](configure-schedule-track.md#add-a-scanner) |
+| [Scanner Properties](configure-schedule-track.md#scanner-properties) | [Filter Properties and Logic](configure-schedule-track.md#filter-properties-and-logic) |
+| [Add and Configure Filters](configure-schedule-track.md#add-and-configure-filters) | [Calendar Filter Properties](configure-schedule-track.md#calendar-filter-properties) |
+| [Custody Filter](configure-schedule-track.md#custody-filter) | [Housing Filter](configure-schedule-track.md#housing-filter) |
+| [Volunteer Filter](configure-schedule-track.md#volunteer-filter) |  |
 | [**Additional Resources**](additional-resources.md) |  |
-| Changing the Size and Layout of a Frame | Minimize a Frame |
-| Maximize a Frame | When All Else Fails |
-| Report Issues to Help Desk |  |
+| [Changing the Size and Layout of a Frame](additional-resources.md#changing-the-size-and-layout-of-a-frame) | [Minimize a Frame](additional-resources.md#minimize-a-frame) |
+| [Maximize a Frame](additional-resources.md#maximize-a-frame) | [When All Else Fails](additional-resources.md#when-all-else-fails) |
+| [Report Issues to Help Desk](additional-resources.md#report-issues-to-help-desk) |  |
 
