@@ -19,17 +19,17 @@
 | [Contractors](person-types.md#contractors) | [Outside Agents](person-types.md#outside-agents) |
 | [Volunteers](person-types.md#volunteers) | [Authorized Items](person-types.md#authorized-items-and-acknowledgement) |
 | [**Searching**](searching.md) |  |
-| Search By ID Number | Search by Name or Moniker |
-| Search Results | Sort by any Column |
-| Display Person Details | Trigger a Scan from Search Results |
-| Clear Results |  |
+| [Search By ID Number](searching.md#search-by-id-number) | [Search by Name or Moniker](searching.md#search-by-name-or-moniker) |
+| [Search Results](searching.md#search-results) | [Sort by any Column](searching.md#sort-by-any-column) |
+| [Display Person Details](searching.md#display-person-details) | [Trigger a Scan from Search Results](searching.md#trigger-a-scan-from-search-results) |
+| [Clear Results](searching.md#clear-results) |  |
 | [**Rosters Overview**](rosters-overview.md) |  |
-| Add Comment | Manually Scan Out |
-| Validation Rules in Effect | Print Roster |
-| Show Recent History |  |
+| [Add Comment](rosters-overview.md#add-comment) | [Manually Scan Out](rosters-overview.md#manually-scan-out) |
+| [Validation Rules in Effect](rosters-overview.md#validation-rules-in-effect) | [Print Roster](rosters-overview.md#validation-rules-in-effect) |
+| [Show Recent History](rosters-overview.md#validation-rules-in-effect) |  |
 | [**Ad-hoc \(Temporary\) Roster**](ad-hoc-temporary-roster.md) |  |
-| Create Ad-hoc Roster | Close Ad-hoc Roster |
-| Print |  |
+| [Create Ad-hoc Roster](ad-hoc-temporary-roster.md#close-ad-hoc-roster) | [Close Ad-hoc Roster](ad-hoc-temporary-roster.md#close-ad-hoc-roster) |
+| [Print](ad-hoc-temporary-roster.md#print) |  |
 | [**Configure Schedule Track**](configure-schedule-track.md) |  |
 | Host Properties | Add a Scanner |
 | Scanner Properties | Filter Properties and Logic |
