@@ -15,22 +15,22 @@ In addition, there are reports within OMS which can review historical scanning a
 1. Double-click on the Schedule Track icon on the computer desktop.  
 
 
-![Application Icon](../../../../.gitbook/assets/001%20%281%29.png)
+![Application Icon](../../../.gitbook/assets/001%20%281%29.png)
 
 2. When there are new updates to Schedule Track, the following panel will appear, showing that the updates are being downloaded to the computer.
 
 The green Progress Bar indicates the progress of the download.
 
-![Update / Progress Bar](../../../../.gitbook/assets/002.png)
+![Update / Progress Bar](../../../.gitbook/assets/002.png)
 
 3. The Schedule Track splash screen displays to show things are loading. 
 
-![Splash / Loading Screen](../../../../.gitbook/assets/003%20%281%29.png)
+![Splash / Loading Screen](../../../.gitbook/assets/003%20%281%29.png)
 
 4. When Schedule Track first opens, the following workbench will be displayed.  
 
 
-![](../../../../.gitbook/assets/004.png)
+![](../../../.gitbook/assets/004.png)
 
 ## Logout
 
@@ -38,15 +38,15 @@ Each staff member must log out prior to another staff member can begin operating
 
 * By selecting File from the top menu and then Exit. 
 
-![](../../../../.gitbook/assets/005.png)
+![](../../../.gitbook/assets/005.png)
 
 * Or by selecting the "X" in the upper right corner of the application. 
 
-![](../../../../.gitbook/assets/006.png)
+![](../../../.gitbook/assets/006.png)
 
  Next, log off the computer: select the Start button and then the Log Off button. 
 
-![](../../../../.gitbook/assets/007.png)
+![](../../../.gitbook/assets/007.png)
 
 
 

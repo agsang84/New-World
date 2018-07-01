@@ -10,13 +10,13 @@ When a person scans their ID card there are four possible status outcomes to app
 
 A scan with an Approved outcome displays a green background for the Person panel:
 
-![](../../../../.gitbook/assets/012.png)
+![](../../../.gitbook/assets/012.png)
 
 ## Marginal Outcome
 
 A scan with a Marginal outcome will have a yellow background. Marginal outcomes only occur with Calendar Events and only if the Lead Time has been configured.
 
-![](../../../../.gitbook/assets/013.png)
+![](../../../.gitbook/assets/013.png)
 
 ### Example:
 
@@ -31,7 +31,7 @@ The following business rules were invoked to produce a Marginal outcome.
 
 A scan will generate a Denied outcome if one or more of the business rules \(filters and limits contained within those filters\) are violated. The panel will display the basic Person information, but will have a red background and also a Manual Override button.
 
-![](../../../../.gitbook/assets/014%20%281%29.png)
+![](../../../.gitbook/assets/014%20%281%29.png)
 
 ### **Example:**
 
@@ -43,7 +43,7 @@ The Offender was denied access to the Activities Floor because there was no call
 
 Staff may perform a Manual Override \(if appropriate\) when a scan generates a Denied outcome; to do so, click the Manual Override button shown on the Person panel.
 
-![](../../../../.gitbook/assets/015.png)
+![](../../../.gitbook/assets/015.png)
 
 This will display a box that has a text field with a limit of 150 characters. Use this field to explain the reason for overriding the Denied response. The override will place the person on the Roster. The minimum length is set by a Super User in the configuration panel.
 
@@ -51,7 +51,7 @@ This will display a box that has a text field with a limit of 150 characters. Us
 
 A scan with an Ignored Outcome will have a gray background. Ignored outcomes are generated when a person scans out, as outgoing scans have no restrictions via validation. If a person is on a Roster, a second scan will remove them from the Roster. The background of the Person panel will be grey which signifies a scan out.
 
-![](../../../../.gitbook/assets/016.png)
+![](../../../.gitbook/assets/016.png)
 
 ## When a Scan Does Not Work
 
@@ -61,11 +61,11 @@ If an ID card is not readable, the staff at the checkpoint can enter the personâ
 
 When a person scans in on a roster, a second scan will remove them from the roster. The background of the Person panel will be gray which signifies a scan out.
 
-![](../../../../.gitbook/assets/017.png)
+![](../../../.gitbook/assets/017.png)
 
 ## Scan All Out
 
 To remove all names from a roster quickly, select the Scan All Out button at the bottom of the Roster frame; once you confirm, all the persons on the Roster will be scanned out.
 
-![](../../../../.gitbook/assets/018.png)
+![](../../../.gitbook/assets/018.png)
 

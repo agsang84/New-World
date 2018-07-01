@@ -2,7 +2,7 @@
 
 The Search panel is used to find a person without using an ID card. There are three input fields used for searching: SID, Last Name/Moniker, and First Name.
 
-![](../../../../.gitbook/assets/026.png)
+![](../../../.gitbook/assets/026.png)
 
 ## Search by ID Number
 
@@ -32,7 +32,7 @@ The Schedule Track operator/user can trigger a scan of any row displayed within 
 
 Select the row with a left-click and hold the mouse button, and move the row to the Roster panel.
 
-![](../../../../.gitbook/assets/027.png)
+![](../../../.gitbook/assets/027.png)
 
 Once over the appropriate Roster, release the left mouse button; this will cause the person's ID number to be processed just as if the person had scanned their ID card. The outcome of this scan \(triggered by the drag-n-drop\) will be determined by the configured filters, and may be either Approved, Denied, or Ignored, in the same manner as if the actual ID card had been scanned.
 
