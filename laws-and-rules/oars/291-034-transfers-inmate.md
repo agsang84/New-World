@@ -1,7 +1,7 @@
 # 291-034 - Transfers \(Inmate\)
 
 | [**291-034-0005 - Authority, Purpose, and Policy**](291-034-transfers-inmate.md#291-034-0005-authority-purpose-and-policy) |
-| --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-034-0010 - Definitions**](291-034-transfers-inmate.md#291-034-0010-definitions) |
 | [**291-034-0015 - Intake Facility Transfers**](291-034-transfers-inmate.md#291-034-0015-intake-facility-transfers) |
 | [**291-034-0020 - Routine Transfers**](291-034-transfers-inmate.md#291-034-0020-routine-transfers) |

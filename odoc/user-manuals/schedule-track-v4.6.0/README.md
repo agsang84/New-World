@@ -1,7 +1,7 @@
 # Schedule Track v4.6.0
 
 | [**Getting Started**](getting-started.md) |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | [Business Description of Schedule Track](getting-started.md#business-description-of-schedule-track) |  |
 | [**Roles Used in Schedule Track**](roles-used-in-schedule-track.md) |  |
 | [Staff](roles-used-in-schedule-track.md#staff) | [Super Users](roles-used-in-schedule-track.md#super-users) |

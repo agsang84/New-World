@@ -7,7 +7,7 @@
 #### HUMAN RESOURCES DIVISION POLICIES APPLICABLE TO BARGAINING UNIT
 
 | **Policy Name** | **Policy Number** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Employee Personnel Records | 10.011.01 |
 | Support of Employee’s Work and Family Needs | 10.030.02 |
 | Support of Employee’s Participation in Mentoring Program | 10.030.03 |
@@ -34,7 +34,7 @@ and Stalking \| 50.010.04 \| \| Reinstatement and Reemployment of Injured Worker
 ## APPENDIX B - CLASSIFICATION PLAN
 
 | **CLASS \#** | **CLASS TITLE** | **SALARY RANGE** |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | C6775 | CORRECTIONAL OFFICER | 17 |
 | C6776 | CORRECTIONAL CORPORAL | 18 |
 | C6777 | CORRECTIONAL SERGEANT | 20 |
@@ -44,7 +44,7 @@ and Stalking \| 50.010.04 \| \| Reinstatement and Reemployment of Injured Worker
 ### SALARY SCHEDULE - JULY 1, 2017
 
 | Range | Rate 1 | Rate 2 | Rate 3 | Rate 4 | Rate 5 | Rate 6 | Rate 7 | Rate 8 | Rate 9 |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 17 | 3528 | 3693 | 3850 | 4031 | 4212 | 4407 | 4615 | 4834 | 5044 |
 | 18 | 3693 | 3850 | 4031 | 4212 | 4407 | 4615 | 4834 | 5044 | 5261 |
 | 20 | 4031 | 4212 | 4407 | 4615 | 4834 | 5044 | 5261 | 5485 | 5721 |
@@ -52,7 +52,7 @@ and Stalking \| 50.010.04 \| \| Reinstatement and Reemployment of Injured Worker
 ### SALARY SCHEDULE - JUNE 15, 2018
 
 | Range | Rate 1 | Rate 2 | Rate 3 | Rate 4 | Rate 5 | Rate 6 | Rate 7 | Rate 8 | Rate 9 |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 17 | 3563 | 3730 | 3889 | 4071 | 4254 | 4451 | 4661 | 4882 | 5094 |
 | 18 | 3730 | 3889 | 4071 | 4254 | 4451 | 4661 | 4882 | 5094 | 5314 |
 | 20 | 4071 | 4254 | 4451 | 4661 | 4882 | 5094 | 5314 | 5540 | 5778 |
@@ -60,7 +60,7 @@ and Stalking \| 50.010.04 \| \| Reinstatement and Reemployment of Injured Worker
 ### SALARY SCHEDULE - JANUARY 1, 2019
 
 | Range | Rate 1 | Rate 2 | Rate 3 | Rate 4 | Rate 5 | Rate 6 | Rate 7 | Rate 8 | Rate 9 |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 17 | 3889 | 4071 | 4254 | 4451 | 4661 | 4882 | 5094 | 5314 | 5633 |
 | 18 | 4071 | 4254 | 4451 | 4661 | 4882 | 5094 | 5314 | 5540 | 5872 |
 | 20 | 4451 | 4661 | 4882 | 5094 | 5314 | 5540 | 5778 | 6026 | 6388 |
@@ -70,7 +70,7 @@ and Stalking \| 50.010.04 \| \| Reinstatement and Reemployment of Injured Worker
 #### NON-PERS PARTICIPATING MEMBERS
 
 | Range | Rate 1 | Rate 2 | Rate 3 | Rate 4 | Rate 5 | Rate 6 | Rate 7 | Rate 8 | Rate 9 |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 17 | 3889 | 4071 | 4254 | 4451 | 4661 | 4882 | 5094 | 5314 | 5633 |
 | 18 | 4071 | 4254 | 4451 | 4661 | 4882 | 5094 | 5314 | 5540 | 5872 |
 | 20 | 4451 | 4661 | 4882 | 5094 | 5314 | 5540 | 5778 | 6026 | 6388 |
@@ -80,7 +80,7 @@ and Stalking \| 50.010.04 \| \| Reinstatement and Reemployment of Injured Worker
 #### PERS PARTICIPATING MEMBERS
 
 | Range | Rate 1 | Rate 2 | Rate 3 | Rate 4 | Rate 5 | Rate 6 | Rate 7 | Rate 8 | Rate 9 |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 17 | 4159 | 4354 | 4550 | 4760 | 4985 | 5221 | 5448 | 5683 | 6024 |
 | 18 | 4354 | 4550 | 4760 | 4985 | 5221 | 5448 | 5683 | 5925 | 6280 |
 | 20 | 4760 | 4985 | 5221 | 5448 | 5683 | 5925 | 6280 | 6445 | 6832 |

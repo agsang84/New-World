@@ -1,7 +1,7 @@
 # 291-032 - Land Use Coordination
 
 | [**291-032-0010 - Authority and Purpose**](291-032-land-use-coordination.md#291-032-0010-authority-and-purpose) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-032-0020 - Applicability**](291-032-land-use-coordination.md#291-032-0020-applicability) |
 | [**291-032-0030 - Compliance with the Statewide Planning Goals and Compatibility with Acknowledged Comprehensive Plans and Land Use Regulations**](291-032-land-use-coordination.md#291-032-0030-compliance-with-the-statewide-planning-goals-and-compatibility-with-acknowledged-comprehensive-plans-and-land-use-regulations) |
 | [**291-032-0040 - Compliance with the Statewide Planning Goals — Land Use Program**](291-032-land-use-coordination.md#291-032-0040-compliance-with-the-statewide-planning-goals-land-use-program) |

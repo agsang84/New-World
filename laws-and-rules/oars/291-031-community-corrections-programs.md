@@ -1,7 +1,7 @@
 # 291-031 - Community Corrections Programs
 
 | [**291-031-0005 - Authority, Purpose, and Policy**](291-031-community-corrections-programs.md#291-031-0005-authority-purpose-and-policy) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-031-0009 - Definitions**](291-031-community-corrections-programs.md#291-031-0009-definitions) |
 | [**291-031-0010 - Notice**](291-031-community-corrections-programs.md#291-031-0010-notice) |
 | [**291-031-0015 - Plan Development**](291-031-community-corrections-programs.md#291-031-0015-plan-development) |

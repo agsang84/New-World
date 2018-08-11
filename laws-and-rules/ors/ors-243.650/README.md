@@ -1,7 +1,7 @@
 # ORS 243.650
 
 | [**Definitions for ORS 243.650 to 243.782**](ors-243.650-to-243.782.md#definitions-for-ors-243-650-to-243-782) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**Policy statement**](ors-243.650-to-243.782.md#ors-243-656-policy-statement) |
 | [**Rights of public employees to join labor organizations**](ors-243.650-to-243.782.md#ors-243-662-rights-of-public-employees-to-join-labor-organizations) |
 | [**Certified or recognized labor organization as exclusive employee group representative**](ors-243.650-to-243.782.md#ors-243-666-certified-or-recognized-labor-organization-as-exclusive-employee-group-representative) |

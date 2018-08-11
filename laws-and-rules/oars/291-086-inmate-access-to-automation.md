@@ -1,7 +1,7 @@
 # 291-086 - Inmate Access to Automation
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-086-0010 Authority, Purpose, and Policy

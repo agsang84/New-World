@@ -1,7 +1,7 @@
 # 291-105 - Prohibited Inmate Conduct & Processing Disciplinary Actions
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-105-0005 Authority, Purpose and Policy

@@ -1,7 +1,7 @@
 # 291-015 Volunteer Services/Student Interns
 
 | [**291-015-0015 - Recruitment**](291-015-volunteer-services-student-interns.md#291-015-0015-recruitment) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-015-0025 - Orientation and Training**](291-015-volunteer-services-student-interns.md#291-015-0025-orientation-and-training) |
 | [**291-015-0100 - Authority, Purpose, and Policy**](291-015-volunteer-services-student-interns.md#291-015-0100-authority-purpose-and-policy) |
 | [**291-015-0105 - Definitions**](291-015-volunteer-services-student-interns.md#291-015-0105-definitions) |

@@ -14,7 +14,7 @@ You are hereby ordered to fully cooperate with the investigating official\(s\). 
 ### ACKNOWLEDGEMENT: I have read and understand the above notification.
 
 | Employee’s Signature: | Date: | Time |  |
-| --- |
+| :--- | :--- | :--- | :--- |
 | --- | --- | --- | --- |
 | Union Rep's Signature: | Date: | Time |  |
 | Investigator’s Signature: | Date: | Time: |  |

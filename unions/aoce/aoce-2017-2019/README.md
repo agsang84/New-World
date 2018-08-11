@@ -1,7 +1,7 @@
 # AOCE 2017-2019
 
 | [**ARTICLE 1 - SCOPE OF AGREEMENT**](aoce-articles-1-10.md#article-1-scope-of-agreement) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**ARTICLE 2 - TERM OF AGREEMENT**](aoce-articles-1-10.md#article-2-term-of-agreement) |
 | [**ARTICLE 3 - MANAGEMENT RIGHTS**](aoce-articles-1-10.md#article-3-management-rights) |
 | [**ARTICLE 4 - ASSOCIATION SECURITY**](aoce-articles-1-10.md#article-4-association-security) |

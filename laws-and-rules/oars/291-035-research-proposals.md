@@ -1,7 +1,7 @@
 # 291-035 - Research Proposals
 
 | **291-035-0005 - Authority, Purpose and Policy** |
-| --- | --- | --- | --- |
+| :--- |
 | **291-035-0010 - Definitions** |
 | **291-035-0011 - General** |
 | **291-035-0015 - Procedures for Submitting a Research Proposal** |

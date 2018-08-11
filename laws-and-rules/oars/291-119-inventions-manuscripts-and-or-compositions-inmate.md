@@ -1,7 +1,7 @@
 # 291-119 - Inventions, Manuscripts and/or Compositions \(Inmate\)
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-119-0005 Authority, Purpose and Policy

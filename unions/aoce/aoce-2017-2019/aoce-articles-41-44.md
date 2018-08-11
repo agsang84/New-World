@@ -157,7 +157,7 @@ F. In the event that the blood or urine test results are positive for controlled
 G. The following are the established cut off levels for a positive test:
 
 | **Screening Test** |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Marijuana | 50 ng/ml |
 | Cocaine | 300 ng/ml |
 | Opiates | 300 ng/ml |
@@ -168,7 +168,7 @@ G. The following are the established cut off levels for a positive test:
 | Quaaludes \(Methaqualine\) | 300 ng/ml |
 
 | **Confirmatory Test** |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Marijuana | 15 ng/ml |
 | Cocaine | 150 ng/ml |
 | Opiates | 300 ng/ml |

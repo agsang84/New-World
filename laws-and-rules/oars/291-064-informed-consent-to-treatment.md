@@ -1,7 +1,7 @@
 # 291-064 - Informed Consent to Treatment  w/Psychotropic Medication
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-064-0010 Authority, Purpose and Policy

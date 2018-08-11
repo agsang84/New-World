@@ -1,7 +1,7 @@
 # 291-014 - Arrest and Transport
 
 | **291-014-0100 - Authority, Purpose, and Policy** |
-| --- | --- | --- | --- |
+| :--- |
 | **291-014-0110 - Definitions** |
 | **291-014-0120 - Arrest** |
 | **291-014-0130 - Transport** |

@@ -1,7 +1,7 @@
 # 291-022 - Use of Force \(Community Corrections\)
 
 | [**291-022-0105 - Authority, Purpose, and Policy**](291-022-use-of-force-community-corrections.md#291-022-0105-authority-purpose-and-policy) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-022-0115 - Definitions**](291-022-use-of-force-community-corrections.md#291-022-0115-definitions) |
 | [**291-022-0125 - Applicability of the Rule**](291-022-use-of-force-community-corrections.md#291-022-0125-applicability-of-the-rule) |
 | [**291-022-0130 - General Provisions — Use of Force**](291-022-use-of-force-community-corrections.md#291-022-0130-general-provisions-use-of-force) |

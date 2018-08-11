@@ -1,7 +1,7 @@
 # 291-027 - Death \(Inmate\)
 
 | [**291-027-0010 - Authority, Purpose and Policy**](291-027-death-inmate.md#291-027-0010-authority-purpose-and-policy) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-027-0020 - Definitions**](291-027-death-inmate.md#291-027-0020-definitions) |
 | [**291-027-0030 - Assessment and Security**](291-027-death-inmate.md#291-027-0030-assessment-and-security) |
 | [**291-027-0040 - Removal of the Deceased**](291-027-death-inmate.md#291-027-0040-removal-of-the-deceased) |

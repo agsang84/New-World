@@ -3,7 +3,7 @@
  If you have any suggestions on how you might like to improve this Help information, please email or call:
 
 |  **Thomas Hatley** |  |
-| --- | --- | --- |
+| :--- | :--- |
 | Email |  Thomas.G.Hatley@doc.state.or.us |
 | Phone | \(503\) 373-7597 |
 

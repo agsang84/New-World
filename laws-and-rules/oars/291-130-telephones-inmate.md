@@ -1,7 +1,7 @@
 # 291-130 - Telephones \(Inmate\)
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 **291-130-0005 - Authority, Purpose, and Policy**

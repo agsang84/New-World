@@ -26,7 +26,7 @@ f. The following posts will be designated as Training Posts:
 
 
 | First Shift  | Second Shift |
-| --- | --- |
+| :--- | :--- |
 | RDO 9 \(F3, F4, G2\) / Flex 1 / Flex 4 | RDO 17 \(B1, B2, A4\) / Flex 22 / Flex 23 / Flex 24 |
 
 Should the Oregon Department of Corrections implement a security hiring freeze, all of the above posts will be available for Seniority bid for the following, and any subsequent Post Bid Rotation as long as the security hiring freeze remains in effect. No employee on initial trial service will be placed in an armed post.

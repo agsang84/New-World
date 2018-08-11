@@ -1,7 +1,7 @@
 # 291-097 - Prison Term Modification
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-097-0200 Authority, Purpose, and Policy

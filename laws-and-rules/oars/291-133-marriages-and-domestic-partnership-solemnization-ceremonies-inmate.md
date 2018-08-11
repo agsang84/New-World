@@ -1,7 +1,7 @@
 # 291-133 - Marriages and Domestic Partnership Solemnization Ceremonies \(Inmate\)
 
 |  |  |
-| --- | --- |
+| :--- | :--- |
 |  |  |
 
 ## 291-133-0005 Authority, Purpose, and Policy

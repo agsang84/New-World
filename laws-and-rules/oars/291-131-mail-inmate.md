@@ -1,7 +1,7 @@
 # 291-131 - Mail \(Inmate\)
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 **291-131-0005 - Authority, Purpose, and Policy**

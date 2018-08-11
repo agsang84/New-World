@@ -1,7 +1,7 @@
 # 291-065 - Parole/Probation Officer Duties
 
 | [**291-065-0005 - Authority and Purpose**](291-065-parole-probation-officer-duties.md#291-065-0005-authority-and-purpose) |
-| --- | --- | --- |
+| :--- |
 | [**291-065-0006 - Definitions**](291-065-parole-probation-officer-duties.md#291-065-0006-definitions) |
 | [**291-065-0007 - Duties and Assignments**](291-065-parole-probation-officer-duties.md#291-065-0007-duties-and-assignments) |
 

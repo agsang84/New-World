@@ -5,7 +5,7 @@ description: 20.1.2
 # 20.1.2 - Code of Ethics
 
 | **Title:** | Code of Ethics |
-| --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Effective:** | 10/16/13 |
 | **Supersedes:** | 7/15/98 |
 | **Applicability:** | All permanent and temporary employees |

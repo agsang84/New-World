@@ -5,7 +5,7 @@ description: (Inmate & Offender)
 # 291-070 - Records Management
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-070-0100 Authority, Purpose, and Policy

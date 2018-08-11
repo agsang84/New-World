@@ -5,7 +5,7 @@ description: DOC Policy
 # 10.1.2 - Telecommunications
 
 | **Effective:** | 01/04/2010 |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Supersedes:** | 12/01/2009 |
 | **Applicability:** | All functional units |
 | **Directives/ Cross-Reference:** | Employee Assigned Assets – Policy \#30.2.3 DAS Policy 107-001-015: Internal Controls for the Management of Cellular-Based Personal Communications Devices |

@@ -1,7 +1,7 @@
 # 291-124 - Health Services \(Inmate\)
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 [291-124-0005 - Authority, Purpose, and Policy](https://github.com/agsang84/SnakePit/blob/master/laws-and-rules/oars/0124.md#291-124-0005---authority-purpose-and-policy)

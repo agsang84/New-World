@@ -1,9 +1,5 @@
 # 291-139 - Legal Affairs \(Inmate\)
 
-|  |
-| --- | --- |
-|  |
-
 ## 291-139-0100 Authority, Purpose, and Policy
 
 \(1\) Authority: The authority for these rules is granted to the Director of the Department of Corrections in accordance with ORS 179.040, 423.020, 423.030 and 423.075.
@@ -12,7 +8,11 @@
 
 \(3\) Policy: Within the inherent limitations of resources and the need to promote and maintain facility security, safety, health, and order, and subject to operational contingencies and needs, it is the policy of the Department of Corrections to afford inmates reasonable access to law library services and equipment, and to necessary supplies for the preparation and filing of legal documents with the courts and paroling authorities, on a prioritized basis, in accordance with these rules.
 
-Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17 291-139-0110 Definitions
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075   
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075   
+> History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17
+
+## 291-139-0110 Definitions
 
 \(1\) Active Case: A case or proceeding that is pending before a court or paroling authority.
 
@@ -44,7 +44,11 @@ Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Othe
 
 \(15\) Special Housing: Inmate housing assignments other than general population.
 
-Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17 291-139-0120 Access to Law Library Services and Equipment
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075   
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075   
+> History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17
+
+## 291-139-0120 Access to Law Library Services and Equipment
 
 \(1\) General: Within the inherent limitation of resources and the need for facility security, safety, health, and order, and subject to operational contingencies, all inmates will be afforded reasonable opportunities to access law library services and equipment, and necessary supplies for the preparation and filing of legal documents with the courts and paroling authorities, on a prioritized basis, in accordance with these rules.
 
@@ -74,7 +78,11 @@ Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Othe
 
 \(6\) Oregon inmates who are incarcerated in a correctional facility located in another state or in a federal correctional facility may request access to Oregon-specific legal research materials and assistance from an assigned inmate legal assistant through correspondence directed to the library coordinator at the Oregon facility they were last housed. Such requests will be processed with reasonable diligence.
 
-Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17 291-139-0130 Law Library Services
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented:   
+> ORS 179.040, 423.020, 423.030 & 423.075   
+> History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17
+
+## 291-139-0130 Law Library Services
 
 \(1\) Operations and Procedures:
 
@@ -128,7 +136,11 @@ Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Othe
 
 \(5\) Notary services, photocopying, and mailing services for legal work may be requested in accordance with these rules using the standard request forms. Mail and photocopy requests must be accompanied by a Request for Withdrawal of Funds \(CD28\).
 
-Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17 291-139-0150 Library Coordinators
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075   
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075   
+> History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17
+
+## 291-139-0150 Library Coordinators
 
 \(1\) Library coordinators are responsible for supervising facility legal libraries and the provision of law library services to inmates, including the activities of the assigned legal assistants.
 
@@ -138,7 +150,11 @@ Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Othe
 
 \(4\) The library coordinator may instruct inmates on how and where to access requested law library services and other resources, but may not offer advice or directly assist an inmate with their legal issues, case or matter.
 
-Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17 291-139-0160 Legal Assistants
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075  
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075   
+> History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17
+
+## 291-139-0160 Legal Assistants
 
 \(1\) Legal assistants are assigned to work in the facility law library by the library coordinator to help guide and assist other inmates in legal research and document preparation on a prioritized basis as assigned by the library coordinator. A minimum of one legal assistant will be assigned at each Department of Corrections facility that has a law library.
 
@@ -172,7 +188,11 @@ Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Othe
 
 \(11\) Assignment and removal of inmate legal assistants by the library coordinator shall not be based upon retaliation for legitimate legal activities done in accordance with these rules.
 
-Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17 291-139-0170 Print, Photocopy, and Mailing Services
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075   
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075   
+> History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17
+
+## 291-139-0170 Print, Photocopy, and Mailing Services
 
 \(1\) Printing and Photocopy Services:
 
@@ -196,7 +216,11 @@ Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Othe
 
 \(b\) Electronic Filing of Legal Documents with a Court: Envelopes and postage will not be provided to inmates for filing of legal documents with a court if the department has entered into an agreement with the court for electronic filing of legal documents by inmates, and the court has provided for electronic filing as the exclusive means of filing legal documents with the court by inmates.
 
-Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17 291-139-0180 Indigent Inmates
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075  
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075  
+> History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17
+
+## 291-139-0180 Indigent Inmates
 
 \(1\) Two categories of inmates will qualify for indigent status:
 
@@ -212,7 +236,11 @@ Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Othe
 
 \(5\) Under these rules, sufficient envelopes and postage will be provided to mail out the original legal documents for filing with the court or paroling authority and for mailing out any required service copies.
 
-Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17 291-139-0190 Storage, Control, and Disposition of Legal Materials
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075  
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075   
+> History: DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17
+
+## 291-139-0190 Storage, Control, and Disposition of Legal Materials
 
 \(1\) General:
 
@@ -258,5 +286,7 @@ Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Othe
 
 \(c\) Legal documents and other materials will be destroyed if department staff are unable to identify the inmate to which the materials belong in accordance with the rules on Personal Property \(Inmate\) \(OAR 291-117\).
 
-Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075 Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075 History: DOC 14-2017, minor correction filed 10/23/2017, effective 10/23/2017 DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17
+> Statutory/Other Authority: ORS 179.040, 423.020, 423.030 & 423.075   
+> Statutes/Other Implemented: ORS 179.040, 423.020, 423.030 & 423.075  
+> History: DOC 14-2017, minor correction filed 10/23/2017, effective 10/23/2017 DOC 13-2017, f. 8-23-17, cert. ef. 9-1-17
 

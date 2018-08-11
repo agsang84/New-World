@@ -1,7 +1,7 @@
 # 291-123 - Hygiene, Grooming & Sanitation \(Inmate\)
 
 | **291-123-0005 - Authority, Purpose, and Policy** |
-| --- | --- | --- |
+| :--- |
 | **291-123-0010 - Definitions for OAR 291-123-0005 through 291-123-0015** |
 | **291-123-0015 - Procedures** |
 

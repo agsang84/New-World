@@ -7,7 +7,7 @@
 The following holidays will be recognized and paid for at the regular straight time rate of pay:
 
 | a. New Year's Day on January 1; |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | b. Martin Luther King, Jr.'s Birthday on the third Monday in January; |
 | c. President's Birthday on the third Monday in February; |
 | d. Memorial Day on the last Monday in May; |
@@ -51,7 +51,7 @@ The Parties agree that an employee's vacation accrual is an earned benefit to wh
 After having served in the State service for six \(6\) full calendar months, full-time employees shall be credited with six \(6\) days of vacation leave and thereafter vacation leave shall be accumulated as follows:
 
 | After six \(6\) months through 5th year | 15 work days for each 12 full calendar  months of service \(10 hours per month\) |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | After 5th year through 10th year | 18 work days for each 12 full calendar months of service \(12 hours per month\) |
 | After 10th year through 15th year | 21 workdays for each 12 full calendar months of service \(14 hours per month\) |
 | After 15th year through 20th year | 24 workdays for each 12 full calendar months of service \(16 hours per month\) |
@@ -131,7 +131,7 @@ d. Institution management will establish the vacation slots available for the ca
 e. Bargaining unit employees will initially bid by seniority for available vacation slots in accordance with the following matrix:
 
 | Years of Service | Number of Weeks |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | 15 or more | Unlimited |
 | From 10 until 15 | 4 |
 | From 3 until 10 | 3 |
@@ -157,7 +157,7 @@ i. In addition to Article 32, Section \(9\)\(c\) of the Agreement, security staf
 j. Specific Institution Vacation Scheduling Provisions:
 
 | [**CCCF** ](32-cccf.md) | [**CRCI**](32-crci.md) |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | [**DRCI**](32-drci.md) | [**EOCI**](32-eoci.md) |
 | [**PRCF**](32-prcf.md) | [**SCCI**](32-scci.md) |
 | [**SCI**](32-sci.md) | [**SRCI**](32-srci.md) |

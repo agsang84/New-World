@@ -1,7 +1,7 @@
 # 291-038 - Presentence Reports
 
 | [**291-038-0005 - Authority, Purpose and Policy**](291-038-presentence-reports.md#291-038-0005-authority-purpose-and-policy) |
-| --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-038-0010 - Definitions**](291-038-presentence-reports.md#291-038-0010-definitions) |
 | [**291-038-0015 - Procedures**](291-038-presentence-reports.md#291-038-0015-procedures) |
 | [**291-038-0030 - Presentence Report — Victim Contact**](291-038-presentence-reports.md#291-038-0030-presentence-report-victim-contact) |

@@ -1,7 +1,7 @@
 # 291-100 - Admission, Sentence  Computation & Release
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-100-0005 Authority, Purpose and Policy

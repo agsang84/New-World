@@ -1,7 +1,7 @@
 # 10.1.4 - Resource Conservation
 
 | **Effective:** | 11/1/16 |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Supersedes:** | 10/22/14 |
 | **Applicability:** | All functional units |
 | **Directives / Cross-Reference:** | **ORS** 468A.205;  **OAR** 330-130-0010; **DAS Policy** 107-011- 010; 107-009-0080;  **Executive Order** 06-02; |

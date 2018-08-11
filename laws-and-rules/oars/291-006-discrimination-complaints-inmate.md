@@ -5,7 +5,7 @@ description: Chapter 291 - Division 6
 # 291-006 - Discrimination Complaints \(Inmate\)
 
 | [**291-006-0005 - Authority, Purpose, and Policy**](291-006-discrimination-complaints-inmate.md#291-006-0005-authority-purpose-and-policy) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-006-0011 - Definitions**](291-006-discrimination-complaints-inmate.md#291-006-0011-definitions) |
 | [**291-006-0012 - Inmate-Staff Communications \(General Principles\)**](291-006-discrimination-complaints-inmate.md#291-006-0012-inmate-staff-communications-general-principles) |
 | [**291-006-0015 - Internal Complaint Process**](291-006-discrimination-complaints-inmate.md#291-006-0015-internal-complaint-process) |

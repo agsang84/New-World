@@ -1,7 +1,7 @@
 # 291-037 - Release of Public Records
 
 | **291-037-0005 - Authority, Purpose and Policy** |
-| --- | --- | --- | --- | --- |
+| :--- |
 | **291-037-0010 - Definition** |
 | **291-037-0015 - Requests for Release of Department Public Records** |
 | **291-037-0020 - Review of Public Records** |

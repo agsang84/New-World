@@ -23,7 +23,7 @@ Part-time premium rate x Employer contribution percentage x the ration of paid r
 In addition, there shall be a subsidy based on the employee’s coverage tier, for Plan Years 2017 consisting of one \(1\) of the following monthly amounts:
 
 | Employee Only \(EE\) | $280.37 |
-| --- | --- | --- | --- |
+| :--- | :--- |
 | Employee and Family \(EF\) | $560.75 |
 | Employee and Spouse/Partner \(ES\) | $462.61 |
 | Employee and Children \(EC\) | $392.52 |
@@ -31,7 +31,7 @@ In addition, there shall be a subsidy based on the employee’s coverage tier, f
 Part-time subsidy amounts for 2018 and 2019 will consist of one \(1\) of the following amounts:
 
 | Employee Only \(EE\) | $226.00 |
-| --- | --- | --- | --- |
+| :--- | :--- |
 | Employee and Family \(EF\) | $610.20 |
 | Employee and Spouse/Partner \(ES\) | $452.00 |
 | Employee and Children \(EC\) | $384.20 |

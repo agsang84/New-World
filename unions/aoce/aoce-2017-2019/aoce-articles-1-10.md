@@ -239,7 +239,7 @@ A.
 Delete the following classifications from the compensation plan.
 
 | _**CLASS \#**_ | _**CLASS TITLE**_ |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | 6391 | Dental Assistant |
 |  |  |
 | 6531 | Mental Health Specialist |

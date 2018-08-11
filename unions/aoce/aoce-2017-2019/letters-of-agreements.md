@@ -80,7 +80,7 @@ For less than full-time employees who have at least eighty \(80\) paid regular h
 
 
    | Employee Only | $280.37 |
-   | --- | --- | --- | --- |
+   | :--- | :--- |
    | Employee and Partner | $462.61 |
    | Employee and Children | $392.52 |
    | Employee and Family | $560.75 |
@@ -89,7 +89,7 @@ For less than full-time employees who have at least eighty \(80\) paid regular h
 
 
    | Employee Only | $226.00 |
-   | --- | --- | --- | --- |
+   | :--- | :--- |
    | Employee and Partner | $452.00 |
    | Employee and Children | $384.20 |
    | Employee and Family | $610.20 |
@@ -260,7 +260,7 @@ The purpose of this LOA is to clarify the pilot project on shift bids for BHS st
 ### MHI Schedules
 
 | **MHI**  | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **MHS1** |  | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm |  |  |
 | **MHS2** |  |  |  | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm |
 | **MHS3** | 8am - 6:30pm | 8am - 6:30pm | 8am - 6:30pm | 8am - 6:30pm |  |  |  |
@@ -270,7 +270,7 @@ The purpose of this LOA is to clarify the pilot project on shift bids for BHS st
 ### ICH Schedule
 
 |  | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **MHS1** |  | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm |  |  |
 | **MHS2** |  |  | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm |  |
 | **MHS3** |  | 9:30am - 8pm | 9:30am - 8pm | 9:30am - 8pm | 9:30am - 8pm |  |  |
@@ -280,7 +280,7 @@ The purpose of this LOA is to clarify the pilot project on shift bids for BHS st
 ### BHU Schedule
 
 |  | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **MHS1** |  |  | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm |  |
 | **MHS2** | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm | 6:30 - 5pm |  |  |  |
 | **MHS3** |  | 9:30am - 8pm | 9:30am - 8pm | 9:30am - 8pm | 9:30am - 8pm |  |  |

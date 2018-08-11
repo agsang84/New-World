@@ -1,7 +1,7 @@
 # 291-013 - Use of Force
 
 | [**291-013-0005 - Authority, Purpose, and Policy**](291-013-use-of-force.md#291-013-0005-authority-purpose-and-policy) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | **291-013-0010 - Definitions** |
 | **291-013-0055 - Applicability of the Rules** |
 | **291-013-0065 - General Provisions — Use of Force** |

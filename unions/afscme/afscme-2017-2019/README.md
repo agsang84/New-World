@@ -5,7 +5,7 @@ description: Contract - TABLE OF CONTENTS
 # AFSCME 2017-2019
 
 | [**ARTICLE 1 - SCOPE OF AGREEMENT** ](afscme-articles-1-10.md#article-1-scope-of-agreement) | [**ARTICLE 2 - TERM OF AGREEMENT** ](afscme-articles-1-10.md#article-2-term-of-agreement) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | [**ARTICLE 3 - UNION SECURITY**](afscme-articles-1-10.md#article-3-union-security) | [**ARTICLE 4 - UNION/MANAGEMENT MEETINGS** ](afscme-articles-1-10.md#article-4-union-management-meetings) |
 | [**ARTICLE 5 - LEGISLATIVE ACTION** ](afscme-articles-1-10.md#article-5-legislative-action) | [**ARTICLE 6 - EFFECT OF LAWS AND RULES** ](afscme-articles-1-10.md#article-6-effect-of-laws-and-rules) |
 | [**ARTICLE 7 - SEPARABILITY OF PROVISIONS** ](afscme-articles-1-10.md#article-7-separability-of-provisions) | [**ARTICLE 9 - EQUAL OPPORTUNITY** ](afscme-articles-1-10.md#article-9-equal-opportunity) |

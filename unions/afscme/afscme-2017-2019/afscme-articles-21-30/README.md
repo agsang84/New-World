@@ -258,7 +258,7 @@ Rev: 2017
 ### Section 9 - Local Working Conditions by Functional Unit
 
 | [**Coffee Creek Correctional Facility**](25-coffee-creek-correctional-facility.md) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**Columbia River Correctional Institution**](25-columbia-river-correctional-institution.md) |
 | [**Deer Ridge Correctional Institution**](25-deer-ridge-correctional-institution.md) |
 | [**Eastern Oregon Correctional Institution**](25-eastern-oregon-correctional-institution.md) |

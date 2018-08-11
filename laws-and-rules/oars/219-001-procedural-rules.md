@@ -5,7 +5,7 @@ description: Chapter 291 - Division 1
 # 219-001 - Procedural Rules
 
 | [**291-001-0020 - Notice of Proposed Rule**](219-001-procedural-rules.md#291-001-0020-notice-of-proposed-rule) |
-| --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-001-0025 - Model Rules of Procedure**](219-001-procedural-rules.md#291-001-0025-model-rules-of-procedure) |
 | [**291-001-0051 - Inmate Written Submissions on Proposed Rules**](219-001-procedural-rules.md#291-001-0051-inmate-written-submissions-on-proposed-rules) |
 | [**291-001-0060 - Mailing List Fees**](219-001-procedural-rules.md#291-001-0060-mailing-list-fees) |

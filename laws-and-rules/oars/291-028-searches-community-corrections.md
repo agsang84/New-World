@@ -1,7 +1,7 @@
 # 291-028 - Searches \(Community Corrections\)
 
 | [**291-028-0100 - Authority, Purpose, and Policy**](291-028-searches-community-corrections.md#291-028-0100-authority-purpose-and-policy) |
-| --- | --- | --- | --- |
+| :--- |
 | [**291-028-0105 - Definitions**](291-028-searches-community-corrections.md#291-028-0105-definitions) |
 | [**291-028-0110 - General Guidelines**](291-028-searches-community-corrections.md#291-028-0110-general-guidelines) |
 | [**291-028-0115 - Handling and Disposition of Seized Property**](291-028-searches-community-corrections.md#291-028-0115-handling-and-disposition-of-seized-property) |

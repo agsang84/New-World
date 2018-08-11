@@ -1,7 +1,7 @@
 # 291-026 - Contracts and Governmental Agreements
 
 | [**291-026-0005 - Authority, Purpose and Policy**](untitled.md#291-026-0005-authority-purpose-and-policy) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-026-0010 - Definitions**](untitled.md#291-026-0010-definitions) |
 | [**291-026-0015 - Contract Classification**](untitled.md#291-026-0015-contract-classification) |
 | [**291-026-0025 - Department of Corrections and Other Required Approvals**](untitled.md#291-026-0025-department-of-corrections-and-other-required-approvals) |

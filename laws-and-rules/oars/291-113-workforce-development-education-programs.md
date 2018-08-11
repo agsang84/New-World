@@ -1,7 +1,7 @@
 # 291-113 - Workforce Development Education Programs
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-113-0005 Authority, Purpose and Policy

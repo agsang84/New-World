@@ -1,7 +1,7 @@
 # 291-121 - Handiwork \(Inmate Manufacture and Sales\)
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-121-0005 Authority, Purpose, and Policy

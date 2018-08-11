@@ -1,7 +1,7 @@
 # 20.1.6 - Dress Code
 
 | **Effective:** | 07/10/2015 |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Supersedes:** | 12/12/2005 |
 | **Applicability:** | Classified \(where not in conflict with collective bargaining  agreements\), management service, executive service,  temporary employees, volunteers, contractors, and any persons employed by private or public sector agencies  who are serving under department sanction special  assignment to provide services and/or support  to department programs within any DOC facility. |
 | **Directives / Cross-Reference:** | Respiratory Protection – 20.6.9 |

@@ -1,7 +1,7 @@
 # 291-016 - Facility Access
 
 | [**291-016-0010 - Authority, Purpose, and Policy**](291-016-facility-access.md#291-016-0010-authority-purpose-and-policy) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-016-0020 - Definitions**](291-016-facility-access.md#291-016-0020-definitions) |
 | [**291-016-0030 - General Guidelines**](291-016-facility-access.md#291-016-0030-general-guidelines) |
 | [**291-016-0040 - Employee Access**](291-016-facility-access.md#291-016-0040-employee-access) |

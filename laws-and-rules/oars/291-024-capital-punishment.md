@@ -5,7 +5,7 @@ description: (Death by Lethal Injection)
 # 291-024 - Capital Punishment
 
 | [**291-024-0005 - Authority, Purpose, and Policy**](291-024-capital-punishment.md#291-024-0005-authority-purpose-and-policy) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | [**291-024-0010 - Definitions**](291-024-capital-punishment.md#291-024-0010-definitions) |
 | [**291-024-0015 - Reception, Orientation, and Housing**](291-024-capital-punishment.md#291-024-0015-reception-orientation-and-housing) |
 | [**291-024-0016 - Receipt of Death Warrant**](291-024-capital-punishment.md#291-024-0016-receipt-of-death-warrant) |

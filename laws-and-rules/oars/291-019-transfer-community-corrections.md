@@ -1,7 +1,7 @@
 # 291-019 - Transfer \(Community Corrections\)
 
 | **291-019-0100 - Authority, Purpose, and Policy** |
-| --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | **291-019-0110 - Definitions** |
 | **291-019-0120 - General** |
 | **291-019-0130 - Transfers of Supervision Between Community Corrections Agencies: Standards for Request and Acceptance** |

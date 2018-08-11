@@ -5,7 +5,7 @@ description: (DISCIPLINARY)
 # 291-011 - Segregation
 
 | **291-011-0005**  Authority, Purpose, and Policy |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- |
 | **291-011-0010**  Definitions |
 | **291-011-0015**  Selection of Disciplinary Segregation Unit \(DSU\) Staff |
 | **291-011-0020**  Handling Disturbances/Officer-in-Charge |

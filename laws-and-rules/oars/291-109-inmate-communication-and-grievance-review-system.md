@@ -1,7 +1,7 @@
 # 291-109 - Inmate Communication & Grievance Review System
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-109-0100 Authority, Purpose, and Policy

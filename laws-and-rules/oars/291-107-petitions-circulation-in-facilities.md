@@ -1,7 +1,7 @@
 # 291-107 - Petitions \(Circulation in Facilities\)
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-107-0005 Authority, Purpose and Policy

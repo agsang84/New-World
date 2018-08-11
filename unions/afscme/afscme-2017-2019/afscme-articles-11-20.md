@@ -65,7 +65,7 @@ Effective June 15, 2018 all pay rates shall be increased by one percent \(1%\).
 Effective January 1, 2019, the following classifications shall be adjusted as indicated below:
 
 | Class \# | Classification Title | Salary From | Range To |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | 6775 | Corrections Officer | 17 | 18 |
 | 6776 | Corporal | 18 | 19 |
 | 6777 | Sergeant | 20 | 21 |

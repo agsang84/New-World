@@ -22,7 +22,7 @@
 ## Host Properties
 
 | Properties Name | Properties Description |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Name | The name of the computer on which Schedule Track is installed \(cannot be changed\). |
 | Description | This is a description of the checkpoint, with a maximum length of 50 characters. |
 | Location | From the dropdown list, click the name of the Institution or Facility where the Schedule Track scanner is located. **This value is required.** |

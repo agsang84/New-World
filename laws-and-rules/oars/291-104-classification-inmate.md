@@ -1,7 +1,7 @@
 # 291-104 - Classification \(Inmate\)
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-104-0106 Authority, Purpose, and Policy

@@ -1,7 +1,7 @@
 # 291-117 - Personal Property \(Inmate\)
 
 |  |
-| --- | --- |
+| :--- |
 |  |
 
 ## 291-117-0005 Authority, Purpose, and Policy

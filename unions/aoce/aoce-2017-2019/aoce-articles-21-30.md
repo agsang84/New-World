@@ -7,7 +7,7 @@
 A. After having served in the State service for six \(6\) full calendar months, full-time employees shall be credited with six \(6\) days of vacation leave, and thereafter, vacation leave shall be accumulated as follows:
 
 | After six \(6\) months through fifth \(5th\) year | Fifteen \(15\) workdays for each twelve \(12\) full calendar months of service \(ten \(10\) hours per month\) |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | After fifth \(5th\) year through tenth \(10th year\) | Eighteen \(18\) workdays for each twelve \(12\) full calendar months of service \(twelve \(12\) hours per month\) |
 | After tenth \(10th\) year through fifteenth \(15th\) year | Twenty-one \(21\) workdays for each twelve \(12\) full calendar months of service \(fourteen \(14\) hours per month\) |
 | After fifteenth \(15th\) year through twentieth \(20th\) year | Twenty-four \(24\) workdays for each twelve \(12\) full calendar months of service \(sixteen \(16\) hours per month\) |
@@ -61,7 +61,7 @@ E. OSP, MCCF, SFFC and OSCI will each bid separately.
 F. In addition to the language in Article 21 \(Vacation Leave\) on vacation scheduling, and subject to Institution management establishing the number of vacation slots, custody employees shall select their vacation weeks on the basis of their seniority in the Agency with Sergeants, Corporals and Corrections Officers being considered as one \(1\) classification for this purpose as provided for below:
 
 | Years of Service | Number of Weeks |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | After 15 years | Unlimited |
 | After 10 through 15 years | 4 |
 | After 3 through 10 years | 3 |
